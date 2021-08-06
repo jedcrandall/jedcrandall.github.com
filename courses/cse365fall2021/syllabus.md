@@ -20,7 +20,31 @@ This course will provide students with a basic and comprehensive understanding o
 
 ## Instruction Style
 
-The course will be a combination of lectures and homework assignments.  Attendance is required, but will not be recorded (i.e., honor system).
+The course will be a combination of lectures and homework assignments.
+Attendance is required, but will not be recorded (i.e., honor system).
+
+For questions and answers regarding course materials and homework please use
+Piazza or come to office hours, unless there is some compelling reason to use
+email.  Use email for course administrativia (requesting an extension, you need
+a signature from me for some reason, etc.)  Feel free to email me any time for
+anything, but if you're asking questions about the homework or lectures you're
+much more likely to get a timely response in Piazza than via email.
+
+All homeworks should be done in Linux, specifically MX Linux 19.4.  If you use
+other Linux distros or other OSes you do so at your own risk, and with no
+guarantee of support from me.  If you're familiar with Linux you can probably
+get the homeworks done in your distro of choice without too much trouble.  I'll
+try to help but will need to prioritize the needs of students who stuck with MX
+Linux 19.4.  If you attempt to do the homeworks in Mac OS, it's probably
+possible but it's going to be painful and I can't help you at all.  The same
+goes for any BSD-based OS.  If your OS of choice is another UNIX, like Solaris,
+I also can't help you with OS-specific questions and...seriously?  If you
+attempt to do the homework in OSes that don't have a native UNIX-like shell,
+such as Windows, you will most likely fail.  There are exceptions, but unless
+you've been competing in CtFs with your OS of choice for years and already have
+an environment set up for dealing with raw files, common file formats, packet
+captures, ELF binaries, etc., please just use the provided Linux virtual
+machine or install MX Linux 19.4 in a virtual machine of your own.
 
 ## Prerequisites
 
