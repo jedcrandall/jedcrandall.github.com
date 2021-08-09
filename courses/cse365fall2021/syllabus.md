@@ -46,6 +46,13 @@ an environment set up for dealing with raw files, common file formats, packet
 captures, ELF binaries, etc., please just use the provided Linux virtual
 machine or install MX Linux 19.4 in a virtual machine of your own.
 
+You are responsible for your own file backups and time management.  E.g., feel
+free email me, or post in Piazza, the day before something is due, "I worked on
+it all day and then my VM crashed and I lost my file!"  But, that's not grounds
+for an extension and I'm not going to be able to do anything about it to make
+sure you submit your homework on time.  I recommend keeping your code and other
+work for this course in a private repository.
+
 ## Prerequisites
 
 Computer Information Systems BS major, Computer Systems Engineering BSE major, Computer Science BS major, or Industrial Engineering BSE major; CIS 235, CSE 220, or CSE 240 with C or better.
@@ -110,6 +117,16 @@ You will not turn in your source code for most assignments, and maybe not any as
 All assignments are graded automatically by graders with anti-cheating mechanisms built-in.
 Do not cheat -- it is not worth risking your grade and your academic profile.
 
+## Security token
+
+As part of the first homework, you will generate a 128-bit MD5 token that will
+serve as a sort of student ID for the course.  You are not to make this token
+public; share it with any of your classmates; share it with anybody other than
+the instructor, yourself, and the TAs; find out the token of and of your
+classmates; or in any way compromise the confidentiality policy that only you
+yourself and the instructor/TAs for the course should know your security token.
+If you violate this policy that will be considered cheating as per the policy
+above.
 
 ## Sexual Discrimination
 
