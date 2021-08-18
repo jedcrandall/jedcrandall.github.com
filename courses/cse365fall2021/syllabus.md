@@ -5,7 +5,7 @@
 - Course Name: CSE 365
 - Instructor: Jed Crandall
 - Email: jedimaestro@asu.edu
-- Office Hours: TBA
+- Office Hours: TBA (in Piazza)
 - Meeting Times: Tuesday and Thursday, 10:30am to 11:45am or 4:30pm to 5:45pm, depending on what section you're registered for
 - Meeting Location: Classroom (check MyASU)
 - Online Discussions: [Piazza](https://piazza.com/asu/fall2021/cse365/home)
@@ -57,6 +57,19 @@ for an extension and I'm not going to be able to do anything about it to make
 sure you submit your homework on time.  I recommend keeping your code and other
 work for this course in a private repository that you periodically commit to.
 
+## Breakout sessions
+
+There will be Piazza discussions and meetings created around certain topics,
+and you're allowed to create these on your own.  These are intended to develop
+a sense of fellowship among the CSE 365 students this semester and allow
+students to gather in a way that is centered around common interests.  E.g.,
+myself or one of you might create a Piazza discussion with something like,
+"Who's interested in learning more about digital forensics?"  If enough people
+respond we can set up a Zoom meeting for the subset of the class that is
+interested.  Participation in these breakout sessions is not required and does
+not affect your grade, but I strongly encourage you to participate in at least
+a couple of them.
+
 ## Prerequisites
 
 Computer Information Systems BS major, Computer Systems Engineering BSE major,
@@ -91,7 +104,9 @@ will not be any exams.
 
 ### Homework Assignments
 
-There will be 300 points of homeworks throughout the semester, divided into cryptography (100 pointstotal), network security (100 points total), and system and application security (100 points total).
+There will be 300 points of homeworks throughout the semester, divided into
+cryptography (100 points total), network security (100 points total), and system
+and application security (100 points total).
 
 ## Grading
 
