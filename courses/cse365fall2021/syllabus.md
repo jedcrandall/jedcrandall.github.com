@@ -4,19 +4,23 @@
 
 - Course Name: CSE 365
 - Instructor: Jed Crandall
-- Emails: jedimaestro@asu.edu
+- Email: jedimaestro@asu.edu
 - Office Hours: TBA
-- Meeting Times: Tuesday and Thursday, 10:30am to 11:45am or 4:30pm to 5:45pm
+- Meeting Times: Tuesday and Thursday, 10:30am to 11:45am or 4:30pm to 5:45pm, depending on what section you're registered for
 - Meeting Location: Classroom (check MyASU)
-- Online Discussions: [Piazza TODO](https://piazza.com/todo)
+- Online Discussions: [Piazza](https://piazza.com/asu/fall2021/cse365/home)
 
 ## TAs
 
-### TBA
+There are two TAs for the course.  I'll announce their names and office hours in Piazza.
 
 ## Course Description
 
-This course will provide students with a basic and comprehensive understanding of the problems of information assurance (IA) and the solutions to these problems, especially the security of information on computers and networks. This course will focus on the IA technology as well as IA policy, management, legal, and ethical aspects.
+This course will provide students with a basic and comprehensive understanding
+of the problems of information assurance (IA) and the solutions to these
+problems, especially the security of information on computers and networks.
+This course will focus on the IA technology as well as IA policy, management,
+legal, and ethical aspects.
 
 ## Instruction Style
 
@@ -51,11 +55,13 @@ free email me, or post in Piazza, the day before something is due, "I worked on
 it all day and then my VM crashed and I lost my file!"  But, that's not grounds
 for an extension and I'm not going to be able to do anything about it to make
 sure you submit your homework on time.  I recommend keeping your code and other
-work for this course in a private repository.
+work for this course in a private repository that you periodically commit to.
 
 ## Prerequisites
 
-Computer Information Systems BS major, Computer Systems Engineering BSE major, Computer Science BS major, or Industrial Engineering BSE major; CIS 235, CSE 220, or CSE 240 with C or better.
+Computer Information Systems BS major, Computer Systems Engineering BSE major,
+Computer Science BS major, or Industrial Engineering BSE major; CIS 235, CSE
+220, or CSE 240 with C or better.
 
 ## Textbook
 
@@ -105,7 +111,7 @@ submissions will be accepted with a 1% reduction of score per hour.
 This course has a zero-tolerance policy:
 Any violation of the academic integrity policy (detailed below) will lead to a failure on this course.
 The violation will be reported to the Dean's office.
-If you need more time to accomplish a homework assignment, please tell the instructors and ask for an extension.
+If you need more time to accomplish a homework assignment, please tell the instructors and ask for an extension.  Extensions will be considered for circumstances that are/were beyond your control.
 Do not attempt plagiarism.
 
 As an ASU student, you must follow both the [ASU Student of Conduct](https://www.asu.edu/aad/manuals/ssm/ssm104-01.html) and the [ASU Student Academic Integrity Policy](http://provost.asu.edu/academicintegrity/policy).
@@ -122,7 +128,7 @@ Do not cheat -- it is not worth risking your grade and your academic profile.
 As part of the first homework, you will generate a 128-bit MD5 token that will
 serve as a sort of student ID for the course.  You are not to make this token
 public; share it with any of your classmates; share it with anybody other than
-the instructor, yourself, and the TAs; find out the token of and of your
+the instructor, yourself, and the TAs; find out the token of any of your
 classmates; or in any way compromise the confidentiality policy that only you
 yourself and the instructor/TAs for the course should know your security token.
 If you violate this policy that will be considered cheating as per the policy
@@ -130,22 +136,37 @@ above.
 
 ## Sexual Discrimination
 
-Title IX is a federal law that provides that no person be excluded on the basis of sex from participation in, be denied benefits of, or be subjected to discrimination under any education program or activity.
-Both Title IX and university policy make clear that sexual violence and harassment based on sex is prohibited.
-An individual who believes they have been subjected to sexual violence or harassed on the basis of sex can seek support, including counseling and academic support, from the university.
-If you or someone you know has been harassed on the basis of sex or sexually assaulted, you can find information and resources at https://sexualviolenceprevention.asu.edu/faqs.
-
-As mandated reporters, the instructors and TAs of this course are obligated to report any information they become aware of regarding alleged acts of sexual discrimination, including sexual violence and dating violence.
-ASU Counseling Services, https://eoss.asu.edu/counseling is available if you wish to discuss any concerns confidentially and privately.
-ASU online students may access 360 Life Services, https://goto.asuonline.asu.edu/success/online-resources.html.
+Title IX is a federal law that provides that no person be excluded on the basis
+of sex from participation in, be denied benefits of, or be subjected to
+discrimination under any education program or activity.  Both Title IX and
+university policy make clear that sexual violence and harassment based on sex
+is prohibited.  An individual who believes they have been subjected to sexual
+violence or harassed on the basis of sex can seek support, including counseling
+and academic support, from the university.  If you or someone you know has been
+harassed on the basis of sex or sexually assaulted, you can find information
+and resources at [https://sexualviolenceprevention.asu.edu/faqs](https://sexualviolenceprevention.asu.edu/faqs).  
+ 
+As a mandated reporter, I am obligated to report any information I become aware
+of regarding alleged acts of sexual discrimination, including sexual violence
+and dating violence.  ASU Counseling Services, [https://eoss.asu.edu/counseling](https://eoss.asu.edu/counseling)
+is available if you wish to discuss any concerns confidentially and privately.
+ASU online students may access 360 Life Services,
+[https://goto.asuonline.asu.edu/success/online-resources.html](https://goto.asuonline.asu.edu/success/online-resources.html). 
 
 ## Copyright
 
-All course content and materials, including lectures (Zoom recorded lectures included), are copyrighted materials.
-You may not share outside the class, upload to online websites not approved by the instructor, sell, or distribute course content or notes taken during the conduct of the course.
-See ACD 304-06, "Commercial Note Taking Services" and ABOR Policy 5-308 F.14 for more information.
+All course content and materials, including lectures (Zoom recorded lectures
+included), are copyrighted materials.  You may not share outside the class,
+upload to online websites not approved by the instructor, sell, or distribute
+course content or notes taken during the conduct of the course.  See ACD
+304-06, "Commercial Note Taking Services" and ABOR Policy 5-308 F.14 for more
+information.
 
-You must refrain from uploading to any course shell, discussion board, or website used by the course instructor or other course forum, material that is not the student's original work, unless the students first comply with all applicable copyright laws; faculty members reserve the right to delete materials on the grounds of suspected copyright infringement.
+You must refrain from uploading to any course shell, discussion board, or
+website used by the course instructor or other course forum, material that is
+not the student's original work, unless the students first comply with all
+applicable copyright laws; faculty members reserve the right to delete
+materials on the grounds of suspected copyright infringement.
 
 ## Future Changes
 
@@ -157,38 +178,32 @@ Any information in this syllabus may be subject to change with reasonable advanc
 
 | Date  | Content                     |
 |-------|-----------------------------|
-| 8/20  | Introduction to Information Assurance & Overview  |
-| 8/25  | Access Control                                    |
-| 8/27  | Cryptography A                                    |
-| 9/1   | Cryptography B                                    |
-| 9/3   | Cryptography C                                    |
-| 9/7   | Labor Day                                         |
-| 9/8   | Cryptography D                                    |
-| 9/10  | Authentication                                    |
-| 9/15  | Network Security A                                |
-| 9/17  | Network Security B                                |
-| 9/22  | Network Security C                                |
-| 9/24  | Network Security D                                |
-| 9/29  | Anonymity & Internet Censorship                   |
-| 10/1  | Societal Impact of Security                       |
-| 10/6  | Application Security A & CTF Intro                |
-| 10/8  | Application Security B                            |
-| 10/9-10/12 | Fall break                                   |
-| 10/13 | In-class CTF 1                                    |
-| 10/15 | Application Security C & CTF postmortem           |
-| 10/20 | Application Security D                            |
-| 10/22 | In-class CTF 2                                    |
-| 10/27 | Application Security E                            |
-| 10/29 | Application Security F                            |
-| 11/3  | In-class CTF 3                                    |
-| 11/5  | Application Security G                            |
-| 11/10 | Web Security A                                    |
-| 11/11 | Veterans Day                                      |
-| 11/12 | In-class CTF 4                                    |
-| 11/17 | Web Security B                                    |
-| 11/19 | In-class CTF 5                                    |
-| 11/24 | Web Security C                                    |
-| 11/26 | Thanksgiving                                      |
-| 12/1  | Web Security D                                    |
-| 12/3  | Web Security E                                    |
-| 12/?? | Final CTF                                         |
+| 8/19  | Guest lecture               |
+| 8/24  | Course introduction         |
+| 8/26  | Cryptography A (hash functions)      |
+| 9/2   | Cryptography B (symmetric)               |
+| 9/7   | Cryptography C (asymmetric)               |
+| 9/9   | Cryptography D (attacks)                                         |
+| 9/14   | UNIX Basics                  |
+| 9/16  | Network Security A                                |
+| 9/21  | Network Security B                               |
+| 9/23  | Network Security C                                |
+| 9/28  | Network Security D                                |
+| 9/30  | Authentication                                 |
+| 10/5  | Anonymity & Tor                   |
+| 10/7  | Internet censorship                       |
+| 10/12  | Fall break               |
+| 10/14  | Application Security A (compiler and memory basics)      |
+| 10/19 | Application Security B (buffer overflows)                |
+| 10/21 | Application Security C (Werewolves)              |
+| 10/26 | Thanksgiving          |
+| 10/28 | Application Security D  (Werewolves)            |
+| 11/2 | Saltzer and Schroeder                                  |
+| 11/4 | VPNs                            |
+| 10/9 | Policy and access control                            |
+| 11/11  | Information flow, confinement problem, covert channels             |
+| 11/16  | Malware, intrusion detection                         |
+| 11/18 | Forensics                                   |
+| 11/23 | TBD (please send suggestions of things you'd like us to learn about together as a class)                                      |
+| 11/25 | TBD                                    |
+| 12/2 | TBD                                    |
