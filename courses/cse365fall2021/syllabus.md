@@ -220,5 +220,5 @@ Any information in this syllabus may be subject to change with reasonable advanc
 | 11/16  | Malware, intrusion detection                         |
 | 11/18 | Forensics                                   |
 | 11/23 | TBD (please send suggestions of things you'd like us to learn about together as a class)                                      |
-| 11/25 | TBD                                    |
+| 11/25 | TBD (social engineering? cyberbullying?)                  |
 | 12/2 | TBD                                    |
