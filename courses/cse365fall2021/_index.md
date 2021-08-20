@@ -16,3 +16,6 @@
 # Homework
 
 Homeworks will be posted here, no homework has been assigned yet.
+
+# Slides
+[Tony's slides from the guest lecture on the first day](tonysslides.pdf)
