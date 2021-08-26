@@ -20,4 +20,4 @@ Homeworks will be posted here, no homework has been assigned yet.
 # Slides
 - [Tony's slides from the guest lecture on the first day](tonysslides.pdf)
 - [Intro slides](intro.pdf)
-- [Hash function slides](hashfunctions.pdf)
+- [Hash function slides](hashfunctions.pdf), example jpeg images are [here](citlab-afa92a14854d6ac92d8a8446145b4d1b.jpeg) and [here](lxb-afa92a14854d6ac92d8a8446145b4d1b.jpeg)
