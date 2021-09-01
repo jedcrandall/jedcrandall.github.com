@@ -1,13 +1,3 @@
----
-title: Homework 1 part 1
-date: '2021-09-01'
-categories:
-    - Homework
-tags:
-    - Homework
-    - Crypto
-unlisted: false
----
 
 # Homework 1 part 1
 
