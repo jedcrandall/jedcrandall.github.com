@@ -22,3 +22,4 @@
 - [Intro slides](intro.pdf)
 - [Hash function slides](hashfunctions.pdf), example jpeg images are [here](citlab-afa92a14854d6ac92d8a8446145b4d1b.jpeg) and [here](lxb-afa92a14854d6ac92d8a8446145b4d1b.jpeg)
 - [Cryptography slides](Cryptography.pdf)
+- [Cryptanalysis slides](cryptanalysis.pdf)
