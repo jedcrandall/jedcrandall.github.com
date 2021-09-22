@@ -16,6 +16,7 @@
 # Homework
 
 - Homework 1 part 1 is [here](https://jedcrandall.github.io/courses/cse365fall2021/hw1part1.html).
+- Homework 1 parts 2, 3, and 4 are [here](https://jedcrandall.github.io/courses/cse365fall2021/hw1rest.html).
 
 # Slides
 - [Tony's slides from the guest lecture on the first day](tonysslides.pdf)

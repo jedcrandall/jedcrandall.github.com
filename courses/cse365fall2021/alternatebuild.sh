@@ -6,3 +6,4 @@
 # python3 -m markdown -x markdown.extensions.tables hw1rest.md > hw1rest.html
 
 pandoc hw1rest.md -t html -o hw1rest.html
+pandoc _index.md -t html -o index.html
