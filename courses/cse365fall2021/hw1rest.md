@@ -33,7 +33,7 @@ There is also a common tarball, with source code and other things you will find 
 
 For all of the code provided to run properly, you'll need to set up your environment.  If you're using the same version of MX Linux as me, this should be as simple as:
 
-```
+```bash
 sudo apt install python3-pip
 pip3 install --upgrade setuptools
 pip3 install pyshark
@@ -199,19 +199,19 @@ __Note that not turning this one in won't count against your grade, it is extra 
 
 __Number of points of extra credit TBD__
 
-A 3-round implementation of AES is [here](/files/hw0/rijndael-fewerrounds.py).
-Develop a chosen plaintext attack against it.  When you have a working attack
-(please don't request ciphertext before your attack is actually working in your
-own tests because the file transfers will be large and logistics non-trivial),
-make arrangements with Prof. Crandall to receive ciphertext corresponding to
-plaintext you provide.  Prof. Crandall will use the same key he used for
-encrypting `part4ciphertext.bin`, so you can then turn in the plaintext that
-corresponds with it along with your source code.  Note that if you choose to
-attempt the extra credit you'll be largely on your own when it comes to
-figuring out the details of mounting a chosen plaintext attack.  We can provide
-resources and general directions but cannot invest too much time in helping
-with specifics because of the large number of students who will likely need
-help on the main part of the assignment.
+A 3-round implementation of AES is available in the common tar ball linked to
+above.  Develop a chosen plaintext attack against it.  When you have a working
+attack (please don't request ciphertext before your attack is actually working
+in your own tests because the file transfers will be large and logistics
+non-trivial), make arrangements with Prof. Crandall to receive ciphertext
+corresponding to plaintext you provide.  Prof. Crandall will use the same key
+he used for encrypting `part4ciphertext.bin`, so you can then turn in the
+plaintext that corresponds with it along with your source code.  Note that if
+you choose to attempt the extra credit you'll be largely on your own when it
+comes to figuring out the details of mounting a chosen plaintext attack.  We
+can provide resources and general directions but cannot invest too much time in
+helping with specifics because of the large number of students who will likely
+need help on the main part of the assignment.
 
 **You will submit this one over email to Prof. Crandall.**
 Submit a tarball with the plaintext and your source code.
