@@ -127,7 +127,7 @@ In your tarball in the `withoutkey` directory, you'll find three files:
 3. `sha512sums.txt` - sha51sums of the correct answers.
 
 This time you are not provided with any keys.  Use the techniques discussed in
-class to mount plaintext-only attacks on both of these ciphertexts.  Note that
+class to mount ciphertext-only attacks on both of these ciphertexts.  Note that
 Julia's cipher is not the same as a Vigenere cipher.  You'll need to use the
 basic insights you learned, but the specifics from the slides won't be exactly
 what you're doing.
