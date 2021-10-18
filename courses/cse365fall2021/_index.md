@@ -25,3 +25,6 @@
 - [Cryptography slides](Cryptography.pdf)
 - [Cryptanalysis slides](cryptanalysis.pdf)
 - [Network security](networksecurity.pdf)
+- [Port scans](portscan.pdf)
+- [Tor](DEFCON-27-Roger-Dingledine-TOR-Censorship-Arms-Race.pdf)
+
