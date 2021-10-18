@@ -1,4 +1,3 @@
-
 # Homeworks 1.2, 1.3, and 1.4: Cryptography and cryptanalysis
 
 This assignment has three parts, with three different due dates.  Please be
@@ -231,7 +230,7 @@ logistical issues with how homeworks are submitted for homework 2.
 You can check your grades on 1.2 and 1.3 by taking this URL and replacing
 "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" with your MD5 digest:
 
-[https://207.246.62.10/gradestoreturn/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.txt](https://207.246.62.10/filesforstudents/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.txt)
+[https://207.246.62.10/gradestoreturn/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.txt](https://207.246.62.10/gradestoreturn/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.txt)
 
 ### I turned something in but there is no text file with my grades, I get a 404 error...
 
