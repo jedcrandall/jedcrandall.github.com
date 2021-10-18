@@ -215,3 +215,43 @@ need help on the main part of the assignment.
 
 **You will submit this one over email to Prof. Crandall.**
 Submit a tarball with the plaintext and your source code.
+
+# UPDATE
+
+The new deadline for homeworks 1.2, 1.3, and 1.4 is **October 31st, 2021**.  You
+can now resubmit as many times as you like, I'll always grade the latest one.
+You can check your grades (which I'll post periodically between now and the
+deadline) and update your submission.  You can submit and get full credit even
+if you didn't submit anything by the original deadline.  I want to get this
+right and make sure you all do well on homework 1.  I'll try to fix all the
+logistical issues with how homeworks are submitted for homework 2.
+
+## How to check your grades
+
+You can check your grades on 1.2 and 1.3 by taking this URL and replacing
+"NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" with your MD5 digest:
+
+[https://207.246.62.10/gradestoreturn/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.txt](https://207.246.62.10/filesforstudents/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.txt)
+
+### I turned something in but there is no text file with my grades, I get a 404 error...
+
+Send me an email from your @asu.edu email address and give me your MD5 and ID number.
+
+### I'm happy with my grade, do I need to re-submit anything?
+
+No, no need to resubmit.
+
+### I thought I got it exactly correct, but the grade doesn't reflect that.
+
+Make sure that you turned in the right file in the right place, everything you
+turned in was a text file with something at least resembling English in it, and
+that you matched the sha512sum.  If you still don't know what the problem was,
+post a private message to me in Piazza and include your ASUrite ID.
+
+### I don't have my tar ball yet, or I don't know where to get started on 1.2 and/or 1.3.
+
+I plan on doing one last round of tar balls soon.  You should have started on
+the homework a long time ago, you're benefiting from the extension that was due
+to logistical errors but you really need to start keeping up with the course.
+Homework 2 will be assigned very soon and overlap with homework 1, so the sooner you get homework 1 done the better.
+
