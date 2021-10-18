@@ -254,3 +254,8 @@ the homework a long time ago, you're benefiting from the extension that was due
 to logistical errors but you really need to start keeping up with the course.
 Homework 2 will be assigned very soon and overlap with homework 1, so the sooner you get homework 1 done the better.
 
+### I sent you my homework 1.2 or 1.3 by email and/or did the extra credit for 1.1
+
+You'll need to resubmit 1.2 or 1.3 through the Google form.  I received too
+many such emails to manually grade them all.  I haven't yet graded the extra
+credit for 1.1, but will.
