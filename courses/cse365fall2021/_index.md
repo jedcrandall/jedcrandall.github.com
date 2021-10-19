@@ -27,4 +27,5 @@
 - [Network security](networksecurity.pdf)
 - [Port scans](portscan.pdf)
 - [Tor](DEFCON-27-Roger-Dingledine-TOR-Censorship-Arms-Race.pdf)
+- [How Tor works](https://images.idgesg.net/images/article/2018/07/tor-3-100763520-large.jpg)
 
