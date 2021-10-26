@@ -25,7 +25,7 @@
 - [Cryptography slides](Cryptography.pdf)
 - [Cryptanalysis slides](cryptanalysis.pdf)
 - [Network security](networksecurity.pdf)
-- [Port scans](portscan.pdf)
+- [Port scans](portscans.pdf)
 - [Tor](DEFCON-27-Roger-Dingledine-TOR-Censorship-Arms-Race.pdf)
 - [How Tor works](https://images.idgesg.net/images/article/2018/07/tor-3-100763520-large.jpg)
 - [NAT, VPNs, and TCP](natvpnsandtcp.pdf)
