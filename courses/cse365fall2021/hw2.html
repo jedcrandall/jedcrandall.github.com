@@ -1,0 +1,41 @@
+<h1 id="homework-2-parts-1-2-and-3">Homework 2, parts 1, 2, and 3</h1>
+<p>This assignment has three parts, with three different due dates. Please be mindful of that. For each you will submit a plain text file (not a zip or anything like that) that has a very specific format. Please be mindful of the format as the grading is automated. More info about the format is at the bottom.</p>
+<p>The <code>streamy.py</code> file provided for the last homework assignment is a good starting point for how to write a Python script to parse a pcap file. For each question, think about whether tshark, Wireshark, a custom Python script you write, or something else is the right tool for the job.</p>
+<h2 id="notes">Notes</h2>
+<p>This is an individual assignment. DO NOT share your solution with others or use solutions from others. You may have high-level discussions with your classmates about it, and you may share any source code that existed before the assignment was assigned and is not related to any similar assignment for any past offering of CSE 365 at ASU.</p>
+<p><strong>WARNING: START EARLY! Each part is a substantial amount of work.</strong></p>
+<h2 id="preparation-downloading-your-tarball">Preparation: Downloading your tarball</h2>
+<p><a href="https://207.246.62.10/filesforstudents/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN-netsec.tgz" class="uri">https://207.246.62.10/filesforstudents/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN-netsec.tgz</a></p>
+<p>The SHA-256 sum for the certificate on that web server is “7E:F1:12:D4:A5:4F:92:30:AA:DC:D1:F5:14:3C:D8:D0:A5:FE:DB:52:9E:FC:A6:D2:22:4F:D1:D7:7A:BA:71:8C”, please confirm it manually and then make an exception for your web browser to go to the site.</p>
+<p>Do not share your tarball with others.</p>
+<p>WireShark, tshark, and pyshark should all be installed on your VM already if you used my VM image and did Homework 1.4. If not, on Debian-based distros you can do:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb1-1" title="1"><span class="fu">sudo</span> apt install python3-pip</a>
+<a class="sourceLine" id="cb1-2" title="2"><span class="fu">sudo</span> apt install wireshark tshark</a>
+<a class="sourceLine" id="cb1-3" title="3"><span class="ex">pip3</span> install --upgrade setuptools</a>
+<a class="sourceLine" id="cb1-4" title="4"><span class="ex">pip3</span> install pyshark</a></code></pre></div>
+<h2 id="homework-2.1-a-horizontal-port-scan">Homework 2.1: A horizontal port scan</h2>
+<p><strong>Due date: 9 November 2021 at 11:59pm MST</strong></p>
+<p><strong>40 out of 100 points</strong></p>
+<p>In your tarball you’ll find <code>horizontal.pcap</code> and <code>part1.txt</code>. Edit <code>part1.txt</code> to answer the questions, keeping in mind the format requirements below. Then submit your edited version of the <code>part1.txt</code> file without any compression or anything like that. Don’t change the name of the file.</p>
+<h2 id="homework-2.2-a-vertical-port-scan">Homework 2.2: A vertical port scan</h2>
+<p><strong>Due date: 15 November 2021 at 11:59pm MST</strong></p>
+<p><strong>40 out of 100 points</strong></p>
+<p>In your tarball you’ll find <code>vertical.pcap</code> and <code>part2.txt</code>. Edit <code>part2.txt</code> to answer the questions, keeping in mind the format requirements below. Then submit your edited version of the <code>part2.txt</code> file without any compression or anything like that. Don’t change the name of the file.</p>
+<h2 id="homework-2.3-a-tcpip-side-channel">Homework 2.3: A TCP/IP side channel</h2>
+<p><strong>Due date: 19 November 2021 at 11:59pm MST</strong></p>
+<p><strong>20 out of 100 points</strong></p>
+<p>In your tarball you’ll find <code>sidechannel.pcap</code> and <code>part3.txt</code>. Edit <code>part3.txt</code> to answer the questions, keeping in mind the format requirements below. Then submit your edited version of the <code>part3.txt</code> file without any compression or anything like that. Don’t change the name of the file.</p>
+<h2 id="format-of-the-text-file-youll-upload">Format of the text file you’ll upload</h2>
+<p>It’s very important that you preserve the format of the text file you submit for each part. We recommend simply editing <code>part1.txt</code> for Homework 2.1, <code>part2.txt</code> for Homework 2.2, and <code>part3.txt</code> for Homework 2.3 and submitting that, with the questions still intact. You can delete lines that start with <strong>#</strong>, or add lines that start with <strong>#</strong> for your own comments if you really want to. The automatic grader will ignore all lines that begin with <strong>#</strong>. However, if you leave the questions in place it will make manual grading easier if that should become necessary for some reason.</p>
+<p>The lines that don’t begin with <strong>#</strong> are your answers. Every answer should be a single line with no whitespace (the grader will remove all whitespace before doing a string comparison, but if your answer has whitespace in it it’s probably not the right answer). You should edit the lines that don’t begin with <strong>#</strong> to put the answer there, there should be no lines in the file that are not answers or comments/questions (comments and homework questions begin with <strong>#</strong>).</p>
+<p>There are only three kinds of answers:</p>
+<ul>
+<li>IP addresses, where you will replace <strong>N.N.N.N</strong> with a valid IPv4 address, such as <strong>98.45.6.31</strong></li>
+<li>MAC/hardware addresses, where you will replace <strong>HH:HH:HH:HH:HH:HH</strong> with a valid MAC/hardware address, like <strong>a4:50:4e:99:2d:55</strong></li>
+<li>Other numbers, which contain only decimal digits and dots. For these you’ll replace <strong>N</strong> with something like <strong>1832</strong> or <strong>4.1.61</strong></li>
+</ul>
+<h2 id="how-to-submit">How to submit</h2>
+<p>You’ll need to submit through this form at least three times (resubmissions are okay, but will be graded according to the deadlines). You’ll submit all three parts through the same form, at three different times. The grading script will apply the deadline for each part.</p>
+<p>Here is the link to submit each of the three parts:</p>
+<p><a href="https://forms.gle/5jpM85Pg26YLN6W9A" class="uri">https://forms.gle/5jpM85Pg26YLN6W9A</a></p>
+<p>Rememeber, do not change the name of the file you submit your answers with. If the filename does not contain the string “part1” for Homework 2.1 then it will be thrown out and not graded, and the same is true for “part2” and “part3” for Homeworks 2.2 and 2.3, respectively.</p>
