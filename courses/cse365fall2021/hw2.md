@@ -21,6 +21,8 @@ past offering of CSE 365 at ASU.
 
 **WARNING: START EARLY! Each part is a substantial amount of work.**
 
+Before you even start on homework 2 you should make sure you've watched [this recorded lecture](https://drive.google.com/file/d/1p6fsOmWWOsBgPQRcZTLl4SH4oTnBZBCa/view?usp=sharing).
+
 ## Preparation: Downloading your tarball
 
 [https://207.246.62.10/filesforstudents/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN-netsec.tgz](https://207.246.62.10/filesforstudents/NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN-netsec.tgz)
