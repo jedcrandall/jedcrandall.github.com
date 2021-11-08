@@ -31,3 +31,4 @@
 - [How Tor works](https://images.idgesg.net/images/article/2018/07/tor-3-100763520-large.jpg)
 - [NAT, VPNs, and TCP](natvpnsandtcp.pdf)
 - [Saltzer and Schroeder](vulnsexploitssaltzerandschroeder.pdf)
+- [Processes, IPC, vulnerabilities, authentication](processesvulnsauth.pdf)
