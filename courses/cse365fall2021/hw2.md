@@ -47,7 +47,7 @@ pip3 install pyshark
 
 ## Homework 2.1: A horizontal port scan
 
-__Due date: 9 November 2021 at 11:59pm MST__
+__Due date: 10 November 2021 at 11:59pm MST__
 
 __40 out of 100 points__
 
