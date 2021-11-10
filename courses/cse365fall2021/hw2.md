@@ -47,7 +47,7 @@ pip3 install pyshark
 
 ## Homework 2.1: A horizontal port scan
 
-__Due date: 10 November 2021 at 11:59pm MST__
+__Due date: 18 November 2021 at 11:59pm MST__
 
 __40 out of 100 points__
 
@@ -58,7 +58,7 @@ anything like that.  Don't change the name of the file.
 
 ## Homework 2.2: A vertical port scan
 
-__Due date: 15 November 2021 at 11:59pm MST__
+__Due date: 19 November 2021 at 11:59pm MST__
 
 __40 out of 100 points__
 
@@ -69,7 +69,7 @@ like that.  Don't change the name of the file.
 
 ## Homework 2.3: A TCP/IP side channel
 
-__Due date: 19 November 2021 at 11:59pm MST__
+__Due date: 20 November 2021 at 11:59pm MST__
 
 __20 out of 100 points__
 
@@ -118,4 +118,11 @@ Rememeber, do not change the name of the file you submit your answers with.  If
 the filename does not contain the string "part1" for Homework 2.1 then it will
 be thrown out and not graded, and the same is true for "part2" and "part3" for
 Homeworks 2.2 and 2.3, respectively. 
+
+## How to check your answers
+
+For any of the parts, if you answer all questions correctly then you should be
+able to match one of [these SHA-256 sums](hw2sha256s.txt).  If you suspect an
+extra newline or something is messing up the hash, then try running [this
+script](makeuniform.sh) based on [this example](checkingsha256s.png).
 
