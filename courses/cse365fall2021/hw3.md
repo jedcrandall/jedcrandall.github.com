@@ -2,11 +2,13 @@
 
 __Due date: 3 December 2021 at 11:59pm MST__
 
-Homework 3 has only one part, and is substantially more simple and less
-time consuming that homeworks 1 and 2, but is still worth 100 points.
+Homework 3 has only one part, and is substantially more simple and less time
+consuming that homeworks 1 and 2, but is still worth 100 points.  Do start on
+it early, though, because it will take some amount of time and you may need to
+get help in Piazza or office hours.
 
 Download [files.tgz](files.tgz), which has ten files in it.  Then submit your
-answers to the questions that are [here]() through the Google form.  You can
+answers to the questions that are [here](https://forms.gle/cnsHm8aVnQ6pCSo78) through the Google form.  You can
 submit as many times as you like up until the deadline, the grading script will
 grade the most recent one (i.e., the last one) that you submit.
 
