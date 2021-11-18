@@ -32,3 +32,6 @@
 - [NAT, VPNs, and TCP](natvpnsandtcp.pdf)
 - [Saltzer and Schroeder](vulnsexploitssaltzerandschroeder.pdf)
 - [Processes, IPC, vulnerabilities, authentication](processesvulnsauth.pdf)
+- [Information flow and policy](infoflowandpolicy.pdf)
+- [Forensics and malware](forensicsmalware.pdf)
+
