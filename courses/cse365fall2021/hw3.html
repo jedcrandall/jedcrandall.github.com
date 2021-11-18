@@ -1,0 +1,31 @@
+<h1 id="homework-3">Homework 3</h1>
+<p><strong>Due date: 3 December 2021 at 11:59pm MST</strong></p>
+<p>Homework 3 has only one part, and is substantially more simple and less time consuming that homeworks 1 and 2, but is still worth 100 points.</p>
+<p>Download <a href="files.tgz" class="uri">files.tgz</a>, which has ten files in it. Then submit your answers to the questions that are <a href="">here</a> through the Google form. You can submit as many times as you like up until the deadline, the grading script will grade the most recent one (i.e., the last one) that you submit.</p>
+<h2 id="notes">Notes</h2>
+<p>Feel free to work in small groups of up to 5 people, or work alone. Don’t give anybody the answers, rather help them work through the solutions on their own or work through them together. Do not post solutions in forums that students outside your group of up to 5 will see.</p>
+<p>This is an individual assignment. DO NOT share your solution with others or use solutions from others, unless they’re in your group and you help them understand the solution. You may have high-level discussions with your classmates (in your group or not) about it, and you may share any source code that existed before the assignment was assigned and is not related to any similar assignment for any past offering of CSE 365 at ASU. But no source code should be necessary, Linux command line tools can be used to answer all the questions.</p>
+<p>Everything you need except for exif should be installed on any Linux distro. On Debian-based distros you can do this to get exif:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb1-1" title="1"><span class="fu">sudo</span> apt install exif</a></code></pre></div>
+<h2 id="some-hints">Some hints</h2>
+<p>There will be no way to check your answers (you can certainly get help from the instructor and TAs, but there will be no explicit checking of answers).</p>
+<p>You should read the man pages about each of these commands/system calls, after you install exif:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb2-1" title="1"><span class="fu">man</span> gzip</a>
+<a class="sourceLine" id="cb2-2" title="2"><span class="fu">man</span> bzip2</a>
+<a class="sourceLine" id="cb2-3" title="3"><span class="fu">man</span> tar</a>
+<a class="sourceLine" id="cb2-4" title="4"><span class="fu">man</span> hexdump</a>
+<a class="sourceLine" id="cb2-5" title="5"><span class="fu">man</span> exif</a>
+<a class="sourceLine" id="cb2-6" title="6"><span class="fu">man</span> objdump</a>
+<a class="sourceLine" id="cb2-7" title="7"><span class="fu">man</span> strings</a>
+<a class="sourceLine" id="cb2-8" title="8"><span class="fu">man</span> file</a>
+<a class="sourceLine" id="cb2-9" title="9"><span class="fu">man</span> base64</a>
+<a class="sourceLine" id="cb2-10" title="10"><span class="fu">man</span> chmod</a>
+<a class="sourceLine" id="cb2-11" title="11"><span class="fu">man</span> 2 chmod</a>
+<a class="sourceLine" id="cb2-12" title="12"><span class="fu">man</span> tr</a>
+<a class="sourceLine" id="cb2-13" title="13"><span class="fu">man</span> bc</a></code></pre></div>
+<p>Some use cases of the above commands that might be helpful:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb3-1" title="1"><span class="ex">objdump</span> -D -Mintel,i386 -b binary -m i386 sample.bin</a>
+<a class="sourceLine" id="cb3-2" title="2"><span class="fu">strings</span> sample.bin</a>
+<a class="sourceLine" id="cb3-3" title="3"><span class="fu">cat</span> sample.txt <span class="kw">|</span> <span class="fu">tr</span> <span class="st">&#39;[A-Za-z]&#39;</span> <span class="st">&#39;[N-ZA-Mn-za-m]&#39;</span></a>
+<a class="sourceLine" id="cb3-4" title="4"><span class="bu">echo</span> <span class="st">&quot;obase=16; ibase=8; 444&quot;</span> <span class="kw">|</span> <span class="fu">bc</span></a></code></pre></div>
+<p>For the basics of x86 assembly, you can find a good YouTube tutorial like <a href="https://www.youtube.com/watch?v=75gBFiFtAb8">this one</a>.</p>
