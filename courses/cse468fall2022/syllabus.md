@@ -5,8 +5,8 @@
 - Course Name: CSE 468, Computer Network Security
 - Instructor: Jed Crandall
 - Email: jedimaestro@asu.edu
-- Meeting Times: Tuesday and Thursday, 10:30am to 11:45am or 4:30pm to 5:45pm, depending on what section you're registered for
-- Meeting Location: Classroom (check MyASU)
+- Meeting Times: Tuesday and Thursday, 3:00pm to 4:15pm
+- Meeting Location: Tempe - COOR174
 - Online Discussions: [Piazza](https://example.com)
 
 ## Office Hours
@@ -15,7 +15,7 @@ TBA (in Piazza)
 
 ## TAs
 
-I'll announce the TAs' names and office hours in Piazza.
+I'll announce the TA's name and office hours in Piazza.
 
 ## Course Description
 
@@ -63,7 +63,13 @@ publicly available and/or licensed open source.
 
 ## Absence policies and the conditions under which assigned work can be made up
 
-- Everyone is entitled to the following for every homework assignment, but cannot combine it with any other form of absence forgiveness (e.g., any of them from below): For every hour that an assignment is turned in late, you will lose 1% of the grade.  Note that a little after four days late the assignment is worth 0%.
+Everyone is entitled to the following course-specific late policy for every
+homework assignment, but cannot combine it with any other form of absence
+forgiveness (e.g., any of them from below): For every hour that an assignment
+is turned in late, you will lose 1% of the grade.  Note that a little after
+four days late the assignment is worth 0%.
+
+As an alternative to that policy, for every course you are entitled to:
 - Excused absences related to religious observances/practices that are in
   accord with [ACD 304-04](https://www.asu.edu/aad/manuals/acd/acd304-04.html).
 - Excused absences related to university sanctioned events/activities that are in accord with [ACD 304-02](https://www.asu.edu/aad/manuals/acd/acd304-02.html).
@@ -87,7 +93,7 @@ other Linux distros or other OSes you do so at your own risk, and with no
 guarantee of support from me.  If you're familiar with Linux you can probably
 get the homeworks done in your distro of choice without too much trouble.  I'll
 try to help but will need to prioritize the needs of students who are stuck
-with MX Linux 19.4.  If you attempt to do the homeworks in Mac OS, it's
+and using MX Linux 19.4.  If you attempt to do the homeworks in Mac OS, it's
 probably possible but it's going to be painful and I can't help you at all.
 The same goes for any BSD-based OS.  If your OS of choice is another UNIX, like
 Solaris, I also can't help you with OS-specific questions and...seriously?  If
@@ -99,12 +105,12 @@ formats, packet captures, encodings, etc., please just use the provided Linux
 virtual machine or install MX Linux 19.4 in a virtual machine of your own.
 
 You are responsible for your own file backups and time management.  E.g., feel
-free email me, or post in Piazza, the day before something is due, "I worked on
-it all day and then my VM crashed and I lost my file!"  I won't shame you, but
-that's not grounds for an extension and I'm not going to be able to do anything
-about it to make sure you submit your homework on time.  I recommend keeping
-your code and other work for this course in a *private* repository that you
-periodically commit to.
+free email me, or send as a private post in Piazza, the day before something is
+due, "I worked on it all day and then my VM crashed and I lost my file!"  I
+won't shame you, but that's not grounds for an extension and I'm not going to
+be able to do anything about it to make sure you submit your homework on time.
+I recommend keeping your code and other work for this course in a *private*
+repository that you periodically commit to.
 
 ## Classroom Behavior
 
@@ -123,31 +129,30 @@ As stated above, no textbook is required for this course.
 
 ## Course Topics
 
-- Security Objectives
-- Security Mechanisms
-- Security Attacks and Threats
-- Access Control
-- Cryptography
-- Authentication
-- Network Security
-- Web Security
-- System Security
-- IA Policy and Management
-- Risk Assessment and Risk Management
-- Assurance
-- Privacy and Anonymity
-- Legal and Ethical Issues
+1. Cryptography and other foundations of network security, basic tools
+-Review of crypto basics, with case studies for WEP, TLS, GPG, and others
+-Basic information theory
+-Basic tool usage, including Wireshark, tshark, and tcpflow
+2. Network Intrusion Detections Systems (NIDSs), firewalls, attacks, and evasion
+-Firewalls, port scans, and side channel attacks
+-NIDS and NIDS evasion techniques
+-Tool usage for NIDS and NIDS evasion, including Zeek and Scapy
+3. Information controls
+-Case studies, including NSA QUANTUM INSERT, Russia's TSPU, and China's Great Firewall
+-Tools for censorship evasion, privacy, and anonymity
+-Tool usage, including Tor and OONI
 
 ## Assessment
 
 Students will be evaluated on their performance on homework assignments.  There
-will not be any exams.
+will not be any exams.  Attendance is not recorded and not part of the grade.
 
 ## Homework Due Dates
 
 Homework due dates will be posted in advance on the class website and announced
 in class.  All times will be Mountain Standard Time, i.e., Arizona time.  Late
-submissions will be accepted with a 1% reduction of score per hour.
+submissions will be accepted with a 1% reduction of score per hour, as
+described above.
 
 ## Academic Integrity
 
@@ -259,3 +264,4 @@ advance notice.
 ## Tentative Schedule 
 
 TBA
+
