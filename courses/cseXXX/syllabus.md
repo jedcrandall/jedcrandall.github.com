@@ -15,7 +15,7 @@ TBA (in Piazza)
 
 ## TAs
 
-I'll announce the TA's name and office hours in Piazza.
+TBA (in Piazza)
 
 ## Course Description
 
@@ -38,9 +38,10 @@ for information controls at the scale of entire nations.
 
 - Students will compare in-path systems (e.g., Russia's TSPU or China's Great
   Cannon) and on-path systems (e.g., China's Great Firewall, Turk Telekom's
-Sandvine PacketLogic Devices, or NSA's QUANTUM INSERT), in terms of their
-capabilities and technical challenges.
--Students will identify applicable NIDS evasion mechanisms for various NIDS implementations.
+  Sandvine PacketLogic Devices, or NSA's QUANTUM INSERT), in terms of their
+  capabilities and technical challenges.
+- Students will identify applicable NIDS evasion mechanisms for various NIDS
+  implementations.
 - Students will compare circumvention tools and their ability to provide
   security, privacy, anonymity, and stealth. 
 
