@@ -9,5 +9,5 @@
 
 # Syllabus
 
-- The syllabus is [here](https://jedcrandall.github.io/courses/cse365fall2021/syllabus.html).
+- The syllabus is [here](https://jedcrandall.github.io/courses/cse468fall2022/syllabus.html).
 
