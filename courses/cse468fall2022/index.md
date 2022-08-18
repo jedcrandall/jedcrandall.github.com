@@ -11,3 +11,7 @@
 
 - The syllabus is [here](https://jedcrandall.github.io/courses/cse468fall2022/syllabus.html).
 
+# Slides
+
+- [Course intro](courseintro.pdf)
+
