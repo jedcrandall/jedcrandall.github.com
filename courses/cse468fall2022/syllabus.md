@@ -7,7 +7,7 @@
 - Email: jedimaestro@asu.edu
 - Meeting Times: Tuesday and Thursday, 3:00pm to 4:15pm
 - Meeting Location: Tempe - COOR174
-- Online Discussions: [Piazza](piazza.com/asu/fall2022/cse468)
+- Online Discussions: [Piazza](https://piazza.com/asu/fall2022/cse468)
 
 ## Office Hours
 

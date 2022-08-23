@@ -5,7 +5,7 @@
 - Course Name: CSE 468, Computer Network Security
 - Semester: Fall 2022
 - Instructor: [Jed Crandall](https://jedcrandall.github.io)
-- Piazza is [here](piazza.com/asu/fall2022/cse468)
+- Piazza is [here](https://piazza.com/asu/fall2022/cse468)
 - More info is in the syllabus, see below.
 
 # Syllabus
