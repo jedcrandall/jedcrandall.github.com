@@ -7,15 +7,15 @@
 - Email: jedimaestro@asu.edu
 - Meeting Times: Tuesday and Thursday, 3:00pm to 4:15pm
 - Meeting Location: Tempe - COOR174
-- Online Discussions: [Piazza](https://example.com)
+- Online Discussions: [Piazza](piazza.com/asu/fall2022/cse468)
 
 ## Office Hours
 
-TBA (in Piazza)
+Mondays 9am to 11am, info about location is in Piazza.
 
 ## TAs
 
-I'll announce the TA's name and office hours in Piazza.
+I'll announce the TA's name(s) and office hours in Piazza.
 
 ## Course Description
 
