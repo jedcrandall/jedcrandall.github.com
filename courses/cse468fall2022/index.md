@@ -14,4 +14,5 @@
 # Slides
 
 - [Course intro](courseintro.pdf)
-
+- [Crypto review](cryptoreview.pdf)
+- [CBC padding oracle attack](cbcpaddingoracle.pdf)
