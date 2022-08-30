@@ -1,0 +1,18 @@
+<h1 id="homework-1-part-1-cse-468-fall-2022">Homework 1 part 1, CSE 468 Fall 2022</h1>
+<h2 id="notes">Notes</h2>
+<p>This is an individual assignment. DO NOT share your solution with others or use solutions from others. You may have high-level discussions with your classmates about how to do the assignment, but the act of installing Linux and carrying out the commands to complete the assignment must be done by you.</p>
+<p>You should never, throughout the course of the semester, share your security token (which will be used to identify you as a student in future assignments) with any of your classmates or anybody else other than the TA and myself.</p>
+<p><strong>WARNING: START EARLY! Getting the right access may take some time.</strong></p>
+<h2 id="preparation-make-sure-you-have-access-to-general.asu.edu">Preparation: Make sure you have access to general.asu.edu</h2>
+<p>Unless you have access to a Linux shell (no need to be root) on another machine, you should ssh to general.asu.edu using the ASU ID that is the first part of your <span class="citation" data-cites="asu.edu">@asu.edu</span> email address. E.g., for me it’s:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="fu">ssh</span> jrcranda@general.asu.edu</span></code></pre></div>
+<p>You’ll need to enter your password and probably do Duo two-factor authentication.</p>
+<h2 id="assignment-create-an-md5-digest-that-unless-something-astronomically-unlikely-happens-is-unique-to-you">Assignment: Create an MD5 digest that (unless something astronomically unlikely happens) is unique to you</h2>
+<p>You should perform the following step in a Linux shell (again, no need for root):</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a><span class="fu">dd</span> if=/dev/urandom bs=1 count=128 <span class="op">2&gt;</span>/dev/null <span class="kw">|</span> <span class="ex">md5sum</span> <span class="kw">|</span> <span class="fu">cut</span> -b 1-32</span></code></pre></div>
+<p>A screencap showing examples is <a href="md5songeneral.png">here</a>. I recommend running the command a few times to make sure you get a different answer every time, as a sanity check that you typed it correctly. The output of any of them can be your security token. If you want to be extra paranoid, you can Google it to make sure it doesn’t exist on the web. You security token should be a string that is 32 characters long, a 32-nibble hex number representing a 128-bit MD5 digest.</p>
+<h2 id="how-to-submit-your-security-token">How to submit your security token</h2>
+<p>In Piazza, I’ll post a link to a Google Forms form that you can use to submit your security token. You can resubmit as many times as you like, the grader will give you the highest grade out of all submissions based on the late submission policy. Please refrain from submitting more than a couple of times, though, the multiple submissions is just for you to be able to fix mistakes.</p>
+<p><strong>Due date: 2 September 2022 at 11:59pm MST</strong></p>
+<p><strong>10 out of 100 points</strong></p>
+<p>Homework set 1 will be 100 points total in several parts, this part (part 1) will be 10 points out of that 100. I may assign partial credit in some cases, but partial credit is not guaranteed if you don’t follow <em>all</em> instructions.</p>

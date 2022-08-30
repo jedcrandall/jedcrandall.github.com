@@ -18,3 +18,7 @@
 - [Crypto review](cryptoreview.pdf)
 - [CBC padding oracle attack](cbcpaddingoracle.pdf)
 
+# Homework assignments
+
+- [HW 1.1](hw1part1.html)
+

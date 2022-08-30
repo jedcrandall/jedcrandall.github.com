@@ -10,3 +10,4 @@
 #pandoc hw1rest.md -t html -o hw1rest.html
 pandoc index.md -t html -o index.html
 pandoc syllabus.md -t html -o syllabus.html
+pandoc hw1part1.md -t html -o hw1part1.html
