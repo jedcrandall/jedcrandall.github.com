@@ -17,6 +17,7 @@
 - [Course intro](courseintro.pdf)
 - [Crypto review](cryptoreview.pdf)
 - [CBC padding oracle attack](cbcpaddingoracle.pdf)
+- For the WEP lecture there are [slides](wep/198fbe890b692e5296fcf7ad1b015e653ec9.pdf), [code](wep/rc4-3.py), and [notes](wep/notes.txt)
 
 # Homework assignments
 
