@@ -20,13 +20,23 @@ Start by "ratcheting" your MD5 token from homework 1.1 to find out the name of y
 echo -n "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" | md5sum | cut -c 1-32
 ```
 
-But replace "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" with your MD5 token.  The output of the above command will tell you which tar ball [here](https://github.com/jedcrandall/jedcrandall.github.com/tree/master/courses/cse468fall2022/hw12tarballs) is yours.  Download and it decrypt it like this, using your MD5 token as the password:
+But replace "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" with your MD5 token.  The output
+of the above command will tell you which tar ball
+[here](https://github.com/jedcrandall/jedcrandall.github.com/tree/master/courses/cse468fall2022/hw12tarballs)
+is yours.  Just add ".tgz" to the end of your ratcheted MD5 token.  Download
+and it decrypt it like this, using your original MD5 token as the password:
 
 ```bash
 openssl aes-256-cbc -d -pbkdf2 -in NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.enc -out /tmp/mytarball.tgz
 ```
 
-Do not share your tarball, MD5 token, tarball name, or anything that identifies you or your assigment in this way with others.
+You should be able to perform the above command on general.asu.edu or any Linux
+system.  Then you can copy your plaintext tarball for the assignment out of
+/tmp/ and decompress/untar it wherever you plan to do your homework (the entire
+assignment can be done on general.asu.edu).
+
+Do not share your tarball, MD5 token, tarball name, or anything that identifies
+you or your assigment in this way with others.
 
 ## Homework 1, part 2, question (a)
 
@@ -34,18 +44,23 @@ __30 out of 100 points__
 
 In your tar ball, in a subdirectory called "a", you will find a ciphertext file
 and a key.   The ciphertext was created by XORing the plaintext with the key,
-in a bitwise fashion.  Decrypt the plaintext and submit it.
+in a bitwise fashion.  Decrypt ciphertext into plaintext (should contain
+English and be obvious that it's plaintext, no spaces but all printable
+characters) and submit it.
 
 ## Homework 1, part 2, question (b)
 
 __30 out of 100 points__
 
 This is the same as question (a), but you are not provided with the key.
-Instead, you are given one ciphertext and two plaintexts.  Find the missing
-plaintext.
+Instead, you are given one ciphertext and two plaintexts in a subdirectory
+called "b".  Find the missing plaintext and submit it.
 
 ## How to submit
 
 You will copy and paste the entire plaintext into the Google form, no need to
 upload files.  The Google Forms link will be provided in Piazza, note that
-every assignment will have a different Google Forms link to use.  Try to avoid including any whitespace or newline characters, but the grading script should do a good job of removing them anyway.  There will be a lot of dash characters ('-') in your plaintext, leave them in there.
+every assignment will have a different Google Forms link to use.  Try to avoid
+including any whitespace or newline characters, but the grading script should
+do a good job of removing them anyway.  There will be a lot of dash characters
+('-') in your plaintext, leave them in there.
