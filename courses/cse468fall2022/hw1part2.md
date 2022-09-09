@@ -27,7 +27,7 @@ is yours.  Just add ".tgz" to the end of your ratcheted MD5 token.  Download
 and it decrypt it like this, using your original MD5 token as the password:
 
 ```bash
-openssl aes-256-cbc -d -pbkdf2 -in NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.enc -out /tmp/mytarball.tgz
+openssl aes-256-cbc -md sha256 -d -in NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.enc -out /tmp/mytarball.tgz
 ```
 
 You should be able to perform the above command on general.asu.edu or any Linux
@@ -63,4 +63,7 @@ upload files.  The Google Forms link will be provided in Piazza, note that
 every assignment will have a different Google Forms link to use.  Try to avoid
 including any whitespace or newline characters, but the grading script should
 do a good job of removing them anyway.  There will be a lot of dash characters
-('-') in your plaintext, leave them in there.
+('-') in your plaintext, leave them in there.  As stated above, both plaintexts
+you submit should be printable ASCII with no whitespace in them, so if you get
+unprintable characters or tabs or anything like that you have a bug in your
+code.

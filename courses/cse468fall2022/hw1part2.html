@@ -1,0 +1,20 @@
+<h1 id="homework-1-part-2">Homework 1, part 2</h1>
+<p><strong>Due date: 19 September 2022 at 11:59pm MST</strong></p>
+<p>Homework 1 has three parts, this is the second one. It has two questions, (a) and (b), each will be worth 30 points for 60/100 total.</p>
+<h2 id="notes">Notes</h2>
+<p>This is an individual assignment. DO NOT share your solution with others or use solutions from others. You may have high-level discussions with your classmates about it, and you may use/share any source code that existed before the assignment was assigned and is not related to any similar assignment or any past offering of CSE 468 or a related class at ASU.</p>
+<h2 id="preparation-downloading-your-tarball">Preparation: Downloading your tarball</h2>
+<p>Start by “ratcheting” your MD5 token from homework 1.1 to find out the name of your tar ball. Do the following:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="bu">echo</span> -n <span class="st">&quot;NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN&quot;</span> <span class="kw">|</span> <span class="ex">md5sum</span> <span class="kw">|</span> <span class="fu">cut</span> -c 1-32</span></code></pre></div>
+<p>But replace “NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN” with your MD5 token. The output of the above command will tell you which tar ball <a href="https://github.com/jedcrandall/jedcrandall.github.com/tree/master/courses/cse468fall2022/hw12tarballs">here</a> is yours. Just add “.tgz” to the end of your ratcheted MD5 token. Download and it decrypt it like this, using your original MD5 token as the password:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a><span class="ex">openssl</span> aes-256-cbc -md sha256 -d -in NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.enc -out /tmp/mytarball.tgz</span></code></pre></div>
+<p>You should be able to perform the above command on general.asu.edu or any Linux system. Then you can copy your plaintext tarball for the assignment out of /tmp/ and decompress/untar it wherever you plan to do your homework (the entire assignment can be done on general.asu.edu).</p>
+<p>Do not share your tarball, MD5 token, tarball name, or anything that identifies you or your assigment in this way with others.</p>
+<h2 id="homework-1-part-2-question-a">Homework 1, part 2, question (a)</h2>
+<p><strong>30 out of 100 points</strong></p>
+<p>In your tar ball, in a subdirectory called “a”, you will find a ciphertext file and a key. The ciphertext was created by XORing the plaintext with the key, in a bitwise fashion. Decrypt ciphertext into plaintext (should contain English and be obvious that it’s plaintext, no spaces but all printable characters) and submit it.</p>
+<h2 id="homework-1-part-2-question-b">Homework 1, part 2, question (b)</h2>
+<p><strong>30 out of 100 points</strong></p>
+<p>This is the same as question (a), but you are not provided with the key. Instead, you are given one ciphertext and two plaintexts in a subdirectory called “b”. Find the missing plaintext and submit it.</p>
+<h2 id="how-to-submit">How to submit</h2>
+<p>You will copy and paste the entire plaintext into the Google form, no need to upload files. The Google Forms link will be provided in Piazza, note that every assignment will have a different Google Forms link to use. Try to avoid including any whitespace or newline characters, but the grading script should do a good job of removing them anyway. There will be a lot of dash characters (‘-’) in your plaintext, leave them in there. As stated above, both plaintexts you submit should be printable ASCII with no whitespace in them, so if you get unprintable characters or tabs or anything like that you have a bug in your code.</p>

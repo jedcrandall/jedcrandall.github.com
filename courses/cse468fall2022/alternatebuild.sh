@@ -11,3 +11,4 @@
 pandoc index.md -t html -o index.html
 pandoc syllabus.md -t html -o syllabus.html
 pandoc hw1part1.md -t html -o hw1part1.html
+pandoc hw1part2.md -t html -o hw1part2.html
