@@ -24,4 +24,6 @@
 # Homework assignments
 
 - [HW 1.1](hw1part1.html)
+- [HW 1.2](hw1part2.html)
+
 
