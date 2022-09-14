@@ -53,7 +53,7 @@ characters) and submit it.
 __30 out of 100 points__
 
 This is the same as question (a), but you are not provided with the key.
-Instead, you are given one ciphertext and two plaintexts in a subdirectory
+Instead, you are given two ciphertexts and one plaintext in a subdirectory
 called "b".  Find the missing plaintext and submit it.
 
 ## How to submit
