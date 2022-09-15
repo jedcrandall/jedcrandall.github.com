@@ -20,6 +20,7 @@
 - For the WEP lecture there are [slides](wep/198fbe890b692e5296fcf7ad1b015e653ec9.pdf), [code](wep/rc4-3.py), and [notes](wep/notes.txt)
 - For WPA, asymmetric crypto review, and TLS there are [slides](wpaassymerticandtls.pdf) and a [PCAP](tlsexample.pcapng)
 - Some slides about modular exponentiation are [here](modularexp.pdf)
+- [OTR and Signal](otrandsignal.pdf)
 
 # Homework assignments
 
