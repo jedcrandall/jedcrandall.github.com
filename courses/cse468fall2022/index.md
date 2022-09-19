@@ -21,6 +21,7 @@
 - For WPA, asymmetric crypto review, and TLS there are [slides](wpaassymerticandtls.pdf) and a [PCAP](tlsexample.pcapng)
 - Some slides about modular exponentiation are [here](modularexp.pdf)
 - [OTR and Signal](otrandsignal.pdf)
+- [Networking 101](networking101.pdf)
 
 # Homework assignments
 
