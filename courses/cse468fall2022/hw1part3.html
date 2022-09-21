@@ -1,6 +1,6 @@
 <h1 id="homework-1-part-3">Homework 1, part 3</h1>
 <p><strong>Due date: 12 October 2022 at 11:59pm MST</strong></p>
-<p>Homework 1 has three parts, this is the third one. It has two questions, (a) and (b), 30 and 10 points, respectively, for 40/100 total.</p>
+<p>Homework 1 has three parts, this is the third one. It has two questions, (a) and (b), worth 20 and 10 points, respectively, for 40/100 total.</p>
 <h2 id="notes">Notes</h2>
 <p>This is an individual assignment. DO NOT share your solution with others or use solutions from others. You may have high-level discussions with your classmates about it, and you may use/share any source code that existed before the assignment was assigned and is not related to any similar assignment or any past offering of CSE 468 or a related class at ASU. You may use any source code I provided for lecture purposes at any time.</p>
 <h2 id="preparation-downloading-your-tarball">Preparation: Downloading your tarball</h2>
@@ -11,7 +11,7 @@
 <p>You should be able to perform the above command on general.asu.edu or any Linux system. Then you can copy your plaintext tarball for the assignment out of /tmp/ and decompress/untar it wherever you plan to do your homework (the entire assignment can be done on general.asu.edu). Some students had problems for homework 1.2 using /tmp on general.asu.edu, just remove that part and it’ll put it in your current directory instead.</p>
 <p>Do not share your tarball, MD5 token, tarball name, or anything that identifies you or your assignment in this way with others.</p>
 <h2 id="homework-1-part-3-question-a">Homework 1, part 3, question (a)</h2>
-<p><strong>30 out of 100 points</strong></p>
+<p><strong>20 out of 100 points</strong></p>
 <p>In your tar ball, you’ll find a text file called “eavesdrop.txt” that was generated using <a href="rc4hw13a.py">this python script</a> using a command that was something like this:</p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true"></a><span class="fu">cat</span> /usr/share/dict/american-english <span class="kw">|</span> <span class="fu">grep</span> <span class="st">&quot;^S.*&quot;</span> <span class="kw">|</span> <span class="ex">python3</span> rc4hw13a.py <span class="kw">|</span> <span class="fu">grep</span> -v FIRSTBYTEOFKEY <span class="op">&gt;</span> eavesdrop.txt</span></code></pre></div>
 <p>Find the first byte of the key, or the most likely first byte of the key (I culled out instances where the most likely first byte was not the actual first byte, so these are effectively the same thing). Try to submit your answer as a hexidecimal byte in exactly the format that would have appeared in the FIRSTBYTEOFKEY line (just the byte, not the “FIRSTBYTEOFKEY” part), but I’ll try to write the grading script so that you’re in good shape as long as you submit the correct byte as a hexadecimal number.</p>

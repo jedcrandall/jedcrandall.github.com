@@ -2,7 +2,7 @@
 
 __Due date: 12 October 2022 at 11:59pm MST__
 
-Homework 1 has three parts, this is the third one.  It has two questions, (a) and (b), 30 and 10 points, respectively, for 40/100 total.
+Homework 1 has three parts, this is the third one.  It has two questions, (a) and (b), worth 20 and 10 points, respectively, for 40/100 total.
 
 ## Notes
 
@@ -43,7 +43,7 @@ you or your assignment in this way with others.
 
 ## Homework 1, part 3, question (a)
 
-__30 out of 100 points__
+__20 out of 100 points__
 
 In your tar ball, you'll find a text file called "eavesdrop.txt" that was generated using [this python script](rc4hw13a.py) using a command that was something like this:
 
