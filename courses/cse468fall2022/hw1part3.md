@@ -1,6 +1,6 @@
-# Homework 1, part 2
+# Homework 1, part 3
 
-__Due date: ?? September 2022 at 11:59pm MST__
+__Due date: 12 October 2022 at 11:59pm MST__
 
 Homework 1 has three parts, this is the third one.  It has two questions, (a) and (b), 30 and 10 points, respectively, for 40/100 total.
 
@@ -9,8 +9,9 @@ Homework 1 has three parts, this is the third one.  It has two questions, (a) an
 This is an individual assignment. DO NOT share your solution with others or use
 solutions from others.  You may have high-level discussions with your
 classmates about it, and you may use/share any source code that existed before
-the assignment was assigned and is not related to any similar assignment or
-any past offering of CSE 468 or a related class at ASU.  You may use any source code I provided for lecture purposes at any time.
+the assignment was assigned and is not related to any similar assignment or any
+past offering of CSE 468 or a related class at ASU.  You may use any source
+code I provided for lecture purposes at any time.
 
 ## Preparation: Downloading your tarball
 
@@ -34,8 +35,8 @@ You should be able to perform the above command on general.asu.edu or any Linux
 system.  Then you can copy your plaintext tarball for the assignment out of
 /tmp/ and decompress/untar it wherever you plan to do your homework (the entire
 assignment can be done on general.asu.edu).  Some students had problems for
-homework 1.2 using /tmp, just remove that part and it'll put it in your current
-directory instead.
+homework 1.2 using /tmp on general.asu.edu, just remove that part and it'll put
+it in your current directory instead.
 
 Do not share your tarball, MD5 token, tarball name, or anything that identifies
 you or your assignment in this way with others.
@@ -58,7 +59,7 @@ __10 out of 100 points__
 
 In your tar ball, you'll find a text file called "hw13partb.txt" that was
 generated using [this python script](rc4hw13b.py), [this one](sixdigits.py),
-[and this one](hw13partb.py) using a command that was something like this:
+[and this one](slides.py) using a command that was something like this:
 
 ```bash
 (python3 sixdigits.py ; python3 slides.py) | python3 rc4hw13b.py > hw13partb.txt
