@@ -1,6 +1,6 @@
 # Homework 1, part 3
 
-__Due date: 12 October 2022 at 11:59pm MST__
+__Due date: 17 October 2022 at 11:59pm MST__
 
 Homework 1 has three parts, this is the third one.  It has two questions, (a) and (b), worth 20 and 10 points, respectively, for 30/100 total.
 
