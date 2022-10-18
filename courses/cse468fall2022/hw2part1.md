@@ -2,7 +2,12 @@
 
 __Due date: 7 November 2022 at 11:59pm MST__
 
-Homework 2 has two parts, this is the first one.  It has ten questions, 0 throuh 9, which are each worth 6 points for a total of 60 possible.
+Homework 2 has two parts, this is the first one.  It has ten questions, 0
+throuh 9, which are each worth 6 points for a total of 60 possible.  The second
+part of homework 2 will be due at the same time as the first part, but will not
+require any time outside of the regularly scheduled class period unless you
+miss class (in which case you'll watch a video of no more than 1 hour and 15
+minutes as a make up assignment).
 
 ## Notes
 

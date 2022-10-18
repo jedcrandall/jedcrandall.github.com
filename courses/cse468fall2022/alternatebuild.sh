@@ -13,3 +13,4 @@ pandoc syllabus.md -t html -o syllabus.html
 pandoc hw1part1.md -t html -o hw1part1.html
 pandoc hw1part2.md -t html -o hw1part2.html
 pandoc hw1part3.md -t html -o hw1part3.html
+pandoc hw2part1.md -t html -o hw2part1.html

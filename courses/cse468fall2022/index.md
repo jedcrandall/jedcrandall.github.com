@@ -30,5 +30,6 @@
 - [HW 1.1](hw1part1.html)
 - [HW 1.2](hw1part2.html)
 - [HW 1.3](hw1part3.html)
+- [HW 2.1](hw2part1.html)
 
 
