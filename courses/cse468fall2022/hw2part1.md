@@ -29,7 +29,7 @@ echo -n "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" | md5sum | cut -c 1-32
 But replace "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN" with your MD5 token.  The output
 of the above command will tell you which tar ball
 [here](https://github.com/jedcrandall/jedcrandall.github.com/tree/master/courses/cse468fall2022/hw21tarballs)
-is yours.  Just add ".tgz" to the end of your ratcheted MD5 token.  Download
+is yours.  Just add ".enc" to the end of your ratcheted MD5 token.  Download
 and it decrypt it like this, using your original MD5 token as the password:
 
 ```bash
