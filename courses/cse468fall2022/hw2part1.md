@@ -3,7 +3,7 @@
 __Due date: 7 November 2022 at 11:59pm MST__
 
 Homework 2 has two parts, this is the first one.  It has ten questions, 0
-throuh 9, which are each worth 6 points for a total of 60 possible.  The second
+through 9, which are each worth 6 points for a total of 60 possible.  The second
 part of homework 2 will be due at the same time as the first part, but will not
 require any time outside of the regularly scheduled class period unless you
 miss class (in which case you'll watch a video of no more than 1 hour and 15
@@ -33,14 +33,14 @@ is yours.  Just add ".enc" to the end of your ratcheted MD5 token.  Download
 and it decrypt it like this, using your original MD5 token as the password:
 
 ```bash
-openssl aes-256-cbc -md sha256 -d -in NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.enc -out /tmp/mytarball.tgz
+openssl aes-256-cbc -md sha256 -d -in NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.enc -out ~/mytarball.tgz
 ```
 
 You should be able to perform the above command on general.asu.edu or any Linux
-system.  Then you can copy your plaintext tarball for the assignment out of
-/tmp/ and decompress/untar it wherever you plan to do your homework.  Some
-students had problems for homework 1.2 using /tmp on general.asu.edu, just
-remove that part and it'll put it in your current directory instead.
+system.  Then you can find your plaintext tarball for the assignment in your
+home directory, and decompress/untar it wherever you plan to do your homework.
+Don't use /tmp on general.asu.edu for anything related to your tar ball, it
+caused students various errors and problems on earlier homeworks.
 
 Do not share your tarball, MD5 token, tarball name, or anything that identifies
 you or your assignment in this way with others.
