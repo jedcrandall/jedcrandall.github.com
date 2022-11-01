@@ -23,7 +23,8 @@
 - [OTR and Signal](otrandsignal.pdf)
 - [Networking 101](networking101.pdf)
 - A document we saw in lecture about overlapping IP fragments is [here](33969.pdf)
--Slides about NIDS are [here](morereviewandsometomfoolery.pdf), and a couple of pcaps we'll look at are [here](arp.pcap) and [here](http.cap)
+- Slides about NIDS are [here](morereviewandsometomfoolery.pdf), and a couple of pcaps we'll look at are [here](arp.pcap) and [here](http.cap)
+- Some slides about Russia's TSPU, courtesy of Diwen Xue, are [here](TSPU_IMC.pdf)
 
 # Homework assignments
 
