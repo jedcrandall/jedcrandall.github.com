@@ -1,6 +1,6 @@
 # Homework 2, part 1
 
-__Due date: 7 November 2022 at 11:59pm MST__
+__Due date: 14 November 2022 at 11:59pm MST__
 
 Homework 2 has two parts, this is the first one.  It has ten questions, 0
 through 9, which are each worth 6 points for a total of 60 possible.  The second

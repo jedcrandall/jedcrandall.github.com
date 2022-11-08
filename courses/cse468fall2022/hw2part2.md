@@ -1,6 +1,6 @@
 # Homework 2, part 2
 
-__Due date: 7 November 2022 at 11:59pm MST__
+__Due date: 14 November 2022 at 11:59pm MST__
 
 Homework 2 has two parts, this is the second one.  It's related to your class
 participation/attendance on Tuesday, October 25th and Thursday, October 27th,
