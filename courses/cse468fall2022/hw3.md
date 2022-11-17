@@ -42,7 +42,7 @@ you or your assignment in this way with others.
 
 ## Ten multiple choice questions
 
-__60 out of 100 points__
+__100 out of 100 points__
 
 In your tar ball, you'll find a text file called "questions.txt".  The
 questions refer to packet captures and other info you'll find in [this tar
