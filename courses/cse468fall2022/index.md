@@ -27,6 +27,7 @@
 - Some slides about Russia's TSPU, courtesy of Diwen Xue, are [here](TSPU_IMC.pdf)
 - Slides about side channels are [here](sidechannelsdosdns.pdf), the two example attacks we'll go over with have their own slides that are [here](foci2014counting-slides-censored.pdf) and [here](DEFCON-27-Travis-Palmer-First-try-DNS-Cache-Poisoning-with-IPv4-and-IPv6-Fragmentation.pdf)
 - [HW 3 hints](hw3hints.html)
+- [Malware](malware.pdf)
 
 # Homework assignments
 
