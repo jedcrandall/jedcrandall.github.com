@@ -17,3 +17,4 @@ pandoc hw2part1.md -t html -o hw2part1.html
 pandoc hw2part2.md -t html -o hw2part2.html
 pandoc hw3.md -t html -o hw3.html
 pandoc hw3hints.md -t html -o hw3hints.html
+pandoc makeup.md -t html -o makeup.html

@@ -37,5 +37,6 @@
 - [HW 2.1](hw2part1.html)
 - [HW 2.2](hw2part2.html)
 - [HW 3](hw3.html)
+- [Makeup](makeup.html)
 
 
