@@ -73,7 +73,7 @@ Rubric for attendance (10 points for each week broken up into 5 points for
 Tuesday lectures and 5 points for Thursday paper discussions):
 
 - Tuesdays... 5/5 if you attended class or received confirmation from the instructor that your absence is excused, 0/5 for unexcused absences.
-- Reading... 5/5 if you read the paper carefully and took at least one note on
+- Thursdays... 5/5 if you read the paper carefully and took at least one note on
   every page, and also made at least one substantive comment in class or in the online discussion (doing both is okay), 3/5 if you skimmed the paper and followed the discussion, 1/5 if you at least showed up to class on Thursday.
 
 Final letter grades are based on the following scale where x is the percentage: 97.0 <= x <= 100.0 is an A+, 93.0 <= x < 97.0 is an A, 90.0 <= x < 93.0 is an A-, 87.0 <= x < 90.0 is an B+, 83.0 <= x < 87.0 is an B, 80.0 <= x < 83.0 is an B-, 77.0 <= x < 80.0 is an C+, 73.0 <= x < 77.0 is an C, 70.0 <= x < 73.0 is an C-, 60.0 <= x < 70.0 is D, and x < 60.0 is an E.
