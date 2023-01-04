@@ -78,13 +78,7 @@ publicly available and/or licensed open source.
 
 ## Absence policies and the conditions under which assigned work can be made up
 
-Everyone is entitled to the following course-specific late policy for every
-homework assignment, but cannot combine it with any other form of absence
-forgiveness (e.g., any of them from below): For every hour that an assignment
-is turned in late, you will lose 1% of the grade.  Note that a little after
-four days late the assignment is worth 0%.
-
-As an alternative to that policy, for every course you are entitled to:
+For every course you are entitled to:
 
 - Excused absences related to religious observances/practices that are in
   accord with [ACD 304-04](https://www.asu.edu/aad/manuals/acd/acd304-04.html).
