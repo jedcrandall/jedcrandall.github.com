@@ -53,6 +53,7 @@ Prerequisite(s): Computer Engineering or Computer Science graduate student OR So
 ## Grading Policies, Assignments, and Required Materials
 
 The grade will be calculated as follows:
+
 - Attendance is 20% of the grade and will be self-graded, with a rubric that is described below.
 - Two homeworks (one assigned in late January and due in late February, the
   other assigned in late February and due in late March) are each 15% of the
@@ -63,6 +64,7 @@ grade, for 30% total.
 
 Rubric for attendance (10 points for each day broken up into 5 points for
 reading the assigned paper and 5 points for participating in discussion):
+
 - Reading... 5/5 if you read the paper carefully and took at least one note on
   every page, 3/5 if you ran out of time and skimmed it, 1/5 if you at least
   opened the PDF and looked at it.
@@ -83,6 +85,7 @@ is turned in late, you will lose 1% of the grade.  Note that a little after
 four days late the assignment is worth 0%.
 
 As an alternative to that policy, for every course you are entitled to:
+
 - Excused absences related to religious observances/practices that are in
   accord with [ACD 304-04](https://www.asu.edu/aad/manuals/acd/acd304-04.html).
 - Excused absences related to university sanctioned events/activities that are in accord with [ACD 304-02](https://www.asu.edu/aad/manuals/acd/acd304-02.html).
@@ -138,6 +141,7 @@ You may not record class discussions without permission.
 As stated above, no textbook is required for this course.
 
 ## Course Topics (time invested in each is approximate)
+
 - Intro to End-to-end encryption and Signal - 1 week
 - PRNGs and randomness - 1 lecture
 - Secure hash functions (MD5 collisions, SHA-3, etc.) - 2 weeks
@@ -173,6 +177,7 @@ you need to watch that lecture by.
 
 Here is the schedule of in-person in-class meetings to discuss papers, and the
 papers we will discuss on each date:
+
 - January 10th - Introduction to the course
 - January 17th - Introduction to Signal and end-to-end crypto, and discuss the [OTR paper](otr-wpes.pdf)
 - January 31st - Secure hash functions, and discuss [this paper about MD5 collisions](md5collisions.pdf)
@@ -205,6 +210,7 @@ other ASU college/schools.
 ## Plagiarism and Cheating Policies Specific to This Course
 
 This course has a zero-tolerance policy:
+
 -Any violation of the academic integrity policy (detailed below) will lead to a failure on this course.
 -The violation will be reported to the AIO.
 
