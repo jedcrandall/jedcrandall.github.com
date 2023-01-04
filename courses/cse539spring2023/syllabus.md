@@ -1,5 +1,7 @@
 # Syllabus
 
+Note: If you're reading the PDF version of this syllabus, you should switch to the [HTML version online](https://jedcrandall.github.io/courses/cse539spring2023/syllabus.html) if possible.  The PDF rendering of the original markdown has weirdness with lists, and none of the links to papers work in the PDF.
+
 ## Course Info and Contact Information
 
 - Course Name: CSE 539, Applied Cryptography (HYBRID)
