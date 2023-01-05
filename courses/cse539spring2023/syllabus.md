@@ -7,7 +7,7 @@ Note: If you're reading the PDF version of this syllabus, you should switch to t
 - Course Name: CSE 539, Applied Cryptography (HYBRID)
 - Instructor: Jed Crandall
 - Email: jedimaestro@asu.edu
-- Meeting Times: Certain Tuesdays 3:00pm to 4:15pm
+- Meeting Times: Certain Tuesdays 3:00pm to 4:15pm, there will be a Zoom link to attend online but you must do so LIVE
 - Meeting Location: Tempe - COORS 199
 - Online Discussions: TBD (will probably be in Canvas or Piazza)
 
@@ -70,6 +70,9 @@ reading the assigned paper and 5 points for participating in discussion):
   opened the PDF and looked at it.
 - Participation... 5/5 if you made at least one substantive comment in class or in the online discussion (both is okay), 3/5 if you followed the discussion (e.g., reading it or listening to it) online or in class, 1/5 if you at least showed up to class or opened the discussion board.
 
+Note that the paper discussions will be available over Zoom, so you can attend
+them remotely but you must do so LIVE. 
+
 Final letter grades are based on the following scale where x is the percentage: 97.0 <= x <= 100.0 is an A+, 93.0 <= x < 97.0 is an A, 90.0 <= x < 93.0 is an A-, 87.0 <= x < 90.0 is an B+, 83.0 <= x < 87.0 is an B, 80.0 <= x < 83.0 is an B-, 77.0 <= x < 80.0 is an C+, 73.0 <= x < 77.0 is an C, 70.0 <= x < 73.0 is an C-, 60.0 <= x < 70.0 is D, and x < 60.0 is an E.
 
 There is no textbook for the course, neither required nor recommended.  All
@@ -92,7 +95,8 @@ reading the paper and participating in the online discussion.
 ## Instruction Style
 
 The course will be a combination of recorded lectures that you can watch on
-your own time (but need to keep up on) and biweekly meetings to discuss papers.
+your own time (but need to keep up on) and biweekly meetings (in-person in the
+classroom or live over Zoom) to discuss papers.
 
 Attendance and participation are required, but will not be recorded by the
 instructor or TA.  You will self-grade based on the above rubric (i.e., the
@@ -162,12 +166,13 @@ in class.  All times will be Mountain Standard Time, i.e., Arizona time.
 ## Course format
 
 This is a HYBRID course where roughly 25% of the lecture time will be in-person
-discussions (these may or may not be recorded, and may or may not be available
-remotely over Zoom, depending on classroom constraints), and 75% of lecture
-time will be recorded lectures that I will post online.  You are expected to
-keep up with the recorded lectures at the same pace as if we were meeting every
-Tuesday and Thursday.  I'll be explicit with every lecture announcement when
-you need to watch that lecture by.
+discussions (these may or may not be recorded, but will be available remotely
+over Zoom LIVE), and 75% of lecture time will be recorded lectures that I will
+post online.  You are expected to keep up with the recorded lectures at the
+same pace as if we were meeting every Tuesday and Thursday.  I'll be explicit
+with every lecture announcement when you need to watch that lecture by (in many
+cases the paper we're discussing won't make sense if you haven't watched the
+lectures).
 
 Here is the schedule of in-person in-class meetings to discuss papers, and the
 papers we will discuss on each date:
