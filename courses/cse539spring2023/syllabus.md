@@ -8,8 +8,8 @@ Note: If you're reading the PDF version of this syllabus, you should switch to t
 - Instructor: Jed Crandall
 - Email: jedimaestro@asu.edu
 - Meeting Times: Certain Tuesdays 3:00pm to 4:15pm, there will be a Zoom link to attend online but you must do so LIVE
-- Meeting Location: Tempe - COORS 199
-- Online Discussions: TBD (will probably be in Canvas or Piazza)
+- Meeting Location: Tempe - COORS 199, or Zoom (info is in Canvas)
+- Online Discussions: Canvas
 
 ## Office Hours
 
