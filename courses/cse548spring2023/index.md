@@ -1,0 +1,21 @@
+
+
+# Course Info
+
+- Course Name: CSE 548, Advanced Network Security
+- Semester: Spring 2023
+- Instructor: [Jed Crandall](https://jedcrandall.github.io)
+- More info is in the syllabus, see below.  Also check Canvas.
+
+# Syllabus
+
+- The syllabus is [here](syllabus.html), but it's better to view is as a [PDF](syllabus.pdf).
+
+# Slides
+
+- Coming soon...
+
+# Homework assignments
+
+- Coming soon...
+
