@@ -9,11 +9,11 @@
 
 # Syllabus
 
-- The syllabus is [here](syllabus.html), but it's better to view is as a [PDF](syllabus.pdf).
+- The syllabus is [here](syllabus.html), also available as a [PDF](syllabus.pdf).
 
 # Slides
 
-- Coming soon...
+- [Course intro](courseintro.pdf)
 
 # Homework assignments
 
