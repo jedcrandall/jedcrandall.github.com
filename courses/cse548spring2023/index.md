@@ -14,6 +14,7 @@
 # Slides
 
 - [Course intro](courseintro.pdf)
+- [About the ConceptDoppler paper](conceptdopplerpaper.pdf)
 
 # Homework assignments
 
