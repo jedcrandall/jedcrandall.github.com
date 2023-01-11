@@ -14,6 +14,7 @@
 # Slides
 
 - [Course intro](courseintro.pdf)
+- [Information theory and PRNGs](informationtheoryprng.pdf)
 
 # Homework assignments
 
