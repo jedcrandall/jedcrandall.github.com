@@ -15,6 +15,7 @@
 
 - [Course intro](courseintro.pdf)
 - [Information theory and PRNGs](informationtheoryprng.pdf)
+- [OTR paper discussion](otrpaperthoughts.pdf)
 
 # Homework assignments
 

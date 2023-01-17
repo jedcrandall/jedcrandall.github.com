@@ -15,6 +15,7 @@
 
 - [Course intro](courseintro.pdf)
 - [About the ConceptDoppler paper](conceptdopplerpaper.pdf)
+- [Network security basics](networksecuritybasics.pdf)
 
 # Homework assignments
 
