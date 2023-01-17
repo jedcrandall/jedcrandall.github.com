@@ -13,7 +13,7 @@ Note: If you're reading the PDF version of this syllabus, you should switch to t
 
 ## Office Hours
 
-Time and location TBD
+Thursdays 9am to 11am in [Jitsi](https://meet.jit.si/CrandallSpring2023OfficeHours)
 
 ## TAs
 
