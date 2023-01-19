@@ -16,6 +16,7 @@
 - [Course intro](courseintro.pdf)
 - [Information theory and PRNGs](informationtheoryprng.pdf)
 - [OTR paper discussion](otrpaperthoughts.pdf)
+- [Crypto overview, part 1](cryptooverview1.pdf)
 
 # Homework assignments
 
