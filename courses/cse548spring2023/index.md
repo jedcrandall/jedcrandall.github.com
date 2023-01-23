@@ -16,6 +16,8 @@
 - [Course intro](courseintro.pdf)
 - [About the ConceptDoppler paper](conceptdopplerpaper.pdf)
 - [Network security basics](networksecuritybasics.pdf)
+- [Crypto overview, part 1](cryptooverview1.pdf)
+- [Crypto overview, part 2](cryptooverview2.pdf)
 
 # Homework assignments
 
