@@ -18,6 +18,7 @@
 - [Network security basics](networksecuritybasics.pdf)
 - [Crypto overview, part 1](cryptooverview1.pdf)
 - [Crypto overview, part 2](cryptooverview2.pdf)
+- [WiFi and physical layer security](wifisecurityandphysical.pdf) with some [pcaps and source code](physicalandwifipcaps.tgz)
 
 # Homework assignments
 
