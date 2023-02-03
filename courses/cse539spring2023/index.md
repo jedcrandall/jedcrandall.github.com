@@ -23,5 +23,5 @@
 
 # Homework assignments
 
-- Coming soon...
+- Homework 1 has been assigned in Canvas, and the tar ball you need is [here](cse539hw1.tgz)
 
