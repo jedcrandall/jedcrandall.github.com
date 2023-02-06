@@ -21,6 +21,7 @@
 - [Hash functions](hashfunctions.pdf)
 - [Rogue cert paper notes](roguecertpapernotes.pdf)
 - [CBC padding oracle attacks](cbcpaddingoracle.pdf)
+- [Finite fields](fields.pdf)
 
 # Homework assignments
 
