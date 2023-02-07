@@ -1,0 +1,12 @@
+bbtraceroute$ sudo traceroute -4nADT -p 80 breakpointingbad.com
+[sudo] password for jedi:
+traceroute to breakpointingbad.com (149.28.240.117), 30 hops max, 60 byte packets
+ 1  10.153.0.1 [*]  1.986 ms  2.244 ms  2.238 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  172.29.1.21 [*]  3.618 ms  3.992 ms  5.466 ms
+ 6  172.29.12.98 [*]  3.982 ms  4.311 ms  4.141 ms
+ 7  * * *
+ 8  149.28.240.117 [*]  5003.208 ms * *
+
