@@ -20,6 +20,7 @@
 - [Crypto overview, part 2](cryptooverview2.pdf)
 - [WiFi and physical layer security](wifisecurityandphysical.pdf) with some [pcaps and source code](physicalandwifipcaps.tgz)
 - [Traceroute pcap and screencap](https://github.com/jedcrandall/jedcrandall.github.com/tree/master/courses/cse548spring2023/bbtraceroute)
+- [Off-path attacks, DNS security](DEFCON-27-Travis-Palmer-First-try-DNS-Cache-Poisoning-with-IPv4-and-IPv6-Fragmentation.pdf) and some [notes and pcaps]()
 
 # Homework assignments
 
