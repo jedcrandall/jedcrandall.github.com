@@ -20,6 +20,9 @@
 - [Crypto overview, part 2](cryptooverview2.pdf)
 - [Hash functions](hashfunctions.pdf)
 - [Rogue cert paper notes](roguecertpapernotes.pdf)
+- [CBC padding oracle attacks](cbcpaddingoracle.pdf)
+- [Finite fields](fields.pdf)
+- [Cipher block chaining, stream ciphers, MAC](ciphermodestreammac.pdf)
 
 # Homework assignments
 

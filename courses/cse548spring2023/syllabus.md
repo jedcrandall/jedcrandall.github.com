@@ -157,17 +157,6 @@ Detection Systems (NIDS), and NIDS evasion...
 -NIDS
 -NIDS evasion
 
-Readings, part 1 (the day on which we discuss each will be announced throughout
-the semester):
-
-- [ConceptDoppler: A Weather Tracker for Internet Censorship](https://jedcrandall.github.io/concept_doppler_ccs07.pdf) 
-- [Tor: The Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf)
-- [Censored Planet: An Internet-wide, Longitudinal Censorship Observatory](https://ramakrishnansr.com/assets/censoredplanet.pdf)
-- [Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship](https://www.cs.ucr.edu/~krish/imc17.pdf)
-- [Geneva: Evolving Censorship Evasion Strategies](https://censorbib.nymity.ch/pdf/Bock2019a.pdf)
-- [How China Detects and Blocks Shadowsocks](https://censorbib.nymity.ch/pdf/Alice2020a.pdf)
-- [Network Measurement Methods for Locating and Examining Censorship Devices](https://dl.acm.org/doi/pdf/10.1145/3555050.3569133)
-
 Second half of the course: Information controls on the Internet and related Internet measurement research...
 
 -On-path censorship (Great Firewall of China as an example)
@@ -178,16 +167,21 @@ Second half of the course: Information controls on the Internet and related Inte
 -Throttling (Russia's TSPU as an example)
 -Internet blackouts
 
-Readings, part 2 (the day on which we discuss each will be announced throughout
-the semester):
+## Readings (subject to change, but with at least two weeks notice):
 
-[Examining How the Great Firewall Discovers Hidden Circumvention Servers](http://conferences2.sigcomm.org/imc/2015/papers/p445.pdf)
-[An Analysis of China's "Great Cannon"](https://www.usenix.org/system/files/conference/foci15/foci15-paper-marczak.pdf)
-[Investigating Large Scale HTTPS Interception in Kazakhstan](https://dl.acm.org/doi/pdf/10.1145/3419394.3423665)
-[A multi-perspective view of Internet censorship in Myanmar](https://dl.acm.org/doi/pdf/10.1145/3473604.3474562)
-[Throttling Twitter: an emerging censorship technique in Russia](https://dl.acm.org/doi/pdf/10.1145/3487552.3487858)
-[TSPU: Russia's Decentralized Censorship System](https://dl.acm.org/doi/pdf/10.1145/3517745.3561461)
-[Analysis of Country-wide Internet Outages Caused by Censorship](https://conferences.sigcomm.org/imc/2011/docs/p1.pdf)
+- [ConceptDoppler: A Weather Tracker for Internet Censorship](https://jedcrandall.github.io/concept_doppler_ccs07.pdf) (read on January 19th)
+- [An Analysis of China's "Great Cannon"](https://www.usenix.org/system/files/conference/foci15/foci15-paper-marczak.pdf) (please read for February 9th)
+- [KRACK Attacks](https://papers.mathyvanhoef.com/ccs2017.pdf) (please read for February 16th)
+- [Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship](https://www.cs.ucr.edu/~krish/imc17.pdf) (please read for February 23rd)
+- [Censored Planet: An Internet-wide, Longitudinal Censorship Observatory](https://ramakrishnansr.com/assets/censoredplanet.pdf) (please read for March 2nd)
+- [Geneva: Evolving Censorship Evasion Strategies](https://censorbib.nymity.ch/pdf/Bock2019a.pdf) (please read for March 9th)
+- [Investigating Large Scale HTTPS Interception in Kazakhstan](https://dl.acm.org/doi/pdf/10.1145/3419394.3423665) (please read for March 16th)
+- [How China Detects and Blocks Shadowsocks](https://censorbib.nymity.ch/pdf/Alice2020a.pdf) (please read for March 23rd)
+- [Network Measurement Methods for Locating and Examining Censorship Devices](https://dl.acm.org/doi/pdf/10.1145/3555050.3569133) (please read for March 30th)
+- [A multi-perspective view of Internet censorship in Myanmar](https://dl.acm.org/doi/pdf/10.1145/3473604.3474562) (please read for April 6th)
+- [Throttling Twitter: an emerging censorship technique in Russia](https://dl.acm.org/doi/pdf/10.1145/3487552.3487858) (please read for April 13th)
+- [TSPU: Russia's Decentralized Censorship System](https://dl.acm.org/doi/pdf/10.1145/3517745.3561461) (please read for April 20th)
+- [Analysis of Country-wide Internet Outages Caused by Censorship](https://conferences.sigcomm.org/imc/2011/docs/p1.pdf) (please read for April 27th)
 
 If you have trouble accessing any of the above papers, try [CensorBib](https://censorbib.nymity.ch/)
 

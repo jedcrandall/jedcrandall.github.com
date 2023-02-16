@@ -1,0 +1,16 @@
+
+Basics of DNS:
+digbb.pcap
+Note the ephemeral source port number and the TXID
+Machine-in-the-middle attack could trivially attack
+
+
+Basics of TLS/HTTPS:
+httpsbb.pcap
+Note SNI
+
+DoH: DNS-over-HTTPS
+
+DNSSEC:
+dig @8.8.4.4 +dnssec www.cyberciti.biz.
+dnssec.pcap
