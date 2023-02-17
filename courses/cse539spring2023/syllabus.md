@@ -13,13 +13,16 @@ Note: If you're reading the PDF version of this syllabus, you should switch to t
 
 ## Office Hours
 
-Thursdays 9am to 11am in [Jitsi](https://meet.jit.si/CrandallSpring2023OfficeHours)
+Prof. Crandall's office hours: Thursdays 9am to 11am in [Jitsi](https://meet.jit.si/CrandallSpring2023OfficeHours)
+
+TA: Wednesdays 2pm to 5pm in [Jitsi](https://meet.jit.si/CrandallSpring2023OfficeHours)
+
 
 ## TAs
 
-I'll announce the TA's name(s) and office hours early in the semester.  Please
-do not contact the TA directly, all course-related communications with the TA
-should be through online discussion or office hours.
+The TA is Jiahui Gao.  Please do not contact the TA directly, all
+course-related communications with the TA should be through online discussion
+or office hours.
 
 ## Course Description
 
