@@ -24,6 +24,7 @@
 - [Finite fields](fields.pdf)
 - [Cipher block chaining, stream ciphers, MAC](ciphermodestreammac.pdf)
 - [OTR and Signal](otrandsignal.pdf)
+- [Side channels](sidechannelscrypto.pdf)
 
 # Homework assignments
 
