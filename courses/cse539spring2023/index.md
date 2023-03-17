@@ -29,4 +29,6 @@
 # Homework assignments
 
 - Homework 1 has been assigned in Canvas, and the tar ball you need is [here](cse539hw1-v2.tgz)
+- Homework 2 has been assigned in Canvas, and the tar ball you need is [here](hw2tarball.tgz)
+
 
