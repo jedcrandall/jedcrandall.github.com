@@ -26,6 +26,7 @@
 - [OTR and Signal](otrandsignal.pdf)
 - [Side channels](sidechannelscrypto.pdf)
 - [RSA](rsa.pdf)
+- [RSA padding](rsapadding.pdf)
 
 # Homework assignments
 
