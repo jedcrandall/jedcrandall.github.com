@@ -27,6 +27,7 @@
 - [Side channels](sidechannelscrypto.pdf)
 - [RSA](rsa.pdf)
 - [RSA padding](rsapadding.pdf)
+- [RSA OAEP](rsaoaep.pdf)
 
 # Homework assignments
 
