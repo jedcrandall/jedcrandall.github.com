@@ -186,9 +186,9 @@ papers we will discuss on each date:
 - Febrary 14th - Block ciphers, and discuss the [MiniAES specification](miniaesspec.pdf) and [a tutorial about linear and differential cryptanalysis](ldc_tutorial.pdf)
 - February 28th - Attacks on RC4 and [the final nail in WEP's coffin](bittau-wep.pdf)
 - March 14th - Diffie-Hellman, and their [classic paper](diffiehellman.pdf)
-March 28th - RSA, and their [classic paper](Rsapaper.pdf)
-- April 11th - Reading and topic TBD
-- April 25th - Reading and topic TBD
+- March 28th - RSA, and their [classic paper](Rsapaper.pdf)
+- April 11th - [Shamir's How to Share A Secret](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf)
+- April 25th - [DROWN Attack](https://drownattack.com/drown-attack-paper.pdf)
 
 Essentially, we will meet physically in the classroom the first day of classes,
 one week after that on January 17th, and then every other week from the 17th
