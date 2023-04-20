@@ -23,6 +23,7 @@
 - [Off-path attacks, DNS security](DEFCON-27-Travis-Palmer-First-try-DNS-Cache-Poisoning-with-IPv4-and-IPv6-Fragmentation.pdf) and some [notes and pcaps](https://github.com/jedcrandall/jedcrandall.github.com/tree/master/courses/cse548spring2023/tlsdnsetc)
 - [Netfilter, NAT, routing, firewalls, NIDS, etc.](netfilteretc.pdf)
 - [Tor](tor.pdf)
+- [2003 vs. 2023](2003vs2023.pdf)
 
 # Homework assignments
 
