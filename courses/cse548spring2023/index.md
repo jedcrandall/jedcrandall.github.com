@@ -24,6 +24,7 @@
 - [Netfilter, NAT, routing, firewalls, NIDS, etc.](netfilteretc.pdf)
 - [Tor](tor.pdf)
 - [2003 vs. 2023](2003vs2023.pdf)
+- [Side channels](sidechannels.pdf), and two examples: [1](https://www.usenix.org/sites/default/files/conference/protected-files/security16_slides_cao.pdf), [2](https://www.usenix.org/system/files/sec21_slides_tolley.pdf)
 
 # Homework assignments
 
