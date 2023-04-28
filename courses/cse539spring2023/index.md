@@ -29,6 +29,7 @@
 - [RSA padding](rsapadding.pdf)
 - [RSA OAEP](rsaoaep.pdf)
 - [Elliptic Curve Cryptography](ecc.pdf)
+- [Post-quantum crypto](postquantum.pdf)
 
 # Homework assignments
 
