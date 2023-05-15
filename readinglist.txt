@@ -7,3 +7,8 @@ https://cseweb.ucsd.edu//~savage/papers/PETS23.pdf
 https://people.cs.umass.edu/~amir/papers/UsenixSecurity23_Encrypted_Censorship.pdf
 https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f432_paper.pdf
 https://censoredplanet.org/assets/russia-ukraine-invasion.pdf
+https://ooni.org/post/2023-throttling-kz-elections/
+https://ooni.org/post/2023-russia-a-year-after-the-conflict/
+https://ooni.org/post/2022-russia-blocks-amid-ru-ua-conflict/
+https://ooni.org/post/2021-russia-blocks-tor/
+https://eprint.iacr.org/2017/299.pdf
