@@ -13,3 +13,4 @@ https://ooni.org/post/2022-russia-blocks-amid-ru-ua-conflict/
 https://ooni.org/post/2021-russia-blocks-tor/
 https://eprint.iacr.org/2017/299.pdf
 https://www.comp.nus.edu.sg/~meel/Papers/esa22.pdf
+https://david.choffnes.com/pubs/popets_2023_0003.pdf
