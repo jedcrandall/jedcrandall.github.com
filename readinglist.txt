@@ -19,3 +19,8 @@ https://www.usenix.org/conference/usenixsecurity23/presentation/wu
 https://maginotdns.net/
 https://www.usenix.org/conference/usenixsecurity23/presentation/chakraborti
 https://www.usenix.org/system/files/sec23summer_355-schepers-prepub.pdf
+https://www.ndss-symposium.org/ndss-paper/detecting-unknown-encrypted-malicious-traffic-in-real-time-via-flow-interaction-graph-analysis/
+https://www.ndss-symposium.org/ndss-paper/post-gdpr-threat-hunting-on-android-phones-dissecting-os-level-safeguards-of-user-unresettable-identifiers/
+https://www.ndss-symposium.org/ndss-paper/quicforge-client-side-request-forgery-in-quic/
+https://www.ndss-symposium.org/ndss-paper/your-router-is-my-prober-measuring-ipv6-networks-via-icmp-rate-limiting-side-channels/
+
