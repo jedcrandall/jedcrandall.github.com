@@ -19,3 +19,6 @@ https://www.usenix.org/conference/usenixsecurity23/presentation/wu
 https://maginotdns.net/
 https://www.usenix.org/conference/usenixsecurity23/presentation/chakraborti
 https://www.usenix.org/system/files/sec23summer_355-schepers-prepub.pdf
+https://cseweb.ucsd.edu/~schulman/docs/oakland22-bletracking.pdf
+https://cseweb.ucsd.edu/~schulman/docs/sec23-accessdenied.pdf
+https://cseweb.ucsd.edu/~schulman/docs/asplos23-rosebud.pdf
