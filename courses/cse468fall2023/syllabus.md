@@ -53,10 +53,29 @@ University Student.
 
 ## Grading Policies, Assignments, and Required Materials
 
-There will be three sets of homeworks (crypto, NIDS, and information controls),
+There will be three sets of homeworks (crypto, NIDS, and malware/side channels),
 each totalling up to 100 points for 300 total.  Your grade is 100% based on
 your homework, and will be your total points divided into the 300 possible.
-Grades are based on the following scale where x is the percentage: 97.0 <= x <= 100.0 is an A+, 93.0 <= x < 97.0 is an A, 90.0 <= x < 93.0 is an A-, 87.0 <= x < 90.0 is a B+, 83.0 <= x < 87.0 is a B, 80.0 <= x < 83.0 is a B-, 77.0 <= x < 80.0 is a C+, 70.0 <= x < 77.0 is a C, 60.0 <= x < 70.0 is  a D, and x < 60.0 is an E.
+Grades are based on the following scale where x is the percentage: 97.0 <= x <=
+100.0 is an A+, 93.0 <= x < 97.0 is an A, 90.0 <= x < 93.0 is an A-, 87.0 <= x
+< 90.0 is a B+, 83.0 <= x < 87.0 is a B, 80.0 <= x < 83.0 is a B-, 77.0 <= x <
+80.0 is a C+, 70.0 <= x < 77.0 is a C, 60.0 <= x < 70.0 is  a D, and x < 60.0
+is an E.
+
+There will also be 10 points per week, or 150 points total, for attendance and
+participation.  Typically, this will be self reported and there will be no
+in-class quiz.  At the end of each week, starting on the week of August 21st,
+you will submit a weekly report saying how many lectures you attended that week
+(some weeks, e.g., Thanksgiving week, have only one lecture) and affirming that
+you did everything required to prepare for class.  For each lecture I'll post
+in Canvas a video, a paper to read, or some task that will require about an
+hour to prepare.  If I suspect that students are not self-reporting accurately
+and honestly (e.g., because the head counts differ from the students claiming
+to have been in class), I reserve the right to give in-class, unannounced,
+5-point quizzes that will count as half of your points for that week (the self
+reporting being reduced to 5 points for the week in that case).  Students with
+excused absences (you should email me before class when possible in such cases)
+will be allowed to make up the quiz over email.
 
 There is no textbook for the course, neither required nor recommended.  All
 materials used for the course lectures and assignments will be widely and
@@ -89,17 +108,17 @@ anything, I won't shame you, but if you're asking questions about the homework
 or lectures you're much more likely to get a timely response in Canvas than via
 email.  If I'm slow to reply in Canvas pinging me over email is fine.
 
-All homeworks should be done in Linux.  If you use other OSes you do so at your own risk, and with no
-guarantee of support from me.  If you attempt to do the homeworks in Mac OS, it's
-probably possible but it's going to be painful and I can't help you at all.
-The same goes for any BSD-based OS.  If your OS of choice is another UNIX, like
-Solaris, I also can't help you with OS-specific questions and...seriously?  If
-you attempt to do the homework in OSes that don't have a native UNIX-like
-shell, such as Windows, you will most likely fail.  There are exceptions, but
-unless you've been competing in CtFs with your OS of choice for years and
-already have an environment set up for dealing with raw files, common file
-formats, packet captures, encodings, etc., please just use a Linux virtual
-machine or install Linux somewhere.
+All homeworks should be done in Linux.  If you use other OSes you do so at your
+own risk, and with no guarantee of support from me.  If you attempt to do the
+homeworks in Mac OS, it's probably possible but it's going to be painful and
+the amount of help I can offer is minimal.  The same goes for any BSD-based OS.
+If your OS of choice is another UNIX, like Solaris, I also can't help you with
+OS-specific questions and...seriously?  If you attempt to do the homework in
+OSes that don't have a native UNIX-like shell, such as Windows, you will most
+likely fail.  There are exceptions, but unless you've been competing in CtFs
+with your OS of choice for years and already have an environment set up for
+dealing with raw files, common file formats, packet captures, encodings, etc.,
+please just use a Linux virtual machine or install Linux somewhere.
 
 You are responsible for your own file backups and time management.  E.g., feel
 free to email me, or send as a private post in Canvas, the day before something
@@ -113,10 +132,10 @@ repository that you periodically commit to.
 
 Please refrain from anything that will distract you or others from fully
 engaging in the class.  Disruptive behavior will be dealt with according to
-university policies.  While attendance and classroom behavior are not
-explicitly part of the grade, you are hereby notified that your attendance and
-classroom behavior are considered as part of your overall performance in the
-course to the extent allowed by university policies.
+university policies.  While classroom behavior (unlike attendance) is not
+explicitly part of the grade, you are hereby notified that both your attendance
+and classroom behavior are considered as part of your overall performance in
+the course to the extent allowed by university policies.
 
 You may not record lectures without permission.
 
@@ -127,26 +146,31 @@ As stated above, no textbook is required for this course.
 ## Course Topics
 
 1. Cryptography and other foundations of network security, basic tools
--Review of crypto basics, with case studies for WEP, TLS, GPG, and others
+-Review of crypto basics, with case studies for WEP, WPA, WPA2, WPA3, TLS, GPG, OTR, Signal, Tor, and others
+-Asymmetric cryptography and semantic security
 -Basic information theory
 -Basic tool usage, including Wireshark, tshark, and tcpflow
 2. Network Intrusion Detections Systems (NIDSs), firewalls, attacks, and evasion
 -Firewalls, port scans, and side channel attacks
 -NIDS and NIDS evasion techniques
 -Tool usage for NIDS and NIDS evasion, including Zeek and Scapy
-3. Information controls
 -Case studies, including NSA QUANTUM INSERT, Russia's TSPU, and China's Great Firewall
 -Tools for censorship evasion, privacy, and anonymity
 -Tool usage, including Tor and OONI
+3. Malware and side channels 
+-Port scans, tool usage (e.g., nmap and hping3)
+-Side channels, DNS security
+-Malware, including worms and viruses, targeted malware, etc.
+
 
 ## Assessment
 
-Students will be evaluated on their performance on homework assignments and
-attendance.  There will not be any exams.  
+Students will be evaluated on (1) their performance on homework assignments and
+(2) attendance and participation.  There will not be any exams.  
 
 ## Homework Due Dates
 
-Homework due dates will be posted in advance on the class website and announced
+Homework due dates will be posted in advance in Canvas and announced
 in class.  All times will be Mountain Standard Time, i.e., Arizona time.  Late
 submissions will be accepted with a 1% reduction of score per hour, as
 described above.
