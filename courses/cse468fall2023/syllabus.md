@@ -13,7 +13,7 @@
 
 TBA
 
-## TAs
+## TA and office hours
 
 TBA
 
@@ -66,16 +66,18 @@ There will also be 10 points per week, or 150 points total, for attendance and
 participation.  Typically, this will be self reported and there will be no
 in-class quiz.  At the end of each week, starting on the week of August 21st,
 you will submit a weekly report saying how many lectures you attended that week
-(some weeks, e.g., Thanksgiving week, have only one lecture) and affirming that
-you did everything required to prepare for class.  For each lecture I'll post
-in Canvas a video, a paper to read, or some task that will require about an
-hour to prepare.  If I suspect that students are not self-reporting accurately
-and honestly (e.g., because the head counts differ from the students claiming
-to have been in class), I reserve the right to give in-class, unannounced,
-5-point quizzes that will count as half of your points for that week (the self
-reporting being reduced to 5 points for the week in that case).  Students with
-excused absences (you should email me before class when possible in such cases)
-will be allowed to make up the quiz over email.
+(some weeks, e.g., Thanksgiving week, have only one lecture---don't worry, you
+won't be marked down for this) and affirming that you did everything required
+to prepare for class.  For each lecture I'll post in Canvas a video to watch, a
+paper to read, or some task that will require about an hour to prepare.  If I
+suspect that students are not self-reporting accurately and honestly (e.g.,
+because the head counts differ from the students claiming to have been in
+class, or blank stares when I ask about the preparation material), I reserve
+the right to give in-class, unannounced, 5-point quizzes that will count as
+half of your points for that week (the self reporting being reduced to 5 points
+out of 10 for the week in that case).  Students with excused absences (you
+should email me before class when possible in such cases) will be allowed to
+make up the quiz over email.
 
 There is no textbook for the course, neither required nor recommended.  All
 materials used for the course lectures and assignments will be widely and
@@ -89,7 +91,7 @@ forgiveness (e.g., any of them from below): For every hour that an assignment
 is turned in late, you will lose 1% of the grade.  Note that a little after
 four days late the assignment is worth 0%.
 
-As an alternative to that policy, for every course you are entitled to:
+As an alternative to that policy, in every course you are entitled to:
 - Excused absences related to religious observances/practices that are in
   accord with [ACD 304-04](https://www.asu.edu/aad/manuals/acd/acd304-04.html).
 - Excused absences related to university sanctioned events/activities that are in accord with [ACD 304-02](https://www.asu.edu/aad/manuals/acd/acd304-02.html).
@@ -161,7 +163,6 @@ As stated above, no textbook is required for this course.
 -Port scans, tool usage (e.g., nmap and hping3)
 -Side channels, DNS security
 -Malware, including worms and viruses, targeted malware, etc.
-
 
 ## Assessment
 
