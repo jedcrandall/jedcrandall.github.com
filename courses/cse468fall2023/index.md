@@ -9,7 +9,7 @@
 
 # Syllabus
 
-- The syllabus is [here](https://jedcrandall.github.io/courses/cse468fall2022/syllabus.html), PDF version is in Canvas or [here](https://jedcrandall.github.io/courses/cse468fall2022/syllabus.pdf).
+- The syllabus is [here](https://jedcrandall.github.io/courses/cse468fall2023/syllabus.html), PDF version is in Canvas or [here](https://jedcrandall.github.io/courses/cse468fall2023/syllabus.pdf).
 
 # Slides
 
