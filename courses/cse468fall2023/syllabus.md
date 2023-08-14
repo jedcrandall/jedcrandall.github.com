@@ -11,11 +11,13 @@
 
 ## Office Hours
 
-TBA
+BYENG 574, 12pm to 1:30pm on Thursdays.  I'll also be [on
+Jitsi](https://meet.jit.si/CSE468Fall2023OfficeHours) while I'm in office hours
+in case you can't make it physically.  If you make it to the physical office or to the Jitsi room by 1:30pm I can stay until almost 2pm.
 
 ## TA and office hours
 
-TBA
+You can contact the TA through Canvas.  Her office hours are TBA.
 
 ## Course Description
 
@@ -96,6 +98,10 @@ As an alternative to that policy, in every course you are entitled to:
   accord with [ACD 304-04](https://www.asu.edu/aad/manuals/acd/acd304-04.html).
 - Excused absences related to university sanctioned events/activities that are in accord with [ACD 304-02](https://www.asu.edu/aad/manuals/acd/acd304-02.html).
 - Excused absences related to missed class due to military line-of-duty activities that are in accord with [ACD 304-11](https://www.asu.edu/aad/manuals/acd/acd304-11.html).
+
+Your attendance will be self-recorded in Canvas.  Reporting yourself as present
+when you were actually absent will be considered a violation of academic
+integrity (same as cheating on an assignment).
 
 ## Instruction Style
 
@@ -272,7 +278,4 @@ Students with Disabilities.
 Any information in this syllabus may be subject to change with reasonable
 advance notice.
 
-## Tentative Schedule 
-
-TBA
 
