@@ -55,14 +55,14 @@ University Student.
 
 ## Grading Policies, Assignments, and Required Materials
 
-There will be three sets of homeworks (crypto, NIDS, and malware/side channels),
-each totalling up to 100 points for 300 total.  Your grade is 100% based on
-your homework, and will be your total points divided into the 300 possible.
-Grades are based on the following scale where x is the percentage: 97.0 <= x <=
-100.0 is an A+, 93.0 <= x < 97.0 is an A, 90.0 <= x < 93.0 is an A-, 87.0 <= x
-< 90.0 is a B+, 83.0 <= x < 87.0 is a B, 80.0 <= x < 83.0 is a B-, 77.0 <= x <
-80.0 is a C+, 70.0 <= x < 77.0 is a C, 60.0 <= x < 70.0 is  a D, and x < 60.0
-is an E.
+There will be three sets of homeworks (crypto, NIDS, and malware/side
+channels), each totalling up to 100 points for 300 total.  Your grade is based
+on homework and attendance, and will be your total points divided into the 450
+possible.  Grades are based on the following scale where x is the percentage:
+97.0 <= x <= 100.0 is an A+, 93.0 <= x < 97.0 is an A, 90.0 <= x < 93.0 is an
+A-, 87.0 <= x < 90.0 is a B+, 83.0 <= x < 87.0 is a B, 80.0 <= x < 83.0 is a
+B-, 77.0 <= x < 80.0 is a C+, 70.0 <= x < 77.0 is a C, 60.0 <= x < 70.0 is  a
+D, and x < 60.0 is an E.
 
 There will also be 10 points per week, or 150 points total, for attendance and
 participation.  Typically, this will be self reported and there will be no
@@ -80,6 +80,15 @@ half of your points for that week (the self reporting being reduced to 5 points
 out of 10 for the week in that case).  Students with excused absences (you
 should email me before class when possible in such cases) will be allowed to
 make up the quiz over email.
+
+At the end of the semester, everyone will be forgiven 3 free days (15 points)
+toward their attendance grade.  For one-off events (need to stay home with sick
+kids, job interviews, car trouble, etc.) you can email me to get the absence
+excused, but do not report yourself as present in the system in this case.
+Instead, the TA, grader, or I will adjust your score from our end.  If an
+individual student has an anomolously high number of "one-off events" then I'll
+start referring them to the Dean of Students for proper documentation instead
+of forgiving the absence on my own.
 
 There is no textbook for the course, neither required nor recommended.  All
 materials used for the course lectures and assignments will be widely and
@@ -101,7 +110,8 @@ As an alternative to that policy, in every course you are entitled to:
 
 Your attendance will be self-recorded in Canvas.  Reporting yourself as present
 when you were actually absent will be considered a violation of academic
-integrity (same as cheating on an assignment).
+integrity (same as cheating on an assignment).  Do not record yourself as
+present for excused absences, the TA and I will adjust your score from our end.
 
 ## Instruction Style
 
