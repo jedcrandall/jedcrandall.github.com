@@ -13,7 +13,7 @@
 
 # Slides
 
-TBA
+- [First lecture](firstlecture.pdf)
 
 # Homework assignments
 
