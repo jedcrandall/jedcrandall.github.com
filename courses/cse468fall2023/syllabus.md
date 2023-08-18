@@ -17,7 +17,9 @@ in case you can't make it physically.  If you make it to the physical office or 
 
 ## TA and office hours
 
-You can contact the TA through Canvas.  Her office hours are TBA.
+Your TA is Sana Habib.  Don't contact her directly through email or other means
+other than Canvas.  Her office hours are 3pm to 4:30pm Thursdays and Fridays in
+both BYENG 221 and [on Jitsi](https://meet.jit.si/CSE468Fall2023OfficeHours). 
 
 ## Course Description
 
