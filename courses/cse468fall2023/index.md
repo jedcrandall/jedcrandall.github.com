@@ -14,6 +14,7 @@
 # Slides
 
 - [First lecture](firstlecture.pdf)
+- [Symmetric crypto through the 80's](symmetricryptothru80s.pdf)
 
 # Homework assignments
 

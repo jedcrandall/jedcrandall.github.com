@@ -85,12 +85,12 @@ make up the quiz over email.
 
 At the end of the semester, everyone will be forgiven 3 free days (15 points)
 toward their attendance grade.  For one-off events (need to stay home with sick
-kids, job interviews, car trouble, etc.) you can email me to get the absence
-excused, but do not report yourself as present in the system in this case.
-Instead, the TA, grader, or I will adjust your score from our end.  If an
-individual student has an anomolously high number of "one-off events" then I'll
-start referring them to the Dean of Students for proper documentation instead
-of forgiving the absence on my own.
+kids, you're sick yourself, job interviews, car trouble, etc.) you can email me
+to get the absence excused, but do not report yourself as present in the system
+in this case.  Instead, the TA, grader, or I will adjust your score from our
+end.  If an individual student has an anomolously high number of "one-off
+events" then I'll start referring them to the Dean of Students for proper
+documentation instead of forgiving the absence on my own.
 
 There is no textbook for the course, neither required nor recommended.  All
 materials used for the course lectures and assignments will be widely and
