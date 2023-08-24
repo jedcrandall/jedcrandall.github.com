@@ -15,6 +15,7 @@
 
 - [First lecture](firstlecture.pdf)
 - [Symmetric crypto through the 80's](symmetricryptothru80s.pdf)
+- [Information theory and PRNG](informationtheoryprng.pdf)
 
 # Homework assignments
 
