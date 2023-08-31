@@ -16,6 +16,8 @@
 - [First lecture](firstlecture.pdf)
 - [Symmetric crypto through the 80's](symmetricryptothru80s.pdf)
 - [Information theory and PRNG](informationtheoryprng.pdf)
+- [AES and cipher mode basics](aesciphermodes.pdf)
+- [CBC padding oracle attack](cbcpaddingoracle.pdf)
 
 # Homework assignments
 
