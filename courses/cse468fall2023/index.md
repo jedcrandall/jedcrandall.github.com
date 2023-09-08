@@ -18,6 +18,8 @@
 - [Information theory and PRNG](informationtheoryprng.pdf)
 - [AES and cipher mode basics](aesciphermodes.pdf)
 - [CBC padding oracle attack](cbcpaddingoracle.pdf)
+- [Diffie-Hellman, ECC, and asymmetric crypto primitives](dheccetc.pdf)
+- [RSA, OAEP, and semantic security](rsaandattacks.pdf)
 
 # Homework assignments
 
