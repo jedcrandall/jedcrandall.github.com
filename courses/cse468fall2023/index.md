@@ -20,6 +20,9 @@
 - [CBC padding oracle attack](cbcpaddingoracle.pdf)
 - [Diffie-Hellman, ECC, and asymmetric crypto primitives](dheccetc.pdf)
 - [RSA, OAEP, and semantic security](rsaandattacks.pdf)
+- [Hash functions and certificates](hashfunctionscerts.pdf)
+- [Stream ciphers](streamcipherswifi.pdf)
+- [WiFi and physical layer security](wifisecurityandphysical.pdf) and [a tar ball with some related files](physicalandwifipcaps.tgz)
 
 # Homework assignments
 
