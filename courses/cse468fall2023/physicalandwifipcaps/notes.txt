@@ -1,0 +1,6 @@
+$ head -n 5000 /usr/share/dict/american-english | tail -n 500 | python3 rc4-3.py | grep guess | sort | uniq -c | sort -nr | head -n 5
+   4390 guess is 0xde
+   2195 guess is 0x3f
+   1756 guess is 0xc7
+   1756 guess is 0xc1
+   1317 guess is 0xe7
