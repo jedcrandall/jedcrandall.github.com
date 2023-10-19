@@ -25,6 +25,7 @@
 - [WiFi and physical layer security](wifisecurityandphysical.pdf) and [a tar ball with some related files](physicalandwifipcaps.tgz)
 - [OTR and Signal](otrandsignal.pdf)
 - [Post-quantum crypto](postquantum.pdf)
+- [NIDS intro](nidsintro.pdf)
 
 # Homework assignments
 
