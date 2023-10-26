@@ -26,6 +26,7 @@
 - [OTR and Signal](otrandsignal.pdf)
 - [Post-quantum crypto](postquantum.pdf)
 - [NIDS intro](nidsintro.pdf)
+- Some slides about Russia's TSPU, courtesy of Diwen Xue, are [here](TSPU_IMC.pdf)
 
 # Homework assignments
 
