@@ -28,6 +28,7 @@
 - [NIDS intro](nidsintro.pdf)
 - Some slides about Russia's TSPU, courtesy of Diwen Xue, are [here](TSPU_IMC.pdf)
 - [Tor](tor.pdf)
+- [Port scans and side channels](portscansidechannels.pdf) with two examples of side channels [here](security16_slides_cao.pdf) and [here](sec21_slides_tolley.pdf)
 
 # Homework assignments
 
