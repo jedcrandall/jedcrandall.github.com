@@ -29,6 +29,9 @@
 - Some slides about Russia's TSPU, courtesy of Diwen Xue, are [here](TSPU_IMC.pdf)
 - [Tor](tor.pdf)
 - [Port scans and side channels](portscansidechannels.pdf) with two examples of side channels [here](security16_slides_cao.pdf) and [here](sec21_slides_tolley.pdf)
+- [DNS security](dnssecurity.pdf)
+- We watched two YouTube videos: [FOCI 2014](https://www.usenix.org/conference/foci14/workshop-program/presentation/knockel) and [Travis Palmer's DEFCON talk](https://www.youtube.com/watch?v=jM4wKCGvbp0) ([slides](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Travis-Palmer-First-try-DNS-Cache-Poisoning-with-IPv4-and-IPv6-Fragmentation.pdf))
+- [Malware](malware.pdf)
 
 # Homework assignments
 
