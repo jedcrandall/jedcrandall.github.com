@@ -1,0 +1,41 @@
+
+
+# Course Info
+
+- Course Name: CSE 536, Advanced Operating Systems
+- Semester: Spring 2024
+- Instructor: [Jed Crandall](https://jedcrandall.github.io)
+- More info is in the syllabus, see below.  Also check Canvas.
+
+# Syllabus
+
+- The syllabus is [here](syllabus.html), also available as a [PDF](syllabus.pdf).
+
+# Slides
+
+- ...
+
+# Wednesday Readings
+
+
+- 1/17: *Two readings* about Werewolves... [this one](CSET12.pdf) *and* [this one](3GSE2014.pdf) 
+- 1/24: *Two readings* about the confinement problem... [a note](lampson73.pdf) *and* [a comment](https://dl.acm.org/doi/pdf/10.1145/800213.806537) 
+- 1/31: [setuid() demystified](setuid-usenix02.pdf)
+- 2/7: [Fixing races for fun and profit](borisov.pdf) 
+- 2/14: [Rowhammer](https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html) 
+- 2/21: [MELTDOWN](sec18-lipp.pdf) 
+
+- 2/28: [BK16](https://arsenalexperts.com/persistent/resources/pages/BK-Case-Rona-Wilson-Report-II.zip) 
+- 3/6: [Lamport](time-clocks.pdf) 
+- 3/13: Sring break
+- 3/20: [Dijkstra](EWD123.PDF) 
+- 3/27: [Eraser](Tocs97.pdf)
+- 4/3: [Elements of Interaction](https://dl.acm.org/doi/pdf/10.1145/151233.151240)
+- 4/10: [RPC](birrell842.pdf)
+- 4/17: [p2p](cacm03.pdf)
+- 4/24: [Priority inversion](pathfinder-robotmag.pdf)
+
+# Homework assignments
+
+- Will be posted in Canvas, not here.
+
