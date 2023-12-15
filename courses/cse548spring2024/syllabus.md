@@ -7,9 +7,9 @@ Note: If you're reading the PDF version of this syllabus, you should switch to t
 - Course Name: CSE 548, Advanced Network Security
 - Instructor: Jed Crandall
 - Email: jedimaestro@asu.edu
-- Meeting Times: Tuesdays and Thursdays 1:30pm to 2:45pm
-- Meeting Location: Tempe - COORS 120
-- Online Discussions: TBD (will probably be in Canvas or Piazza)
+- Meeting Times: Mondays and Wednesdays 12:00pm to 1:15pm
+- Meeting Location: Tempe - COORL1-10
+- Online Discussions: TBD (will probably be in Canvas)
 
 ## Office Hours
 
@@ -23,6 +23,13 @@ and I'm not there please shoot me a quick email and I'll jump into Jitsi.
 I'll announce the TA's name(s) and office hours early in the semester.  Please
 do not contact the TA directly, all course-related communications with the TA
 should be through online discussion or office hours.
+
+For course logistics questions message the instructor (Prof. Crandall) directly
+(preferably through Canvas, but email is okay).  For anything where you may
+require some accomodation there needs to be a paper trail, so email the
+instructor directly.  The TA only helps with homeworks and course logistics
+like attendance, so there is no reason to email them about your attendance,
+extensions, etc.
 
 ## Course Description
 
@@ -70,9 +77,12 @@ grade, for 20% total.
 - There will be a Midterm and a Final Exam that are each worth 15% of the grade, so 30% total.
 - There will be a final project worth 30% of the grade.
 
-TODO: attendance
-
 Final letter grades are based on the following scale where x is the percentage: 97.0 <= x <= 100.0 is an A+, 93.0 <= x < 97.0 is an A, 90.0 <= x < 93.0 is an A-, 87.0 <= x < 90.0 is an B+, 83.0 <= x < 87.0 is an B, 80.0 <= x < 83.0 is an B-, 77.0 <= x < 80.0 is an C+, 73.0 <= x < 77.0 is an C, 70.0 <= x < 73.0 is an C-, 60.0 <= x < 70.0 is D, and x < 60.0 is an E.
+
+There will be no adjustments to grades at the end of the semester.  If you
+missed a certain grade by a small fraction of a percent, I can't do anything
+about that out of fairness to the rest of the class.  Grades will not be curved
+in any way.
 
 There is no textbook for the course, neither required nor recommended.  All
 materials used for the course lectures and assignments will be widely and
@@ -87,32 +97,61 @@ For every course you are entitled to:
 - Excused absences related to university sanctioned events/activities that are in accord with [ACD 304-02](https://www.asu.edu/aad/manuals/acd/acd304-02.html).
 - Excused absences related to missed class due to military line-of-duty activities that are in accord with [ACD 304-11](https://www.asu.edu/aad/manuals/acd/acd304-11.html).
 
-In the event of an excused absence (which you must communicate with the
-instructor about), you can make up for the absence in your attendance and
-participation grade by reading the paper, participating in the online
-discussion, and/or reviewing lecture slides.
+Attendance and participation are required.  You must bring a device to class
+that is capable of logging into Canvas, since you will record your attendance
+each day in the first 15 minutes of class through Canvas.  Stay until the end
+of class if you mark yourself present, at the end of each lecture period I
+reserve the right to choose a small number of random names (uniformly at
+random) and check ASU IDs for those students on the way out the door.  *Any
+instance of reporting yourself as present for a day where you were late to
+class, left early, or did not come at all will be treated as a case of academic
+dishonest*.  If you lie about attendance in Canvas on one of the attendance
+quizzes I will give you an F in the course and report you to the AIO.
+
+You will receive three absences without penalty, i.e., I will forgive up to
+three absences in your grade calculation at the end of the semester.  There
+will be no "bonus" points for students who do not use all of their absences.
+In principle, you should be interested in learning the material and wanting to
+come to class.  I only include attendance as part of the grade because without
+doing this half the class chooses not to show up on any given day.  Even with
+attendance as part of the grade this happens because students "cheat" and
+report themselves as present when they are not.  If you don't feel like coming
+to class regularly is worth your time, come discuss it with me in office hours
+and maybe I can adjust my lecture style or you can switch to a different class
+about a subject you actually want to learn about.
+
+I encourage you to send me an email when you miss class.  Do not send Canvas
+messages because I have no way to save them.  You can simply say "I missed
+class for personal reasons", or you can give me a reason.  I won't judge
+whether the absence is excusable or not, but if you need an incomplete, more
+forgiven absences for grading purposes, or some other accomodation the paper
+trail of emails could be helpful.  I am unlikely to accomodate extended
+absences, incomplete grades, etc. without the Dean of Students office or SCAI
+advisement being involved, so make sure you reach out to them when you run into
+life difficulties that will affect your attendance and performance in this
+class (or any cclasses).
+
+Note that absences that fall under policies ACD 304-04, ACD 304-02, or ACD
+304-11 won't count against your grade or take away from the three forgiven
+absences at the end of the semester.  However, if you want to utilize one of
+these three policies you need to make that clear and have all the proper
+documentation.
+
 
 ## Instruction Style
 
 The course will be a combination of in-person lectures on Wednesdays and paper to read and discuss on Mondays.  Both will occur during the regularly scheduled class period.
 
-Attendance and participation are required.  You must bring a device to class
-that is capable of logging into Canvas, you will record your attendance each
-day in the first 15 minutes of class through Canvas.  Stay until the end of
-class if you mark yourself present, at the end of each lecture period I reserve
-the right to choose a small number of random names (uniformly at random) and
-check ASU IDs for those students on the way out the door.  *Any instance of reporting yourself as present for a day where you were late to class, left early, or did not come at all will be treated as a case of academic dishonest*.  If you lie about attendance in Canvas on one of the attendance quizzes I will give you an F in the course and report you to the AIO.
-
 For questions and answers regarding course materials and homework please use
 the course's discussion board or come to office hours, unless there is some
-compelling reason to use email.  Also use Canvas for course administrativia
-unless there is some reason to use email.  (requesting an extension, you need a
-signature from me for some reason, etc.) Feel free to email me any time for
-anything, I won't shame you, but if you're asking questions about the homework
-or lectures you're much more likely to get a timely response in the course
-discussion platform than via email, and if you email me about important things
-you might have to ping me because I don't keep my email inbox clean like I do
-my Canvas inbox.
+compelling reason to use email.  Use email for course administrativia so there
+is a paper trail (I delete old Canvas messages after they have been addressed),
+but feel free to ping me in Canvas so I don't miss the email.  Feel free to
+email me any time for anything, I won't shame you, but if you're asking
+questions about the homework or lectures you're much more likely to get a
+timely response in the course discussion platform than via email, and if you
+email me about important things you might have to ping me because I don't keep
+my email inbox clean like I do my Canvas inbox.
 
 All homeworks should be done in Linux.  You can use other OSes, but if you need
 help (tool recommendations, help with debugging, troubleshooting error
