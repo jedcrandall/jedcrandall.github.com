@@ -11,6 +11,21 @@
 
 - The syllabus is [here](syllabus.html), also available as a [PDF](syllabus.pdf).
 
+We'll take a first principles approach to learning about the cryptography and
+protocols that are widely used on the Internet.  If you're likely to see
+something in a PCAP or the physical layer of an Internet hop, we want to
+understand why things work the way they do all the way down the physics,
+history, and mathematics that define it.  E.g., to understand the crypto behind
+applications and protocols such as HTTPS (i.e., TLS), Tor, Signal/WhatsApp,
+WPA3, etc. we'll drill all the way down into classical and quantum physics.  To
+understand why IP and TCP fields such as the IPID, TTL, source port, and flags
+are set in certain ways (e.g., randomized) we'll cover the major side channel
+attacks that shaped these protocols and implementations over the past 50 years.
+To understand why Internet censorship and circumvention tools and techniques
+work the way they do, we'll start with how basic results from distributed
+systems and Einstein's theory of special relativity define the parameters of
+this adversarial relationship.
+
 # Slides
 
 - ...
@@ -29,8 +44,8 @@ pec.pdf) *and* [a tutorial about linear and differential cryptanalysis](ldc_tuto
 - 3/11: Sring break
 - 3/18: [Ptacek and Newsham](PtacekNewsham98.pdf) 
 - 3/25: [Tor](ADA465464.pdf)
-- 4/1: [DV++](https://dl.acm.org/doi/pdf/10.1145/3243734.3243790)
-- 4/8: [Knockel FOCI 2014 side channel](foci2014.pdf)
+- 4/1: [ScrambleSuit](wpes13-scramblesuit.pdf), [Xue et al. on TLS-in-TLS](https://www.usenix.org/system/files/sec24summer-prepub-465-xue.pdf), [Wails et al.](https://www.robgjansen.com/publications/precisedetect-ndss2024.pdf), *or* [Xue et al. on OpenVPN](https://www.usenix.org/system/files/sec22-xue-diwen.pdf) --- You only have to pick one and read it, but be ready to explain it to those in the class who chose a different paper.
+- 4/8: [Knockel FOCI 2014 side channel](foci2014.pdf) and [DV++](https://dl.acm.org/doi/pdf/10.1145/3243734.3243790)
 - 4/15: [Blind in/on-path attacks on VPNs](Blind-in-path-attacks-VPN-USENIX21.pdf)
 - 4/22: [Pegasus](Million-Dollar-Dissident.pdf)
 

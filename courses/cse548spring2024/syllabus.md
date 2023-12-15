@@ -1,6 +1,6 @@
 # Syllabus
 
-Note: If you're reading the PDF version of this syllabus, you should switch to the [HTML version online](https://jedcrandall.github.io/courses/cse548spring2023/syllabus.html) if possible.  The PDF rendering of the original markdown has weirdness with lists, and none of the links to papers work in the PDF.
+Note: If you're reading the PDF version of this syllabus, you should switch to the [HTML version online](https://jedcrandall.github.io/courses/cse548spring2023/syllabus.html) if possible.  
 
 ## Course Info and Contact Information
 
@@ -13,7 +13,10 @@ Note: If you're reading the PDF version of this syllabus, you should switch to t
 
 ## Office Hours
 
-Thursdays 9am to 11am in [Jitsi](https://meet.jit.si/CrandallSpring2023OfficeHours)
+Thursdays 9am to 11am in
+[Jitsi](https://meet.jit.si/CrandallSpring2024OfficeHours) and in person at
+BYENG 574.  I may forget to get online, so if you're trying to attend online
+and I'm not there please shoot me a quick email and I'll jump into Jitsi. 
 
 ## TAs
 
@@ -62,19 +65,12 @@ Prerequisite(s): Computer Engineering or Computer Science graduate student or Da
 The grade will be calculated as follows:
 
 - Attendance is 20% of the grade and will be self-graded, with a rubric that is described below.
-- Two homeworks (one assigned in late January and due in late February, the
-  other assigned in late February and due in late March) are each 15% of the
-grade, for 30% total.
-- There will be a pre-exam early in the semester that is 10% of the final grade, but is an all-or-nothing grade based on participation where there are no wrong answers.
-- There will be a Final Exam that is worth 10% of the grade.  It will probably be online.
+- Two sets of homeworks are each 10% of the
+grade, for 20% total.
+- There will be a Midterm and a Final Exam that are each worth 15% of the grade, so 30% total.
 - There will be a final project worth 30% of the grade.
 
-Rubric for attendance (10 points for each week broken up into 5 points for
-Tuesday lectures and 5 points for Thursday paper discussions):
-
-- Tuesdays... 5/5 if you attended class or received confirmation from the instructor that your absence is excused, 0/5 for unexcused absences.
-- Thursdays... 5/5 if you read the paper carefully and took at least one note on
-  every page, and also made at least one substantive comment in class or in the online discussion (doing both is okay), 3/5 if you skimmed the paper and followed the discussion, 1/5 if you at least showed up to class on Thursday.
+TODO: attendance
 
 Final letter grades are based on the following scale where x is the percentage: 97.0 <= x <= 100.0 is an A+, 93.0 <= x < 97.0 is an A, 90.0 <= x < 93.0 is an A-, 87.0 <= x < 90.0 is an B+, 83.0 <= x < 87.0 is an B, 80.0 <= x < 83.0 is an B-, 77.0 <= x < 80.0 is an C+, 73.0 <= x < 77.0 is an C, 70.0 <= x < 73.0 is an C-, 60.0 <= x < 70.0 is D, and x < 60.0 is an E.
 
@@ -98,19 +94,25 @@ discussion, and/or reviewing lecture slides.
 
 ## Instruction Style
 
-The course will be a combination of in-person lectures on Tuesdays and Thursday paper discussions, both occurring during the regularly scheduled class period.
+The course will be a combination of in-person lectures on Wednesdays and paper to read and discuss on Mondays.  Both will occur during the regularly scheduled class period.
 
-Attendance and participation are required, but will not be recorded by the
-instructor or TA.  You will self-grade based on the above rubric (i.e., the
-honor system).
+Attendance and participation are required.  You must bring a device to class
+that is capable of logging into Canvas, you will record your attendance each
+day in the first 15 minutes of class through Canvas.  Stay until the end of
+class if you mark yourself present, at the end of each lecture period I reserve
+the right to choose a small number of random names (uniformly at random) and
+check ASU IDs for those students on the way out the door.  *Any instance of reporting yourself as present for a day where you were late to class, left early, or did not come at all will be treated as a case of academic dishonest*.  If you lie about attendance in Canvas on one of the attendance quizzes I will give you an F in the course and report you to the AIO.
 
 For questions and answers regarding course materials and homework please use
 the course's discussion board or come to office hours, unless there is some
-compelling reason to use email.  Use email for course administrativia
-(requesting an extension, you need a signature from me for some reason, etc.)
-Feel free to email me any time for anything, I won't shame you, but if you're
-asking questions about the homework or lectures you're much more likely to get
-a timely response in the course discussion platform than via email.
+compelling reason to use email.  Also use Canvas for course administrativia
+unless there is some reason to use email.  (requesting an extension, you need a
+signature from me for some reason, etc.) Feel free to email me any time for
+anything, I won't shame you, but if you're asking questions about the homework
+or lectures you're much more likely to get a timely response in the course
+discussion platform than via email, and if you email me about important things
+you might have to ping me because I don't keep my email inbox clean like I do
+my Canvas inbox.
 
 All homeworks should be done in Linux.  You can use other OSes, but if you need
 help (tool recommendations, help with debugging, troubleshooting error
@@ -129,10 +131,10 @@ repository (e.g., on github) that you periodically commit to.
 
 Please refrain from anything that will distract you or others from fully
 engaging in the class.  Disruptive behavior will be dealt with according to
-university policies.  While attendance and classroom behavior are not
-explicitly part of the grade, you are hereby notified that your attendance and
-classroom behavior are considered as part of your overall performance in the
-course to the extent allowed by university policies.
+university policies.  While classroom behavior is not explicitly part of the
+grade, you are hereby notified that your attendance and classroom behavior are
+considered as part of your overall performance in the course to the extent
+allowed by university policies.
 
 You may not record class discussions without permission.
 
@@ -167,17 +169,21 @@ Second half of the course: Information controls on the Internet and related Inte
 -Throttling (Russia's TSPU as an example)
 -Internet blackouts
 
-## Readings (subject to change, but with at least two weeks notice):
+## Readings:
+
+Refer to the course website for readings on Mondays.  You are expected to read
+the assigned paper(s) for each day and come prepared to discuss it.
 
 ## Assessment
 
-Students will be evaluated on attendance and participation, their performance
-on homework assignments, and their performance on exams.  Details are above.
+Students will be evaluated on attendance, their performance on homework
+assignments and final projects, and their performance on exams.  Details are
+above.
 
 ## Homework Due Dates
 
-Homework due dates will be posted in advance on the class website and announced
-in class.  All times will be Mountain Standard Time, i.e., Arizona time.  
+Homework due dates will be posted in advance on Canvas and announced in class.
+All times will be Mountain Standard Time, i.e., Arizona time.  
 
 ## Academic Integrity
 
@@ -218,17 +224,6 @@ of your source code and answer questions to get full points.  Some assignments
 are graded automatically by grade scripts with anti-cheating mechanisms
 built-in.  Do not cheat -- it is not worth risking your grade and your academic
 profile.
-
-## Security token
-
-As part of the first homework, you will generate or receive a 128-bit token
-that will serve as a sort of student ID for the course.  You are not to make
-this token public; share it with any of your classmates; share it with anybody
-other than the instructor, yourself, and the TAs; find out the token of any of
-your classmates; or in any way compromise the confidentiality policy that only
-you yourself and the instructor/TAs for the course should know your security
-token.  If you violate this policy that will be considered cheating as per the
-policy above.
 
 ## Sexual Discrimination
 
@@ -286,6 +281,8 @@ Students with Disabilities.
 ## Future Changes
 
 Any information in this syllabus may be subject to change with reasonable
-advance notice.
+advance notice.  If there is a contradiction in the syllabus or between
+something I said elsewhere (e.g., in class or on Canvas) and the syllabus,
+please bring it to my attention and it will be corrected.
 
 
