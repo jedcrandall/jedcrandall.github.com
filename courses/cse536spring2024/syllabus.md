@@ -1,14 +1,14 @@
 # Syllabus
 
-Note: If you're reading the PDF version of this syllabus, you should switch to the [HTML version online](https://jedcrandall.github.io/courses/cse548spring2024/syllabus.html) if possible.  
+Note: If you're reading the PDF version of this syllabus, you should switch to the [HTML version online](https://jedcrandall.github.io/courses/cse536spring2024/syllabus.html) if possible.  
 
 ## Course Info and Contact Information
 
-- Course Name: CSE 548, Advanced Network Security
+- Course Name: CSE 536, Advanced Operating Systems
 - Instructor: Jed Crandall
 - Email: jedimaestro@asu.edu
-- Meeting Times: Mondays and Wednesdays 12:00pm to 1:15pm
-- Meeting Location: Tempe - COORL1-10
+- Meeting Times: Mondays and Wednesdays 10:30am to 11:45am
+- Meeting Location: Tempe - COOR174
 - Online Discussions: TBD (will probably be in Canvas)
 
 ## Office Hours
@@ -39,33 +39,25 @@ security, and viruses."
 
 ## Course Objectives
 
-- Students will gain an understanding of both symmetric and asymmetric
-  applied cryptography.
-- Students will gain an understanding of Network Intrusion Detections Systems
-  (NIDS) and techniques for evading NIDS.
-- Students will gain an understanding of how NIDS is applied around the world
-  by various nation states for information controls (e.g., Internet
-  censorship).
-- Students will gain an understanding of basic tools used for network security
-  analysis.
-- Students will gain an understanding of current research topics in measuring
-  information controls on the Internet.
+- Students will gain an understanding of virtual memory, process separation, and the UNIX process tree.
+- Students will gain an understanding of filesytems and access controls.
+- Students will gain an understanding of interprocess communication. 
+- Students will gain an understanding of CPU scheduling.
+- Students will gain an understanding of distributed systems.
+- Students will gain an understanding of covert channels and side channels and the effect they have on operating systems security and privacy.
 
 ## Course Learning Outcomes
 
-- Students will identify if a given cryptosystem is symmetric or asymmetric.
-- Students will identify if a cryptosystem has perfect forward secrecy.
-- Students will identify NIDS evasions within a packet capture using industry
-  standard tools, including Wireshark.
-- Students will compare the NIDS systems and related evasion techniques that
-  various nation states around the world use for information controls.
-- Students will compare different Internet measurements and related
-  experimental methodologies.
+- Students will identify how access controls are applied based on the process hierarchy and filesystem information of a modern UNIX system. 
+- Students will identify different strategies for CPU scheduling.
+- Students will compare different types of interprocess communication.
+- Sutdents will compare different ways of implementing distributed systems.
+
 
 
 ## Enrollment Requirements
 
-Prerequisite(s): Computer Engineering or Computer Science graduate student or Data Science, Analytics and Engineering PhD or Software Engineering MS OR Online Computer Science nondegree-seeking graduate student.
+Prerequisite(s): Computer Engineering or Computer Science or Robotics & Autonomous Systems (Artificial Intelligence) graduate student OR Online Computer Science nondegree-seeking graduate student
 
 ## Grading Policies, Assignments, and Required Materials
 
@@ -122,14 +114,14 @@ about a subject you actually want to learn about.
 
 I encourage you to send me an email when you miss class.  Do not send Canvas
 messages because I have no way to save them.  You can simply say "I missed
-class for personal reasons", or you can give me a reason.  I won't judge
-whether the absence is excusable or not, but if you need an incomplete, more
-forgiven absences for grading purposes, or some other accomodation the paper
-trail of emails could be helpful.  I am unlikely to accomodate extended
-absences, incomplete grades, etc. without the Dean of Students office or SCAI
-advisement being involved, so make sure you reach out to them when you run into
-life difficulties that will affect your attendance and performance in this
-class (or any classes).
+class for personal reasons", or you can give me a reason.  Please do not feel
+compelled to give me personal details.  I won't judge whether the absence is
+excusable or not, but if you need an incomplete, more forgiven absences for
+grading purposes, or some other accomodation the paper trail of emails could be
+helpful.  I am unlikely to accomodate extended absences, incomplete grades,
+etc. without the Dean of Students office or SCAI advisement being involved, so
+make sure you reach out to them when you run into life difficulties that will
+affect your attendance and performance in this class (or any classes).
 
 Note that absences that fall under policies ACD 304-04, ACD 304-02, or ACD
 304-11 won't count against your grade or take away from the three forgiven
@@ -140,7 +132,7 @@ documentation.
 
 ## Instruction Style
 
-The course will be a combination of in-person lectures on Wednesdays and papers to read and discuss on Mondays.  Both will occur during the regularly scheduled class period.
+The course will be a combination of in-person lectures on Mondays and papers to read and discuss on Wednesdays.  Both will occur during the regularly scheduled class period.
 
 For questions and answers regarding course materials and homework please use
 the course's discussion board or come to office hours, unless there is some
@@ -181,37 +173,10 @@ You may not record class discussions without permission.
 
 As stated above, no textbook is required for this course.
 
-## Course Topics
-
-First half of the course: Network attacks, network defenses, Network Intrusion
-Detection Systems (NIDS), and NIDS evasion...
-
--Crypto basics (maybe review)
--Network basics (maybe review)
--Physical and link-layer attacks, WiFi attacks
--Routing and transport-layer attacks
--Side channel attacks on network protocols
--DNS attacks
--Web security
--Firewalls and NAT
--VPNs
--NIDS
--NIDS evasion
-
-Second half of the course: Information controls on the Internet and related Internet measurement research...
-
--On-path censorship (Great Firewall of China as an example)
--In-path censorship (Great Cannon and Russia's TSPU as an example)
--In-path machine-in-the-middle attacks (NSA QUANTUM INSERT and Turk Telekom as examples)
--In-path machine-in-the-middle attacks (Great Cannon as an example)
--Surveillance (WeChat and Meituan as examples)
--Throttling (Russia's TSPU as an example)
--Internet blackouts
-
 ## Readings:
 
-Refer to the course website for readings on Mondays.  You are expected to read
-the assigned paper(s) for each day and come prepared to discuss it.
+Refer to the course website for readings on Wednesdays.  You are expected to
+read the assigned paper(s) for each day and come prepared to discuss it.
 
 ## Assessment
 
