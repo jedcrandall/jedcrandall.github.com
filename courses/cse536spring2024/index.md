@@ -11,6 +11,17 @@
 
 - The syllabus is [here](syllabus.html), also available as a [PDF](syllabus.pdf).
 
+The class will be organized around the game Werewolves, a Linux-based game
+based on Mafia that involves interprocess communication and exploitation of
+side channels.  For the first half of the course, we'll learn all the ins and
+outs of a Linux system and its basic security mechanisms (process separation
+via virtual memory, file systems, CPU scheduling, etc.) through readings,
+homework assignments, and playing Werewolves.   We'll mostly read papers that
+attack the security of Linux and UNIX systems because those papers are the best
+way to learn how a system works.  For the second half of the course, we'll read
+some foundational papers about distributed systems and work on a project to
+re-think Werewolves as a distributed system.
+
 # Slides
 
 - ...
