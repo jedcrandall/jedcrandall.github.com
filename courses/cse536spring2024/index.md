@@ -25,6 +25,7 @@ re-think Werewolves as a distributed system.
 # Slides
 
 - [courseintro.pdf](Course intro)
+- [unixandsecbasics.pdf](UNIX and security basics)
 
 # Wednesday Readings
 
