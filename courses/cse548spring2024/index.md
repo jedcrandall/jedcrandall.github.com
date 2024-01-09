@@ -28,13 +28,12 @@ this adversarial relationship.
 
 # Slides
 
-- [courseintro.pdf](Course intro)
+- [Course intro](courseintro.pdf)
 
 # Monday Readings
 
 
-- 1/22: *Two readings*... [MiniAES specification](miniaess
-pec.pdf) *and* [a tutorial about linear and differential cryptanalysis](ldc_tutorial.pdf) 
+- 1/22: *Two readings*... [MiniAES specification](miniaesspec.pdf) *and* [a tutorial about linear and differential cryptanalysis](ldc_tutorial.pdf) 
 - 1/29: *Two readings*... [Diffie-Hellman](diffiehellman.pdf) *and* [RSA](Rsapaper.pdf)
 - 2/5: [OTR](otr-wpes.pdf) 
 - 2/12: [Certs and MD5 collisions](md5collisions.pdf) 
