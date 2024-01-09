@@ -28,7 +28,7 @@ this adversarial relationship.
 
 # Slides
 
-- ...
+- [courseintro.pdf](Course intro)
 
 # Monday Readings
 

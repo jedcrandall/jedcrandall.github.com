@@ -24,7 +24,7 @@ re-think Werewolves as a distributed system.
 
 # Slides
 
-- ...
+- [courseintro.pdf](Course intro)
 
 # Wednesday Readings
 

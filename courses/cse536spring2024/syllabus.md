@@ -33,9 +33,9 @@ extensions, etc.
 
 ## Course Description
 
-"Comprehensive understanding of network security and corresponding solutions,
-including cryptography, access control, secure Web transactions, e-mail
-security, and viruses."
+"Protection and file systems. Communication, processes, synchronization,
+naming, fault tolerance, security, data replication, and coherence in
+distributed systems. Real-time systems."
 
 ## Course Objectives
 
