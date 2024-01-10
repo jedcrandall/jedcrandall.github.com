@@ -29,6 +29,9 @@ this adversarial relationship.
 # Slides
 
 - [Course intro](courseintro.pdf)
+- [Introduction to network security](intronetsecurity.pdf)
+- [Symmetric crypto through the 80s](symmetricryptothru80s.pdf)
+- [AES and block cipher modes](aesciphermodes.pdf)
 
 # Monday Readings
 
