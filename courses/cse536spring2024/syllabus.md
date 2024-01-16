@@ -13,7 +13,7 @@ Note: If you're reading the PDF version of this syllabus, you should switch to t
 
 ## Office Hours
 
-Tuesdays 9am to 11am in
+Tuesdays 9:30am to 11:30am in
 [Jitsi](https://meet.jit.si/CrandallSpring2024OfficeHours) and in person at
 BYENG 574.  I may forget to get online, so if you're trying to attend online
 and I'm not there please shoot me a quick email and I'll jump into Jitsi. 
