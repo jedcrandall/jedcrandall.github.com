@@ -22,6 +22,11 @@ way to learn how a system works.  For the second half of the course, we'll read
 some foundational papers about distributed systems and work on a project to
 re-think Werewolves as a distributed system.
 
+# Midterm and Final dates
+
+- The midterm will be during the regularly scheduled class period on Monday, March 25th. 
+- The final will be on Wednesday, May 1st from 9:50am to 11:40am.
+
 # Slides
 
 - [Course intro](courseintro.pdf)

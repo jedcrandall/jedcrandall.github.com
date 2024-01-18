@@ -26,6 +26,11 @@ work the way they do, we'll start with how basic results from distributed
 systems and Einstein's theory of special relativity define the parameters of
 this adversarial relationship.
 
+# Midterm and Final dates
+
+- The midterm will be during the regularly scheduled class period on Wednesday, March 20th. 
+- The final will be on Monday, April 29th from 12:10pm to 2:00pm.
+
 # Slides
 
 - [Course intro](courseintro.pdf)
