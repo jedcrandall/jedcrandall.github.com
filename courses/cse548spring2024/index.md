@@ -47,8 +47,8 @@ this adversarial relationship.
 - 2/12: [Certs and MD5 collisions](md5collisions.pdf) 
 - 2/19: [KRACK Attacks](krackccs2017.pdf) 
 - 2/26: [An Analysis of China's "Great Cannon"](foci15-paper-marczak.pdf) 
-- 3/4: [TSPU: Russia's Decentralized Censorship System](tspu-imc22.pdf) 
-- 3/11: Sring break
+- 3/4: Sring break
+- 3/11: [TSPU: Russia's Decentralized Censorship System](tspu-imc22.pdf) 
 - 3/18: [Ptacek and Newsham](PtacekNewsham98.pdf) 
 - 3/25: [Tor](ADA465464.pdf)
 - 4/1: [ScrambleSuit](wpes13-scramblesuit.pdf), [Xue et al. on TLS-in-TLS](https://www.usenix.org/system/files/sec24summer-prepub-465-xue.pdf), [Wails et al.](https://www.robgjansen.com/publications/precisedetect-ndss2024.pdf), *or* [Xue et al. on OpenVPN](https://www.usenix.org/system/files/sec22-xue-diwen.pdf) --- You only have to pick one and read it, but be ready to explain it to those in the class who chose a different paper.

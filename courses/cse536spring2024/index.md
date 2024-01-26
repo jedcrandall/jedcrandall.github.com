@@ -43,8 +43,8 @@ re-think Werewolves as a distributed system.
 - 2/21: [MELTDOWN](sec18-lipp.pdf) 
 
 - 2/28: [BK16](https://arsenalexperts.com/persistent/resources/pages/BK-Case-Rona-Wilson-Report-II.zip) 
-- 3/6: [Lamport](time-clocks.pdf) 
-- 3/13: Sring break
+- 3/6: Sring break
+- 3/13: [Lamport](time-clocks.pdf) 
 - 3/20: [Dijkstra](EWD123.PDF) 
 - 3/27: [Eraser](Tocs97.pdf)
 - 4/3: [Elements of Interaction](https://dl.acm.org/doi/pdf/10.1145/151233.151240)
