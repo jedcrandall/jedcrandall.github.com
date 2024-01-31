@@ -37,6 +37,10 @@ this adversarial relationship.
 - [Introduction to network security](intronetsecurity.pdf)
 - [Symmetric crypto through the 80s](symmetricryptothru80s.pdf)
 - [AES and block cipher modes](aesciphermodes.pdf)
+- [Diffie-Hellman, RSA, and attacks on RSA](dhrsaandattacks.pdf)
+- [CBC padding oracle attacks](cbcpaddingoracle.pdf)
+- [Information theory and PRNGs](informationtheoryprng.pdf)
+- [OTR, Signal, and a bit about elliptic curves](otrandsignal.pdf)
 
 # Monday Readings
 
@@ -62,4 +66,3 @@ If you're interested in more cenroship-related papers, check out [CensorBib](htt
 # Homework assignments
 
 - Will be posted in Canvas, not here.
-
