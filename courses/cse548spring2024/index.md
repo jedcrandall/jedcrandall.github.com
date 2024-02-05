@@ -41,6 +41,7 @@ this adversarial relationship.
 - [CBC padding oracle attacks](cbcpaddingoracle.pdf)
 - [Information theory and PRNGs](informationtheoryprng.pdf)
 - [OTR, Signal, and a bit about elliptic curves](otrandsignal.pdf)
+- [Some thoughts on the OTR paper](otrpaperthoughts.pdf)
 
 # Monday Readings
 
