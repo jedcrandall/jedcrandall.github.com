@@ -32,6 +32,7 @@ re-think Werewolves as a distributed system.
 - [Course intro](courseintro.pdf)
 - [UNIX and security basics](unixandsecbasics.pdf)
 - [Scheduling and wait queues](schedandwaitqueues.pdf), and a script for the [demo](sched.sh)
+- The newest version of Werewolves is [here](werewolves-spring24.tgz)
 
 # Wednesday Readings
 
