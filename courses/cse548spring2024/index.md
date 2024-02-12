@@ -42,6 +42,7 @@ this adversarial relationship.
 - [Information theory and PRNGs](informationtheoryprng.pdf)
 - [OTR, Signal, and a bit about elliptic curves](otrandsignal.pdf)
 - [Some thoughts on the OTR paper](otrpaperthoughts.pdf)
+- [Hash functions, certs](hashfunctionscerts.pdf)
 
 # Monday Readings
 
