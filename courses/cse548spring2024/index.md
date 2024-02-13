@@ -43,6 +43,7 @@ this adversarial relationship.
 - [OTR, Signal, and a bit about elliptic curves](otrandsignal.pdf)
 - [Some thoughts on the OTR paper](otrpaperthoughts.pdf)
 - [Hash functions, certs](hashfunctionscerts.pdf)
+- [Stream ciphers and wifi encryption](streamcipherswifi.pdf)
 
 # Monday Readings
 
