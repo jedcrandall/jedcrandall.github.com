@@ -45,7 +45,7 @@ re-think Werewolves as a distributed system.
 - 2/14: [Rowhammer](https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html) 
 - 2/21: [MELTDOWN](sec18-lipp.pdf) 
 
-- 2/28: [BK16](https://arsenalexperts.com/persistent/resources/pages/BK-Case-Rona-Wilson-Report-II.zip) 
+- 2/28: [BK16](https://arsenalexperts.com/persistent/resources/pages/BK-Case-Rona-Wilson-Report-II.zip) (Link is broken, so archived [here](BK-Case-Rona-Wilson-Report-II.zip))
 - 3/6: Sring break
 - 3/13: [Lamport](time-clocks.pdf) 
 - 3/20: [Dijkstra](EWD123.PDF) 
