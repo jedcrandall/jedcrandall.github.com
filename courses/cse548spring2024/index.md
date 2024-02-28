@@ -44,6 +44,7 @@ this adversarial relationship.
 - [Some thoughts on the OTR paper](otrpaperthoughts.pdf)
 - [Hash functions, certs](hashfunctionscerts.pdf)
 - [Stream ciphers and wifi encryption](streamcipherswifi.pdf)
+- [Quantum computers and post-quantum crypto](postquantum.pdf)
 
 # Monday Readings
 
