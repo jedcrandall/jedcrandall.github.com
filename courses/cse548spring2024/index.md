@@ -45,6 +45,8 @@ this adversarial relationship.
 - [Hash functions, certs](hashfunctionscerts.pdf)
 - [Stream ciphers and wifi encryption](streamcipherswifi.pdf)
 - [Quantum computers and post-quantum crypto](postquantum.pdf)
+- [TSPU](TSPU_IMC.pdf)
+- [NIDS intro](nidsintro.pdf)
 
 # Monday Readings
 

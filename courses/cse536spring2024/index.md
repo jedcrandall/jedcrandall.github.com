@@ -35,6 +35,7 @@ re-think Werewolves as a distributed system.
 - The newest version of Werewolves is [here](werewolves-spring24.tgz)
 - [Virtual memory, Rowhammer, and Meltdown](virtualmemrowhammerandmeltdown.pdf)
 - [File systems](fs.pdf)
+- [Intro to distributed systems and concurrency](distributedsystemsintro.pdf)
 
 # Wednesday Readings
 
@@ -54,7 +55,7 @@ re-think Werewolves as a distributed system.
 - 4/3: [Elements of Interaction](https://dl.acm.org/doi/pdf/10.1145/151233.151240)
 - 4/10: [RPC](birrell842.pdf)
 - 4/17: [p2p](cacm03.pdf)
-- 4/24: [Priority inversion](pathfinder-robotmag.pdf)
+- 4/24: [Priority inversion](https://www.cse.chalmers.se/~risat/Report_MarsPathFinder.pdf)
 
 # Homework assignments
 
