@@ -36,6 +36,7 @@ re-think Werewolves as a distributed system.
 - [Virtual memory, Rowhammer, and Meltdown](virtualmemrowhammerandmeltdown.pdf)
 - [File systems](fs.pdf)
 - [Intro to distributed systems and concurrency](distributedsystemsintro.pdf)
+- [Semaphores, deadlocks, mutex's, monitors, futex's, etc.](concurrencybasics.pdf)
 
 # Wednesday Readings
 
