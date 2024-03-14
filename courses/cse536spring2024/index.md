@@ -37,7 +37,7 @@ re-think Werewolves as a distributed system.
 - [File systems](fs.pdf)
 - [Intro to distributed systems and concurrency](distributedsystemsintro.pdf)
 - [Semaphores, deadlocks, mutex's, monitors, futex's, etc.](concurrencybasics.pdf)
-- [midtermnotes.pdf](Midterm notes)
+- [Midterm notes](midtermnotes.pdf)
 
 # Wednesday Readings
 
