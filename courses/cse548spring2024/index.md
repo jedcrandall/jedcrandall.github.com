@@ -47,6 +47,7 @@ this adversarial relationship.
 - [Quantum computers and post-quantum crypto](postquantum.pdf)
 - [TSPU](TSPU_IMC.pdf)
 - [NIDS intro](nidsintro.pdf)
+- [Midterm info](midterminfo.pdf)
 
 # Monday Readings
 
