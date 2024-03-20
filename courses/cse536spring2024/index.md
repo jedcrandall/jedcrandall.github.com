@@ -38,7 +38,7 @@ re-think Werewolves as a distributed system.
 - [Intro to distributed systems and concurrency](distributedsystemsintro.pdf)
 - [Semaphores, deadlocks, mutex's, monitors, futex's, etc.](concurrencybasics.pdf)
 - [Midterm notes](midtermnotes.pdf)
-- [Asynchronous I/I](asynchio.pdf)
+- [Asynchronous I/O](asynchio.pdf)
 
 # Wednesday Readings
 
@@ -54,11 +54,11 @@ re-think Werewolves as a distributed system.
 - 3/6: Sring break
 - 3/13: [Lamport](time-clocks.pdf) 
 - 3/20: [Dijkstra](EWD123.PDF) 
-- 3/27: [Eraser](Tocs97.pdf)
+- 3/27: [RPC](birrell842.pdf)
 - 4/3: [Elements of Interaction](https://dl.acm.org/doi/pdf/10.1145/151233.151240)
-- 4/10: [RPC](birrell842.pdf)
-- 4/17: [p2p](cacm03.pdf)
-- 4/24: [Priority inversion](https://www.cse.chalmers.se/~risat/Report_MarsPathFinder.pdf)
+- 4/10: [Eraser](Tocs97.pdf) (optional)
+- 4/17: [p2p](cacm03.pdf) (optional)
+- 4/24: [Priority inversion](https://www.cse.chalmers.se/~risat/Report_MarsPathFinder.pdf) (optional)
 
 # Homework assignments
 
