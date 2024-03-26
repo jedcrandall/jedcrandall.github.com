@@ -39,6 +39,7 @@ re-think Werewolves as a distributed system.
 - [Semaphores, deadlocks, mutex's, monitors, futex's, etc.](concurrencybasics.pdf)
 - [Midterm notes](midtermnotes.pdf)
 - [Asynchronous I/O](asynchio.pdf)
+- [Distributed shared memory and RPC](dsmandrpc.pdf)
 
 # Wednesday Readings
 
