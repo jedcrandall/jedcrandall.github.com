@@ -40,6 +40,7 @@ re-think Werewolves as a distributed system.
 - [Midterm notes](midtermnotes.pdf)
 - [Asynchronous I/O](asynchio.pdf)
 - [Distributed shared memory and RPC](dsmandrpc.pdf)
+- [Message passing and microkernels](messagepassingmicrokernels.pdf)
 
 # Wednesday Readings
 
