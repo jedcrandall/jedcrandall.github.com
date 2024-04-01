@@ -48,6 +48,7 @@ this adversarial relationship.
 - [TSPU](TSPU_IMC.pdf)
 - [NIDS intro](nidsintro.pdf)
 - [Midterm info](midterminfo.pdf)
+- [Tor](tor.pdf)
 
 # Monday Readings
 
