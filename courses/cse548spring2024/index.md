@@ -48,7 +48,7 @@ this adversarial relationship.
 - [TSPU](TSPU_IMC.pdf)
 - [NIDS intro](nidsintro.pdf)
 - [Midterm info](midterminfo.pdf)
-- [Tor](tor.pdf)
+- [Tor](tor.pdf), also check out [this](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/12040.html)
 
 # Monday Readings
 
