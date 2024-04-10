@@ -50,6 +50,7 @@ this adversarial relationship.
 - [Midterm info](midterminfo.pdf)
 - [Tor](tor.pdf), also check out [this](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/12040.html)
 - [Port scans and side channels](portscansidechannels.pdf) with two examples of side channels [here](security16_slides_cao.pdf) and [here](sec21_slides_tolley.pdf)
+- [Malware](malware.pdf)
 
 # Monday Readings
 
