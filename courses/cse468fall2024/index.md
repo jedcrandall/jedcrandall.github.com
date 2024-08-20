@@ -13,7 +13,7 @@
 
 # Slides
 
-- [First lecture](firstlecture.pdf)
+- [Course intro](courseintro.pdf)
 
 # Homework assignments
 
