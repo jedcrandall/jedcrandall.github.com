@@ -40,8 +40,8 @@ in case you can't make it physically, but you'll need to email me to remind me t
 ## TA and office hours
 
 Your TA is Sana Habib.  Don't contact her directly through email or other means
-other than Canvas.  Her office hours are TBD (in
-both BYENG 221 and [on Jitsi](https://meet.jit.si/CSE468Fall2024OfficeHours)?). 
+other than Canvas.  Her office hours are MWF 10:00am to 11:00am (in
+both BYENG 221 and [on Zoom](https://asu.zoom.us/j/3155607819)). 
 
 ## Course Description
 

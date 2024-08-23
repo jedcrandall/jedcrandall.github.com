@@ -14,6 +14,7 @@
 # Slides
 
 - [Course intro](courseintro.pdf)
+- [Intro to network security](intronetsecurity.pdf)
 
 # Homework assignments
 
