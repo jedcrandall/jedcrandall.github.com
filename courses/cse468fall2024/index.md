@@ -15,6 +15,8 @@
 
 - [Course intro](courseintro.pdf)
 - [Intro to network security](intronetsecurity.pdf)
+- [Symmetric crypto through the 80's](symmetricryptothru80s.pdf)
+- [Hash functions and certs](hashfunctionscerts.pdf)
 
 # Homework assignments
 
