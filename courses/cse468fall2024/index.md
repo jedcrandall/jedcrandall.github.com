@@ -14,7 +14,7 @@
 # Slides
 
 - [Course intro](courseintro.pdf)
-- [Intro to network security](intronetsecurity.pdf)
+- [Intro to network security](intronetsecurity.pdf), and a [clarification](clarificationinonoffpath.pdf)
 - [Symmetric crypto through the 80's](symmetricryptothru80s.pdf)
 - [Hash functions and certs](hashfunctionscerts.pdf)
 
