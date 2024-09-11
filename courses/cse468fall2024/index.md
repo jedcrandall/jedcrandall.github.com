@@ -17,6 +17,9 @@
 - [Intro to network security](intronetsecurity.pdf), and a [clarification](clarificationinonoffpath.pdf)
 - [Symmetric crypto through the 80's](symmetricryptothru80s.pdf)
 - [Hash functions and certs](hashfunctionscerts.pdf)
+- [AES and cipher modes](aesciphermodes.pdf)
+- [Information theory and PRNG](informationtheoryprng.pdf)
+- [Diffie-Hellman, RSA, and attacks on RSA](dhrsaandattacks.pdf)
 
 # Homework assignments
 
