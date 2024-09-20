@@ -20,6 +20,7 @@
 - [AES and cipher modes](aesciphermodes.pdf)
 - [Information theory and PRNG](informationtheoryprng.pdf)
 - [Diffie-Hellman, RSA, and attacks on RSA](dhrsaandattacks.pdf)
+- [Modular exponentiation](modularexp.pdf)
 
 # Homework assignments
 
