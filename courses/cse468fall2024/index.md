@@ -21,6 +21,8 @@
 - [Information theory and PRNG](informationtheoryprng.pdf)
 - [Diffie-Hellman, RSA, and attacks on RSA](dhrsaandattacks.pdf)
 - [Modular exponentiation](modularexp.pdf)
+- [CBC padding oracle attacks](cbcpaddingoracle.pdf)
+- [Stream ciphers and WiFi security](streamcipherswifi.pdf)
 
 # Homework assignments
 
