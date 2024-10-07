@@ -23,6 +23,10 @@
 - [Modular exponentiation](modularexp.pdf)
 - [CBC padding oracle attacks](cbcpaddingoracle.pdf)
 - [Stream ciphers and WiFi security](streamcipherswifi.pdf)
+- [WiFi and physical security](wifisecurityandphysical.pdf)
+- [OTR and Signal](otrandsignal.pdf)
+- [Extended Euclidean Algorithm](euclideanalgo.pdf)
+- [Intro to Network Intrusion Detection Systems](nidsintro.pdf)
 
 # Homework assignments
 
