@@ -27,6 +27,10 @@
 - [OTR and Signal](otrandsignal.pdf)
 - [Extended Euclidean Algorithm](euclideanalgo.pdf)
 - [Intro to Network Intrusion Detection Systems](nidsintro.pdf)
+- [TSPU](TSPU_IMC.pdf), slides courtesy of Diwen Xue
+- [Final and how to get out of it](finalandgettingoutofit.pdf)
+- [Tor](tor.pdf), also check out [this](https://fahrplan.events.ccc.de/congress/2023/fahrplan/events/12040.html)
+- [Port scans and side channels](portscansidechannels.pdf) with two examples of side channels [here](security16_slides_cao.pdf) and [here](sec21_slides_tolley.pdf)
 
 # Homework assignments
 
