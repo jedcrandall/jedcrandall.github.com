@@ -16,7 +16,7 @@ which is TBD.
 
 ## Other exams
 
-The course is divided into three roughly 4-week-long sections, and only the first section has in-person exams.  The exam dates will be:
+The course is divided into three roughly-4-week-long sections, and only the first section has in-person exams.  The exam dates will be:
 
 -February 5th
 
@@ -87,13 +87,13 @@ There will also be various digital artifact assignments, readings, and other com
 
 The final is 25% of your individual grade (100 points).
 
-The two exams that count toward your individual grade for the cryptography section of the course are each 12.5%, for 25% total.  Or, 50+50=100 points total.
+The in-person exam that counts toward your individual grade for the cryptography section of the course are is 25% of your grade, or 100 points total.
 
 The lab assignments that you do individually for the network intrusion detection and malware sections of the course are each 25% of your grade.  I.e., 100 points each.
 
 So, your final grade will be calculated out of 400 points
 total.  Your grade is based on digital artifacts, homework, and exams (midterm
-and final), and will be your total points divided into the 500 possible.
+and final), and will be your total points divided into the 400 possible.
 Grades are based on the following scale where x is the percentage: 97.0 <= x <=
 100.0 is an A+, 93.0 <= x < 97.0 is an A, 90.0 <= x < 93.0 is an A-, 87.0 <= x
 < 90.0 is a B+, 83.0 <= x < 87.0 is a B, 80.0 <= x < 83.0 is a B-, 77.0 <= x <
@@ -119,16 +119,38 @@ publicly available and/or licensed open source.
 
 The class will be divided into 4 houses at the beginning of the semester.  Each section of the course will have a competition between the four houses as follows:
 
--In the cryptography section, the second in-person exam will have two parts:
-the first half of an RSA encryption and the first half of a Diffie-Hellman key
-exchange.  In the third in-person exam, your answers will be passed to another
+-In the cryptography section, the first in-person exam will have two parts: the
+first half of an RSA encryption and the first half of a Diffie-Hellman key
+exchange.  In the second in-person exam, your answers will be passed to another
 student in your house and the whole house will be judged (it won't affect
 anyone's grade, just who has to take the final at the end of the semester)
-based upon correctly doing RSA and Diffie-Hellman end-to-end, in pairs.  The first in-person exam will be an individual effort to prepare you.  The first and second in-person exams will count towards your individual grade.  The second and third in-person exams will contribute to your house score.
+based upon correctly doing RSA and Diffie-Hellman end-to-end, in pairs.  In the
+third in-person exam you'll try to break the encryption schemes of other houses
+for house points.  The fist exam will contribute to your individual grade, the
+second and third will contribute to your house score.  Before the first exam
+each of the four houses needs to let me know (in bits) how large they want the
+primes to be for their entire house.
 
--In the network intrusion detection section of the course, each student will submit code for obfuscating a network protocol to upload prime numbers to a Linux server.  This will be graded individually and will affect your individual grade.  Then, each house will be allowed to upload a certain number of prime numbers to a server (this is one house lab), and then PCAPs of that will be provided to the whole class (this is the second house lab).  Houses can gain points (not for grading, just for the competition) by uploading prime numbers undetected or by detecting the prime numbers of other houses.  These points for the last two out of three labs in this section will contribute to your house score.
+-In the network intrusion detection section of the course, each student will
+submit code for obfuscating a network protocol to upload prime numbers to a
+Linux server.  This will be graded individually and will affect your individual
+grade.  Then, each house will be allowed to upload a certain number of prime
+numbers to a server (this is one house lab), and then PCAPs of that will be
+provided to the whole class (this is the second house lab).  Houses can gain
+points (not for grading, just for the competition) by uploading prime numbers
+undetected or by detecting the prime numbers of other houses.  These points for
+the last two out of three labs in this section will contribute to your house
+score.
 
--In the malware section of the course, each student will submit a tar ball with a Makefile that compiles a Core War warrior.  Each student will know something about the compilation environment that the rest of the class doesn't know, the goal being to hide your actual warrior.  The entire class will get to see this first round of warriors and analyze them, and then each house can add a certain amount of additional warriors.  This is the second lab for this course section and won't affect your individual grade.  In the final lab, the warriors between houses will compete, randomly chosen in a pairwise fashion.  Houses will be awarded points based on these competitions, to contribute to your house score.
+-In the malware section of the course, each student will submit a tar ball with
+a Makefile that compiles a Core War warrior.  Each student will know something
+about the compilation environment that the rest of the class doesn't know, the
+goal being to hide your actual warrior.  The entire class will get to see this
+first round of warriors and analyze them, and then each house can add a certain
+amount of additional warriors.  This is the second lab for this course section
+and won't affect your individual grade.  In the final lab, the warriors between
+houses will compete, randomly chosen in a pairwise fashion.  Houses will be
+awarded points based on these competitions, to contribute to your house score.
 
 All students who are members of the house with the highest house score at the end of the semester will get 100% on the final without having to take it.
 
