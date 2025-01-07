@@ -17,13 +17,14 @@
 
 # Readings (FYI, these are out of order and subject to change, and some are optional)
 
-- [MiniAES specification](miniaesspec.pdf)
-- [A tutorial about linear and differential cryptanalysis](ldc_tutorial.pdf) 
 - [Diffie-Hellman](diffiehellman.pdf)
 - [RSA](Rsapaper.pdf)
+- [MiniAES specification](miniaesspec.pdf)
+- [A tutorial about linear and differential cryptanalysis](ldc_tutorial.pdf) 
 - [OTR](otr-wpes.pdf) 
-- [Certs and MD5 collisions](md5collisions.pdf) 
-- [KRACK Attacks](krackccs2017.pdf) 
+- [Certs and MD5 collisions](md5collisions.pdf), [video](https://www.youtube.com/watch?v=T12BAz3dC90) 
+- [KRACK Attacks](krackccs2017.pdf), [video](https://www.youtube.com/watch?v=fZ1R9RliM1w) 
+- [Quantum Algorithms Revisited](https://arxiv.org/abs/quant-ph/9708016)
 
 
 # Assignments
