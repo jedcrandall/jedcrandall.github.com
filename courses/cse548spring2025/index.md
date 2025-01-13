@@ -13,7 +13,7 @@
 
 # Slides
 
-- [courseintro.pdf](Course intro)
+- [Course intro](courseintro.pdf)
 
 # Readings (FYI, these are out of order and subject to change, and some are optional)
 
