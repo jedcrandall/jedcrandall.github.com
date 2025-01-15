@@ -14,6 +14,7 @@
 # Slides
 
 - [Course intro](courseintro.pdf)
+- [Symmetric crypto through the 80's and Diffie-Hellman](symmetricryptothru80sanddh.pdf)
 
 # Readings (FYI, these are out of order and subject to change, and some are optional)
 
