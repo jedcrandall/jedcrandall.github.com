@@ -16,8 +16,8 @@
 - [Course intro](courseintro.pdf)
 - [Symmetric crypto through the 80's and Diffie-Hellman](symmetricryptothru80sanddh.pdf)
 - [RSA, semantic security and attack types](rsa.pdf)
-- [aesmodeswifi.pdf](AES, cipher modes, stream ciphers, and WiFi security)
-- [hashescertsotr.pdf](Hash functions and MACs, certificates, OTR, and Signal)
+- [AES, cipher modes, stream ciphers, and WiFi security](aesmodeswifi.pdf)
+- [Hash functions and MACs, certificates, OTR, and Signal](hashescertsotr.pdf)
 
 # Readings (FYI, these are out of order and subject to change, and some are optional)
 
