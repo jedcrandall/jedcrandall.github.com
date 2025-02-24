@@ -37,17 +37,17 @@ in case you can't make it physically, but you'll need to email me to remind me t
 - [Certs and MD5 collisions](md5collisions.pdf), [video](https://www.youtube.com/watch?v=T12BAz3dC90) 
 - [KRACK Attacks](krackccs2017.pdf), [video](https://www.youtube.com/watch?v=fZ1R9RliM1w) 
 - [Quantum Algorithms Revisited](https://arxiv.org/abs/quant-ph/9708016)
-- [Dharmapurikar and Paxson](https://www.usenix.org/conference/14th-usenix-security-symposium/robust-tcp-stream-reassembly-presence-adversaries)xxx
-- [Handley and Paxson](https://www.usenix.org/legacy/events/sec01/full_papers/handley/handley.pdf)xxx
-- [Ptacek and Newsham](https://users.ece.cmu.edu/~adrian/731-sp04/readings/Ptacek-Newsham-ids98.pdf)xxx
-- [FOCI 2014 Anonymous](https://www.usenix.org/conference/foci14/workshop-program/presentation/anonymous)xxx
-- [TSPU](https://diwenx.com/assets/files/tspu-imc22.pdf)xxx
+- [Dharmapurikar and Paxson](https://www.usenix.org/conference/14th-usenix-security-symposium/robust-tcp-stream-reassembly-presence-adversaries)&larr;
+- [Handley and Paxson](https://www.usenix.org/legacy/events/sec01/full_papers/handley/handley.pdf)&larr;
+- [Ptacek and Newsham](https://users.ece.cmu.edu/~adrian/731-sp04/readings/Ptacek-Newsham-ids98.pdf)&larr;
+- [FOCI 2014 Anonymous](https://www.usenix.org/conference/foci14/workshop-program/presentation/anonymous)&larr;
+- [TSPU](https://diwenx.com/assets/files/tspu-imc22.pdf)&larr;
 - [OpenVPN is Open to VPN Fingerprinting
 ](https://www.usenix.org/conference/usenixsecurity22/presentation/xue-diwen)
 - [Great Cannon](https://citizenlab.org/2015/04/chinas-great-cannon/)
 - [TCP split handshake](https://nmap.org/misc/split-handshake.pdf)
-- [IP Fragment Reassembly with Scapy] (https://www.sans.org/white-papers/33969/)xxx
-- [Physical layer attacks] (https://www.usenix.org/legacy/events/woot11/tech/final_files/Goodspeed.pdf)
+- [IP Fragment Reassembly with Scapy](https://www.sans.org/white-papers/33969/)&larr;
+- [Physical layer attacks](https://www.usenix.org/legacy/events/woot11/tech/final_files/Goodspeed.pdf)
 
 
 # Assignments
