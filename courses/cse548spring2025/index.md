@@ -25,6 +25,7 @@ in case you can't make it physically, but you'll need to email me to remind me t
 - [AES, cipher modes, stream ciphers, and WiFi security](aesmodeswifi.pdf)
 - [Hash functions and MACs, certificates, OTR, and Signal](hashescertsotr.pdf)
 - [Intro to NIDS](nidsintro.pdf)
+- [Some administrativia](admin1.pdf)
 
 # Readings (FYI, these are out of order and subject to change, and some are optional)
 
