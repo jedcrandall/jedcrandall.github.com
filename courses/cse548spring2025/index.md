@@ -26,7 +26,7 @@ in case you can't make it physically, but you'll need to email me to remind me t
 - [Hash functions and MACs, certificates, OTR, and Signal](hashescertsotr.pdf)
 - [Intro to NIDS](nidsintro.pdf)
 - [Some administrativia](admin1.pdf)
-- [Country centrality](irtfbordersandgateways.pdf) and [Russia's TSPU](TSPU_IMC.pdf)
+- [Country centrality](irtfbordersandgateways.pdf) and [Russia's TSPU](TSPU_IMC.pdf), and [why many (including me) were wrong](2003vs2023.pdf)
 
 # Readings (FYI, these are out of order and subject to change, and some are optional)
 
