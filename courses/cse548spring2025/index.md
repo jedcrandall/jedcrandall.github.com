@@ -13,9 +13,8 @@
 
 ## Office Hours
 
-BYENG 574, 9am to 11:45am on Mondays.  I can be [on
-Jitsi](https://meet.jit.si/CSE548Spring2025OfficeHours) while I'm in office hours
-in case you can't make it physically, but you'll need to email me to remind me to log in.
+9am to 11:45am on Mondays.  This semester my office hours are online only, [in
+Jitsi](https://meet.jit.si/CSE548Spring2025OfficeHours).
 
 # Slides
 
