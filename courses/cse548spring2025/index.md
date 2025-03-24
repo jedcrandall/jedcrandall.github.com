@@ -50,6 +50,8 @@ Jitsi](https://meet.jit.si/CSE548Spring2025OfficeHours).
 - [TCP split handshake](https://nmap.org/misc/split-handshake.pdf)
 - [IP Fragment Reassembly with Scapy](https://www.sans.org/white-papers/33969/)&larr;
 - [Physical layer attacks](https://www.usenix.org/legacy/events/woot11/tech/final_files/Goodspeed.pdf)
+- [Cao et al. 2016 side channel for TCP hijacking](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/cao)
+- [Knockel et al. 2014 side channel](https://www.usenix.org/conference/foci14/workshop-program/presentation/knockel)
 
 
 # Assignments
