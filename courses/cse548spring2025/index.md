@@ -29,7 +29,7 @@ Jitsi](https://meet.jit.si/CSE548Spring2025OfficeHours).
 - [Tor](tor.pdf)
 - [Port scans and side channels](portscansidechannels.pdf), more slides [here](https://jedcrandall.github.io/courses/cse468fall2022/foci2014counting-slides-censored.pdf) and [here](https://www.usenix.org/sites/default/files/conference/protected-files/security16_slides_cao.pdf)
 - [DPI of crypto](dpiofcrypto.pdf)
-
+- [Malware, etc.](malware.pdf)
 # Readings (FYI, these are out of order and subject to change, and some are optional)
 
 - [Diffie-Hellman](diffiehellman.pdf)
@@ -53,6 +53,14 @@ Jitsi](https://meet.jit.si/CSE548Spring2025OfficeHours).
 - [Physical layer attacks](https://www.usenix.org/legacy/events/woot11/tech/final_files/Goodspeed.pdf)
 - [Cao et al. 2016 side channel for TCP hijacking](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/cao)
 - [Knockel et al. 2014 side channel](https://www.usenix.org/conference/foci14/workshop-program/presentation/knockel)
+- [XZ backdoor](https://securelist.com/xz-backdoor-story-part-1/112354/), [and another](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
+- [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
+- [Computer Viruses - Theory and Experiments](https://web.eecs.umich.edu/~aprakash/eecs588/handouts/cohen-viruses.html), or [as a PDF](https://www.cnsr.ictas.vt.edu/QEpaper/cohen.pdf)
+- [Macrovirus Identification Problems](https://bontchev.nlcv.bas.bg/papers/macidpro.html)
+- [Elk Cloner](https://arxiv.org/pdf/2007.15759)
+- [DNS cache poisoning with an IPID side channel](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Travis-Palmer-First-try-DNS-Cache-Poisoning-with-IPv4-and-IPv6-Fragmentation.pdf)
+- [Network alchemy](https://petsymposium.org/popets/2024/popets-2024-0070.pdf)
+
 
 
 # Assignments
