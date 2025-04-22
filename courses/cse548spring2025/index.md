@@ -30,6 +30,7 @@ Jitsi](https://meet.jit.si/CSE548Spring2025OfficeHours).
 - [Port scans and side channels](portscansidechannels.pdf), more slides [here](https://jedcrandall.github.io/courses/cse468fall2022/foci2014counting-slides-censored.pdf) and [here](https://www.usenix.org/sites/default/files/conference/protected-files/security16_slides_cao.pdf)
 - [DPI of crypto](dpiofcrypto.pdf)
 - [Malware, etc.](malware.pdf)
+
 # Readings (FYI, these are out of order and subject to change, and some are optional)
 
 - [Diffie-Hellman](diffiehellman.pdf)
