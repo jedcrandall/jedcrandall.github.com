@@ -30,6 +30,7 @@ Jitsi](https://meet.jit.si/CSE548Spring2025OfficeHours).
 - [Port scans and side channels](portscansidechannels.pdf), more slides [here](https://jedcrandall.github.io/courses/cse468fall2022/foci2014counting-slides-censored.pdf) and [here](https://www.usenix.org/sites/default/files/conference/protected-files/security16_slides_cao.pdf)
 - [DPI of crypto](dpiofcrypto.pdf)
 - [Malware, etc.](malware.pdf)
+- [Quantum computers and post-quantum crypto](postquantum.pdf)
 
 # Readings (FYI, these are out of order and subject to change, and some are optional)
 
@@ -61,6 +62,7 @@ Jitsi](https://meet.jit.si/CSE548Spring2025OfficeHours).
 - [Elk Cloner](https://arxiv.org/pdf/2007.15759)
 - [DNS cache poisoning with an IPID side channel](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Travis-Palmer-First-try-DNS-Cache-Poisoning-with-IPv4-and-IPv6-Fragmentation.pdf)
 - [Network alchemy](https://petsymposium.org/popets/2024/popets-2024-0070.pdf)
+- [Quantum algorithms revisited](https://arxiv.org/abs/quant-ph/9708016)
 
 
 
