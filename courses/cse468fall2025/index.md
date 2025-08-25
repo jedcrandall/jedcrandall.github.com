@@ -13,7 +13,7 @@
 
 # Slides
 
-- Coming soon...
+- [Course Intro](coureintro.pdf)
 
 # Homework assignments
 
