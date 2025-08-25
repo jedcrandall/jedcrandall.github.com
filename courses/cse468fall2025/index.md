@@ -13,7 +13,7 @@
 
 # Slides
 
-- [Course Intro](coureintro.pdf)
+- [Course Intro](courseintro.pdf)
 
 # Homework assignments
 
