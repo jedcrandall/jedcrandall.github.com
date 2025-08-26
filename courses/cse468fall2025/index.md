@@ -14,6 +14,7 @@
 # Slides
 
 - [Course Intro](courseintro.pdf)
+- [Finite fields and Diffie-Hellman](fieldsdh.pdf)
 
 # Homework assignments
 
