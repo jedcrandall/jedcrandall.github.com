@@ -36,13 +36,13 @@ but it must be a simple calculator and not any kind of scientific calculator.
 
 ## Office Hours
 
-10:30am to 1:30pm on Thursdays.  I will be [on
-Jitsi](https://meet.jit.si/CSE468Fall2025OfficeHours).  I don't plan to hold
-physical office hours this semester (but that might change).
+10:30am to 12:00pm on Wednesdays.  I will be [on
+Jitsi](https://meet.jit.si/CSE468Fall2025OfficeHours) (the word Jitsi is the link).  I don't plan to hold
+physical office hours this semester (that might change), but if you walk with me after class we can go to my office in Biodesign.
 
 ## TA and office hours
 
-Your TA is Siddharth Ghule.  Don't contact him directly through email or other means other than Canvas.  His office hours are TBD.
+Your TA is Siddharth Ghule.  Don't contact him directly through email or other means other than Canvas.  His office hours are 10:30am to 12:30pm Tuesdays and Thursdays.  Once we find a room his office hours will be both physical and online, but for now they're online only on [Zoom](https://asu.zoom.us/j/86349177376?pwd=qqEvYQZmCi6JlHYMPp2Ty1Q4zKnMV2.1) (the word Zoom is the link).
 
 ## Course Description
 
