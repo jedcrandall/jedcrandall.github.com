@@ -42,7 +42,11 @@ physical office hours this semester (that might change), but if you walk with me
 
 ## TA and office hours
 
-Your TA is Siddharth Ghule.  Don't contact him directly through email or other means other than Canvas.  His office hours are 10:30am to 12:30pm Tuesdays and Thursdays.  Once we find a room his office hours will be both physical and online, but for now they're online only on [Zoom](https://asu.zoom.us/j/86349177376?pwd=qqEvYQZmCi6JlHYMPp2Ty1Q4zKnMV2.1) (the word Zoom is the link).
+Your TA is Siddharth Ghule.  Don't contact him directly through email or other
+means other than Canvas.  His office hours are 10:30am to 12:30pm Tuesdays and
+Thursdays.  His office hours are both physical and online: in BYENG 221 and on
+[Zoom](https://asu.zoom.us/j/86349177376?pwd=qqEvYQZmCi6JlHYMPp2Ty1Q4zKnMV2.1)
+(the word Zoom is the link).
 
 ## Course Description
 
