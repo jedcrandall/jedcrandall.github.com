@@ -15,6 +15,7 @@
 
 - [Course Intro](courseintro.pdf)
 - [Finite fields and Diffie-Hellman](fieldsdh.pdf)
+- [Networks and security basics](networksandsecurity.pdf)
 
 # Homework assignments
 
