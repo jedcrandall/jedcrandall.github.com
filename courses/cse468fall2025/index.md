@@ -21,6 +21,7 @@
 - [Symmetric crypto through the 80s](symmetricryptothru80s.pdf)
 - [AES and block cipher modes](aesciphermodes.pdf)
 - [OTR and Signal](otrandsignal.pdf)
+- [DNS and some attacks](dnsintrotoattacksandsignatures.pdf)
 
 # Homework assignments
 
