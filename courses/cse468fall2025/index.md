@@ -22,6 +22,7 @@
 - [AES and block cipher modes](aesciphermodes.pdf)
 - [OTR and Signal](otrandsignal.pdf)
 - [DNS and some attacks](dnsintrotoattacksandsignatures.pdf)
+- [Extended Euclidean Algorithm](euclidean.pdf), and some [source code](eea.py) to generate [slides with examples](euclideexample.pdf)
 
 # Homework assignments
 
