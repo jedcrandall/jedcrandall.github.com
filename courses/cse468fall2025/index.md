@@ -25,6 +25,7 @@
 - [Extended Euclidean Algorithm](euclidean.pdf), and some [source code](eea.py) to generate [slides with examples](euclideexample.pdf)
 - [Port scans and side channels](portscansidechannels.pdf)
 - [Intro to NIDS](nidsintro.pdf)
+- [RSA](rsa.pdf)
 
 # Homework assignments
 
