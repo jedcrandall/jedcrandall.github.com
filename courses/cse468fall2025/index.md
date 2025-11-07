@@ -26,7 +26,7 @@
 - [Port scans and side channels](portscansidechannels.pdf)
 - [Intro to NIDS](nidsintro.pdf)
 - [RSA](rsa.pdf)
-- [Siddharth's guest lecture about FFTs](CSE468-FFT-GUEST-LECTURE.pdf), and the [CSE468HW3.pdf](example he went over)
+- [Siddharth's guest lecture about FFTs](CSE468-FFT-GUEST-LECTURE.pdf), and the [example he went over](CSE468HW3.pdf)
 - [Hashes and certs](hashescerts.pdf)
 - [Tor](tor.pdf)
 
