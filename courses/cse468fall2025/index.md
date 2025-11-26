@@ -29,6 +29,7 @@
 - [Siddharth's guest lecture about FFTs](CSE468-FFT-GUEST-LECTURE.pdf), and the [example he went over](CSE468HW3.pdf)
 - [Hashes and certs](hashescerts.pdf)
 - [Tor](tor.pdf)
+- [Malware, web security, authentication](malware.pdf)
 
 
 # Homework assignments
