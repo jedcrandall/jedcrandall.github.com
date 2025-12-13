@@ -30,6 +30,7 @@
 - [Hashes and certs](hashescerts.pdf)
 - [Tor](tor.pdf)
 - [Malware, web security, authentication](malware.pdf)
+- [Quantum computing and post-quantum crypto](quantum.pdf)
 
 
 # Homework assignments
