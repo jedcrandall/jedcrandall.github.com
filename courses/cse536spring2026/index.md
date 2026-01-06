@@ -2,14 +2,14 @@
 
 # Course Info
 
-- Course Name: CSE 548, Advanced Computer Network Security
+- Course Name: CSE 536, Advanced Computer Network Security
 - Semester: Spring 2026
 - Instructor: [Jed Crandall](https://jedcrandall.github.io)
 - Canvas is where to find other course info
 
 # Syllabus
 
-- The syllabus is [here](https://jedcrandall.github.io/courses/cse548fall2026/syllabus.pdf).
+- The syllabus is [here](https://jedcrandall.github.io/courses/cse536fall2026/syllabus.pdf).
 
 # Slides
 

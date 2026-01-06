@@ -2,11 +2,11 @@
 
 ## Course Info and Contact Information
 
-- Course Name: CSE 548, Advanced Computer Network Security
+- Course Name: CSE 536, Advanced Operating Systems
 - Instructor: Jed Crandall
 - Email: jedimaestro@asu.edu
-- Meeting Times: Tuesdays and Thursdays, 10:30am to 11:45am
-- Meeting Location: Tempe - COORS 174
+- Meeting Times: Tuesdays and Thursdays, 9:00am to 10:15amam
+- Meeting Location: Tempe - PSH 151
 - Online Discussions: Canvas
 
 ## Exam dates and info
@@ -19,7 +19,7 @@ time:
 
 If you miss an exam or are not happy with your score, you can make up or retake exactly one exam during the final exam slot for the course:
 
-- Tuesday, May 5th from 9:50am to 11:40am
+- Thursday, December 11, 7:30am to 9:20am
 
 Please do not plan to travel away from Tempe before the final exam slot until
 you have received your scores for both of the two in-semester exams and you're
@@ -33,7 +33,7 @@ allocated slots for the semester because of excused absences in two or more of
 those slots, you'll need to work with the Dean of students for other
 accommodations.
 
-All exams, including the final exam slot, will be in the regular meeting room (COORS 174).
+All exams, including the final exam slot, will be in the regular meeting room (PSH 151).
 
 If you attend lectures, make an honest effort to understand what the lectures
 cover, do the assigned reading, and do your assignments then the exams should
@@ -57,64 +57,48 @@ change).
 
 ## TA and office hours
 
-Your TA is Siddharth Ghule.  Don't contact him directly through email or other
-means other than Canvas.  His office hours are TBD.
+Your TA is TBD.  Don't contact them directly through email or other
+means other than Canvas.  Their office hours are TBD.
 
 ## Course Description
 
-"Comprehensive understanding of network security and corresponding solutions,
-including cryptography, access control, secure Web transactions, e-mail
-security, and viruses."
+"Protection and file systems. Communication, processes, synchronization, naming, fault tolerance, security, data replication, and coherence in distributed systems. Real-time systems."
 
 ## Course Objectives
 
-- Students will gain an understanding of both symmetric and asymmetric
-  applied cryptography.
-- Students will gain an understanding of Network Intrusion Detections Systems
-  (NIDS) and techniques for evading NIDS.
-- Students will gain an understanding of how NIDS is applied around the world
-  by various nation states for information controls (e.g., Internet
-  censorship).
-- Students will gain an understanding of basic tools used for network security
-  analysis.
-- Students will gain an understanding of current research topics in measuring
-  information controls on the Internet.
+- Students will gain an understanding of virtual memory, process separation, and the UNIX process tree.
+- Students will gain an understanding of filesytems and access controls.
+- Students will gain an understanding of interprocess communication. 
+- Students will gain an understanding of CPU scheduling.
+- Students will gain an understanding of distributed systems.
+- Students will gain an understanding of covert channels and side channels and the effect they have on operating systems security and privacy.
 
 ## Course Learning Outcomes
 
-- Students will identify if a given cryptosystem is symmetric or asymmetric.
-- Students will identify if a cryptosystem has perfect forward secrecy.
-- Students will identify NIDS evasions within a packet capture using industry
-  standard tools, including Wireshark.
-- Students will compare the NIDS systems and related evasion techniques that
-  various nation states around the world use for information controls.
-- Students will compare different Internet measurements and related
-  experimental methodologies.
-
+- Students will identify how access controls are applied based on the process hierarchy and filesystem information of a modern UNIX system. 
+- Students will identify different strategies for CPU scheduling.
+- Students will compare different types of interprocess communication.
+- Sutdents will compare different ways of implementing distributed systems.
 
 ## Enrollment Requirements
 
-Prerequisite(s): Computer Engineering or Computer Science graduate student or Data Science, Analytics and Engineering PhD or Software Engineering MS OR Online Computer Science nondegree-seeking graduate student.
+Prerequisite(s): Computer Engineering or Computer Science or Robotics &
+Autonomous Systems (Artificial Intelligence) graduate student OR Online
+Computer Science nondegree-seeking graduate student.
 
 ## Grading Policies, Assignments, and Required Materials
 
 This course basically has three threads that each form part of your grade:
 
-- Mathematical and conceptual fundamentals, including frequency analysis, Fast
-  Fourier Transform, birthday attacks, finite fields, fast modular
-exponentiation, information theory, ring theory, the Extended Euclidean
-Algorithm, the discrete logarithm, and IP fragmentation.  This is assessed via the exams, with each exam being 25% of your grade, so 50% total.
-- Practical tools and the analysis of digital artifacts.  There will be
+- Conceptual fundamentals, covered in lectures and assessed via the exams, with each exam being 25% of your grade, so 50% total.
+- Hands-on assignments covering basic operating system concepts.  There will be
   approximately five to eight assignments, equally weighted, that together make
 up 30% of your grade.
-- Research papers, both contemporary and classic.  You will write a journal
-  throughout the semester about your readings, videos, in-class discussions,
-etc. and turn it in at the end of the semester.  It will be worth 20% of your
-grade.  There may be several checkpoints throughout the semester where you
-submit your journal so far, those will not count towards the final grade.
+- Research papers, both contemporary and classic, and a group project.  Details will be posted in Canvas.  Your individual grade will be assessed based on your submitted source code and demo (10% of your grade) and your group report (also 10%), so 20% total.
 
-The percentage for your grade is out of 100% (50% exams, 30% digital artifact assignments, 20% journal).  Grades are based on the following
-scale where x is the overall percentage for your final grade:
+The percentage for your grade is out of 100% (50% exams, 30% digital artifact assignments, 20% project).  Grades are based on the following
+scale where x is the overall percentage for your final grade: 
+
 - A+ 100% to 97%
 - A < 97% to 94%
 - A- < 94% to 90%
@@ -256,71 +240,23 @@ ASU Police Department (ASU PD) and the Office of the Dean of Students.
 
 ## Course Topics
 
-The class can be roughly divided into three parts, which are not covered in this  order:
+- UNIX and security basics
+- Scheduling and wait queues
+- Virtual memory, Rowhammer, and Meltdown
+- File systems
+- Distributed systems and concurrency
+- Semaphores, deadlocks, mutexes, monitors, futex's, etc.
+- Asynchronous I/O
+- Distributed shared memory
+- RPC
+- Message passing
+- Microkernels
 
-1. Confidentiality and cryptography
-- Basic math of crypto (finite fields, modular exponentiation)
-- Basic tool usage, including Wireshark, tshark, and tcpflow
-- Physical, link, and routing layer security (case studies: ARP, BGP)
-- Symmetric crypto (case studies: historical ciphers, DES, AES, RC4), including  stream ciphers, block chain modes, and linear and differential cryptanalysis
-- Wireless network security (case studies: WEP, WPA, WPA2, WPA3)
-- Asymmetric crypto for key exchange (case study: Diffie-Hellman)
-- Malleable encryption, perfect forward secrecy, future secrecy, and other advanced topics (case study: Signal messenger)
-- Quantum computing and its impact on cryptography
-
-2. Availability and socket security 
-- Information theory
-- Basic tool usage, including nmap and Tor
-- Firewalls
-- Network Intrusion Detection (NIDS) and NIDS evasion
-- Internet censorship and evasion (case studies: China's Great Firewall, Russia's TSPU, Tor)
-- Analysis of encrypted traffic
-- Port scans
-- Denial of Service (DoS)
-- Side channel attacks
-
-3. Integrity and application-level security
-- Fourier transforms and Haddamard transforms
-- Ring theory
-- Experimental design
-- RSA, non-repudiation, and semantic security
-- Secure hash functions and authentication
-- Application security (case studies: TLS and SSH, including the xz backdoor)
-- DNS security
-- Malware and targeted attacks
-- Software Defined Radio and attacks on radio communications
 
 ## Assigned readings
 
-For details and links for the assigned reading, please see the course website.  The readings will include, but are not limited to...
+For details and links for the assigned reading, please see the course website. 
 
-- Short Chosen-Prefix Collisions for MD5 and the Creation of a Rogue CA
-  Certificate, by Stevens et al.
-- We Chat, They Watch How International Users Unwittingly Build up WeChat’s
-  Chinese Censorship Apparatus, by Knockel et al.
-- The Final Nail in WEP's Coffin, by Bittau et al. (about WiFi security)
-- AES proposal: rijndael, by Daemen and Rijmen (about the most common block
-  encryption algorithm in use today)
-- Fragmentation Considered Poisonous, by Herzberg and Shulman (about DNS cache
-  poisoning)
-- Off-The-Record Messaging, by Borisov et al. (about encryption for privacy)
-- The classic Diffie-Hellman and RSA papers
-- WireWatch: Measuring the security of proprietary network encryption in the
-  global Android ecosystem, by Wang et al.
-- The Essence of Command Injection Attacks in Web Applications, by Su and
-  Wassermann
-- The Halting Problems of Network Stack Insecurity, by Sassaman et al.
-- ZMap, by Durumeric et al. (fast port scanning)
-- A Taxonomy and Comparative Analysis of IPv4 Identifier Selection Correctness,
-  Security, and Performance, by Daymude et al.
-- Robust TCP Stream Reassembly In the Presence of Adversaries, by Dharmapurikar
-  and Paxson (a classic paper about network intrusion detection)
-- TSPU: Russia’s Decentralized Censorship System, by Xue et al. 
-- OpenVPN is Open to VPN Fingerprinting, by Xue et al.
-- Tor: The Second-Generation Onion Router, by Dingledine et al.
-- Reflections on Trusting Trust, by Thompson (about Trojan Horses)
-- Computer viruses: Theory and experiments, by Cohen
-- Quantum Algorithms Revisited, by Cleve et al.
 
 ## Homework Due Dates
 
