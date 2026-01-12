@@ -9,7 +9,7 @@
 
 # Syllabus
 
-- The syllabus is [here](https://jedcrandall.github.io/courses/cse548fall2026/syllabus.pdf).
+- The syllabus is [here](https://jedcrandall.github.io/courses/cse548spring2026/syllabus.pdf).
 
 # Slides
 
@@ -18,6 +18,7 @@
 # Reading assignments...
 
 - [Hacker's Manifesto](https://phrack.org/issues/7/3), please read by January 15th 
+- [Malicious Life podcast about Operation Sundevil](https://malicious.life/episode/episode-166/), please listen to it by January 15th
 - More to come...
 
 # Homework assignments
