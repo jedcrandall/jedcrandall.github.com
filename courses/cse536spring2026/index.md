@@ -13,6 +13,7 @@
 
 # Slides
 
+- [Course intro](firstdayofclasses536.pdf)
 - More to come...
 
 # Reading assignments...
