@@ -9,7 +9,7 @@
 
 # Syllabus
 
-- The syllabus is [here](https://jedcrandall.github.io/courses/cse536fall2026/syllabus.pdf).
+- The syllabus is [here](https://jedcrandall.github.io/courses/cse536spring2026/syllabus.pdf).
 
 # Slides
 
