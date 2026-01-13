@@ -5,7 +5,7 @@
 - Course Name: CSE 536, Advanced Operating Systems
 - Instructor: Jed Crandall
 - Email: jedimaestro@asu.edu
-- Meeting Times: Tuesdays and Thursdays, 9:00am to 10:15amam
+- Meeting Times: Tuesdays and Thursdays, 9:00am to 10:15am
 - Meeting Location: Tempe - PSH 151
 - Online Discussions: Canvas
 
@@ -19,7 +19,7 @@ time:
 
 If you miss an exam or are not happy with your score, you can make up or retake exactly one exam during the final exam slot for the course:
 
-- Thursday, December 11, 7:30am to 9:20am
+- Thursday, May 7th, 7:30am to 9:20am
 
 Please do not plan to travel away from Tempe before the final exam slot until
 you have received your scores for both of the two in-semester exams and you're
