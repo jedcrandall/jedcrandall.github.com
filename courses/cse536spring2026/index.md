@@ -20,6 +20,7 @@
 
 - [Hacker's Manifesto](https://phrack.org/issues/7/3), please read by January 15th 
 - [Malicious Life podcast about Operation Sundevil](https://malicious.life/episode/episode-166/), please listen to it by January 15th
+- Two papers about Werewolves, [the original](https://jedcrandall.github.io/courses/cse536spring2024/CSET12.pdf) and [a follow-up](https://jedcrandall.github.io/courses/cse536spring2024/3GSE2014.pdf), please read by January 22nd
 - More to come...
 
 # Homework assignments
