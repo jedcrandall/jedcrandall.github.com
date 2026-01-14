@@ -14,6 +14,7 @@
 # Slides
 
 - [Course intro](firstdayofclasses548.pdf)
+- [Network security basics, secure hashes, stream ciphers, and WiFi security](netsecbasics-hash-stream-wifi.pdf)
 - More to come...
 
 # Reading assignments...

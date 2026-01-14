@@ -14,6 +14,7 @@
 # Slides
 
 - [Course intro](firstdayofclasses536.pdf)
+- [UNIX and security basics](unixandsecbasics.pdf)
 - More to come...
 
 # Reading assignments...

@@ -51,7 +51,7 @@ academic integrity violation.
 ## Office Hours
 
 9am to 11am on Wednesdays.  I will be [on
-Jitsi](https://meet.jit.si/CrandallFall2026OfficeHours) (the word Jitsi is the
+Jitsi](https://meet.jit.si/CrandallSpring2026OfficeHours) (the word Jitsi is the
 link).  I don't plan to hold physical office hours this semester (that might
 change).
 
