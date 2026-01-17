@@ -22,6 +22,10 @@
 - [Hacker's Manifesto](https://phrack.org/issues/7/3), please read by January 15th 
 - [Malicious Life podcast about Operation Sundevil](https://malicious.life/episode/episode-166/), please listen to it by January 15th
 - Two papers about Werewolves, [the original](https://jedcrandall.github.io/courses/cse536spring2024/CSET12.pdf) and [a follow-up](https://jedcrandall.github.io/courses/cse536spring2024/3GSE2014.pdf), please read by January 22nd
+- [Rowhammer](https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html), please read by January 29th
+- [MELTDOWN](sec18-lipp.pdf), please read by February 5th 
+- [Fixing races for fun and profit](borisov.pdf), please read by February 12th
+- [BK16](https://arsenalexperts.com/persistent/resources/pages/BK-Case-Rona-Wilson-Report-II.zip) (Link is broken, so archived [here](BK-Case-Rona-Wilson-Report-II.zip)), please read by February 19th
 - More to come...
 
 # Homework assignments
