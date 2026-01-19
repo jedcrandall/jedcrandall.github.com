@@ -30,6 +30,7 @@
 - [MELTDOWN](sec18-lipp.pdf), please read by February 5th 
 - [Fixing races for fun and profit](borisov.pdf), please read by February 12th
 - [BK16](https://arsenalexperts.com/persistent/resources/pages/BK-Case-Rona-Wilson-Report-II.zip) (Link is broken, so archived [here](BK-Case-Rona-Wilson-Report-II.zip)), please read by February 19th
+- Here's the [midterm](midterm.pdf) and [final](final.pdf) from when I taught the class two years ago, if you're interested.
 - More to come...
 
 # Homework assignments
