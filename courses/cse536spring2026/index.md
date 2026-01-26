@@ -16,7 +16,7 @@
 - [Course intro](firstdayofclasses536.pdf)
 - [UNIX and security basics](unixandsecbasics.pdf)
 - [Scheduling and wait queues](schedandwaitqueues.pdf), and a script for the [demo](sched.sh)
-- The newest version of Werewolves is [here](werewolves-spring26.tgz)
+- The newest version of Werewolves is [here](werewolves-spring26-updated.tgz)
 - [Virtual memory, Rowhammer, and Meltdown](virtualmemrowhammerandmeltdown.pdf)
 - [File systems](fs.pdf)
 - More to come...
