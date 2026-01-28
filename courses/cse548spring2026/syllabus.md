@@ -57,8 +57,11 @@ change).
 
 ## TA and office hours
 
-Your TA is Siddharth Ghule.  Don't contact him directly through email or other
-means other than Canvas.  His office hours are TBD.
+Your TA is Siddharth Ghule.  You can contact him through Canvas.  Don't contact
+him directly through email or other means other than Canvas.  His office hours
+are Tuesdays and Thursdays 1pm to 3pm on
+[Zoom](https://asu.zoom.us/j/84070287126?pwd=Y8DEfqvsPbZt0zq9Cf3tNYywPm9itW.1)
+(the word Zoom is the link).
 
 ## Course Description
 

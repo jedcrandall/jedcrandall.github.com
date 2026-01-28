@@ -57,8 +57,10 @@ change).
 
 ## TA and office hours
 
-Your TA is TBD.  Don't contact them directly through email or other
-means other than Canvas.  Their office hours are TBD.
+Your TA is Nges Brian Njungle.  You can contact him through Canvas.  Don't
+contact him directly through email or any other means other than Canvas.  His
+office hours are Thursdays from 11am to 1pm in
+[Zoom](https://asu.zoom.us/j/7445199279) (the word Zoom is the link).
 
 ## Course Description
 
