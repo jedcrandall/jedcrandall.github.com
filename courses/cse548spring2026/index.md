@@ -17,6 +17,7 @@
 - [Network security basics, secure hashes, stream ciphers, and WiFi security](netsecbasics-hash-stream-wifi.pdf)
 - [All the math you need for Exam 1 (Birthday paradox, finite fields, Fermat's Little Theorem, fast modular exponentiation)](exam1math.pdf)
 - [Secure hash functions and certificates](hashescerts.pdf)
+- [DNS attacks](dnsattacks.pdf)
 - More to come...
 
 # Reading assignments...
