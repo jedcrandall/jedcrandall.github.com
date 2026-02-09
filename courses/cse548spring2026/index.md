@@ -32,7 +32,7 @@
 - Read [this paper about an MD5 collision attack](https://jedcrandall.github.io/courses/cse548spring2025/md5collisions.pdf) and [this report](https://citizenlab.ca/research/we-chat-they-watch/), and watch [this video](https://www.youtube.com/watch?v=T12BAz3dC90), all by January 29th
 - Read [this paper](https://arxiv.org/pdf/1205.4011) and watch [this video](https://www.youtube.com/watch?v=jM4wKCGvbp0), both about IP fragmentation and DNS security, by February 5th
 - Read [the AES proposal](https://www.cs.miami.edu/home/burt/learning/Csc688.012/rijndael/rijndael_doc_V2.pdf) by February 12th
-- Read [the ZMap paper](https://zmap.io/paper.pdf) and [this survey of IPID side channels](https://dl.acm.org/doi/pdf/10.1145/3776582) by Febryary 19th
+- Read [the ZMap paper](https://zmap.io/paper.pdf) and [this survey of IPID side channels](https://dl.acm.org/doi/pdf/10.1145/3776582) by February 19th
 - Read [the classic OTR paper](https://otr.cypherpunks.ca/otr-wpes.pdf) and [the seminal Diffie-Hellman paper](https://jedcrandall.github.io/courses/cse548spring2025/diffiehellman.pdf), and find and stream CITIZEN FOUR (directed by Laura Poitras) by March 5th
 - More to come...
 
