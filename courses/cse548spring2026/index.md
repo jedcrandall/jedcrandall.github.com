@@ -19,6 +19,8 @@
 - [Secure hash functions and certificates](hashescerts.pdf)
 - [DNS attacks](dnsattacks.pdf)
 - [Siddharth's guest lecture about FFTs](CSE548-FFT-GUEST-LECTURE.pdf)
+- [Symmetric crypto through the 80s and DES](symmetricryptothru80s.pdf)
+- [AES, cipher modes, and padding oracle attacks](aesciphermodes.pdf)
 - More to come...
 
 # Reading assignments...
@@ -32,8 +34,6 @@
 - Read [the AES proposal](https://www.cs.miami.edu/home/burt/learning/Csc688.012/rijndael/rijndael_doc_V2.pdf) by February 12th
 - Read [the ZMap paper](https://zmap.io/paper.pdf) and [this survey of IPID side channels](https://dl.acm.org/doi/pdf/10.1145/3776582) by Febryary 19th
 - Read [the classic OTR paper](https://otr.cypherpunks.ca/otr-wpes.pdf) and [the seminal Diffie-Hellman paper](https://jedcrandall.github.io/courses/cse548spring2025/diffiehellman.pdf), and find and stream CITIZEN FOUR (directed by Laura Poitras) by March 5th
--[Symmetric crypto through the 80s and DES](symmetricryptothru80s.pdf)
--[AES, cipher modes, and padding oracle attacks](aesciphermodes.pdf)
 - More to come...
 
 # Homework assignments
