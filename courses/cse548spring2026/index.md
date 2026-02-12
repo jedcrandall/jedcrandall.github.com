@@ -21,6 +21,7 @@
 - [Siddharth's guest lecture about FFTs](CSE548-FFT-GUEST-LECTURE.pdf)
 - [Symmetric crypto through the 80s and DES](symmetricryptothru80s.pdf)
 - [AES, cipher modes, and padding oracle attacks](aesciphermodes.pdf)
+- [More notes on AES](aesnotes.pdf)
 - More to come...
 
 # Reading assignments...
