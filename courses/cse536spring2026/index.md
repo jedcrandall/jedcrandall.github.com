@@ -20,6 +20,7 @@
 - [Virtual memory, Rowhammer, and Meltdown](virtualmemrowhammerandmeltdown.pdf)
 - [Some notes about virtual memory](virtualmemorynotes.pdf)
 - [File systems](fs.pdf)
+- A couple of attacks we went over in class for Werewolves are [here](attack.py) and [here](attack.sh)
 - More to come...
 
 # Reading assignments...
