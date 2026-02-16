@@ -22,6 +22,7 @@
 - [Symmetric crypto through the 80s and DES](symmetricryptothru80s.pdf)
 - [AES, cipher modes, and padding oracle attacks](aesciphermodes.pdf)
 - [More notes on AES](aesnotes.pdf)
+- [Port scans, information theory, and side channels](portscansidechannels.pdf), and [a related demo](zmapmath.py) showing Zmap's non-crypto application of finite fields
 - More to come...
 
 # Reading assignments...
