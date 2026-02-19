@@ -21,6 +21,8 @@
 - [Some notes about virtual memory](virtualmemorynotes.pdf)
 - [File systems](fs.pdf)
 - A couple of attacks we went over in class for Werewolves are [here](attack.py) and [here](attack.sh)
+- [Some notes on solving TOCTTOU](tocttou.pdf)
+- [Basic terminology of distributed systems](distributedsystemsintro.pdf)
 - More to come...
 
 # Reading assignments...
