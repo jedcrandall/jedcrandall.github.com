@@ -23,6 +23,7 @@
 - A couple of attacks we went over in class for Werewolves are [here](attack.py) and [here](attack.sh)
 - [Some notes on solving TOCTTOU](tocttou.pdf)
 - [Basic terminology of distributed systems](distributedsystemsintro.pdf)
+- [Concurrency terminology](concurrnecy.pdf)
 - More to come...
 
 # Reading assignments...
