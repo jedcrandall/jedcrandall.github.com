@@ -24,6 +24,7 @@
 - [Some notes on solving TOCTTOU](tocttou.pdf)
 - [Basic terminology of distributed systems](distributedsystemsintro.pdf)
 - [Concurrency terminology](concurrnecy.pdf)
+- [Asynchronous I/O](asynchio.pdf)
 - More to come...
 
 # Reading assignments...
