@@ -25,6 +25,8 @@
 - [Basic terminology of distributed systems](distributedsystemsintro.pdf)
 - [Concurrency terminology](concurrnecy.pdf)
 - [Asynchronous I/O](asynchio.pdf)
+- [Exam 1 instructions](exam1instructions.png)
+- [Malware](malware.pdf)
 - More to come...
 
 # Reading assignments...
