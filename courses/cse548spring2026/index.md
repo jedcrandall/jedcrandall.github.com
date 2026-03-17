@@ -24,6 +24,8 @@
 - [More notes on AES](aesnotes.pdf)
 - [Port scans, information theory, and side channels](portscansidechannels.pdf), and [a related demo](zmapmath.py) showing Zmap's non-crypto application of finite fields
 - [Diffie-Hellman, OTR, and Signal](dhotrsignal.pdf)
+- [Extended Euclidean Algorithm](euclidean.pdf), and some [source code](eea.py) to generate [slides with examples](eeuclidexample.pdf)
+- [RSA, semantic security](rsa.pdf)
 - More to come...
 
 # Reading assignments...

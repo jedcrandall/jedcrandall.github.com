@@ -27,6 +27,7 @@
 - [Asynchronous I/O](asynchio.pdf)
 - [Exam 1 instructions](exam1instructions.png)
 - [Malware](malware.pdf)
+- [Distributed shared memory, consistency models, RPC](dsmandrpc.pdf)
 - More to come...
 
 # Reading assignments...
