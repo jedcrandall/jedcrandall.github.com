@@ -26,6 +26,7 @@
 - [Diffie-Hellman, OTR, and Signal](dhotrsignal.pdf)
 - [Extended Euclidean Algorithm](euclidean.pdf), and some [source code](eea.py) to generate [slides with examples](eeuclidexample.pdf)
 - [RSA, semantic security](rsa.pdf)
+- [Authentication, exploits, web security, etc.](websecauth.pdf)
 - More to come...
 
 # Reading assignments...
