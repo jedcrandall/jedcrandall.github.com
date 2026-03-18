@@ -28,6 +28,7 @@
 - [Exam 1 instructions](exam1instructions.png)
 - [Malware](malware.pdf)
 - [Distributed shared memory, consistency models, RPC](dsmandrpc.pdf)
+- [Exam 1 example](exam1-0.pdf) and the [distribution of scores](exam1distribution.png)
 - More to come...
 
 # Reading assignments...
@@ -40,6 +41,7 @@
 - [Fixing races for fun and profit](borisov.pdf), please read by February 19th
 - [BK16](https://arsenalexperts.com/persistent/resources/pages/BK-Case-Rona-Wilson-Report-II.zip) (Link is broken, so archived [here](BK-Case-Rona-Wilson-Report-II.zip)), please read by February 26th
 - Here's the [midterm](midterm.pdf) and [final](final.pdf) from when I taught the class two years ago, if you're interested.
+- [RPC](https://jedcrandall.github.io/courses/cse536spring2024/birrell842.pdf), please read by March 19th
 - More to come...
 
 # Homework assignments
