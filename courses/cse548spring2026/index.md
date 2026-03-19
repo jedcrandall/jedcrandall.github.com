@@ -41,6 +41,7 @@
 - Read [the ZMap paper](https://zmap.io/paper.pdf) and [this survey of IPID side channels](https://dl.acm.org/doi/pdf/10.1145/3776582) by February 19th
 - Read [the classic OTR paper](https://otr.cypherpunks.ca/otr-wpes.pdf) and [the seminal Diffie-Hellman paper](https://jedcrandall.github.io/courses/cse548spring2025/diffiehellman.pdf), and find and stream CITIZEN FOUR (directed by Laura Poitras) by March 5th
 - Read [the classic RSA paper](https://jedcrandall.github.io/courses/cse548spring2025/Rsapaper.pdf) and [WireWatch](https://m0na.net/papers/wirewatch.pdf) by March 19th
+- Read [https://web.cs.ucdavis.edu/~su/publications/popl06.pdf](Su and Wassermann)  and [The Halting Problems of Network Stack Insecurity](https://langsec.org/papers/Sassaman.pdf) by March 26th
 - More to come...
 
 # Homework assignments
