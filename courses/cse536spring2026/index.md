@@ -30,6 +30,7 @@
 - [Distributed shared memory, consistency models, RPC](dsmandrpc.pdf)
 - [Exam 1 example](exam1-0.pdf) and the [distribution of scores](exam1distribution.png)
 - [Some info about syscall traces for the next assignment](syscalls.pdf)
+- [Message passing and microkernels](messagepassingmicrokernels.pdf)
 - More to come...
 
 # Reading assignments...
