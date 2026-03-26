@@ -31,6 +31,7 @@
 - [Exam 1 example](exam1-0.pdf) and the [distribution of scores](exam1distribution.png)
 - [Some info about syscall traces for the next assignment](syscalls.pdf)
 - [Message passing and microkernels](messagepassingmicrokernels.pdf)
+- [More on the CAP theorem, and some miscellania](capmisc.pdf)
 - More to come...
 
 # Reading assignments...
@@ -44,6 +45,7 @@
 - [BK16](https://arsenalexperts.com/persistent/resources/pages/BK-Case-Rona-Wilson-Report-II.zip) (Link is broken, so archived [here](BK-Case-Rona-Wilson-Report-II.zip)), please read by February 26th
 - Here's the [midterm](midterm.pdf) and [final](final.pdf) from when I taught the class two years ago, if you're interested.
 - [RPC](https://jedcrandall.github.io/courses/cse536spring2024/birrell842.pdf), please read by March 19th
+- [CAP Twelve Years Later: How the "Rules" Have Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf), please read by April 2nd
 - More to come...
 
 # Homework assignments
