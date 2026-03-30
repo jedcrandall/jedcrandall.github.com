@@ -32,6 +32,7 @@
 - [Some info about syscall traces for the next assignment](syscalls.pdf)
 - [Message passing and microkernels](messagepassingmicrokernels.pdf)
 - [More on the CAP theorem, and some miscellania](capmisc.pdf)
+- [Linux's EEVDF scheduler](schedlinux.pdf)
 - More to come...
 
 # Reading assignments...
