@@ -27,6 +27,7 @@
 - [Extended Euclidean Algorithm](euclidean.pdf), and some [source code](eea.py) to generate [slides with examples](eeuclidexample.pdf)
 - [RSA, semantic security](rsa.pdf)
 - [Authentication, exploits, web security, etc.](websecauth.pdf)
+- [Intro to NIDS and NIDS evasion](nidsintro.pdf)
 - More to come...
 
 # Reading assignments...
