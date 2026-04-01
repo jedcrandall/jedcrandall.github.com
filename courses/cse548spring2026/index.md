@@ -43,6 +43,10 @@
 - Read [the classic OTR paper](https://otr.cypherpunks.ca/otr-wpes.pdf) and [the seminal Diffie-Hellman paper](https://jedcrandall.github.io/courses/cse548spring2025/diffiehellman.pdf), and find and stream CITIZEN FOUR (directed by Laura Poitras) by March 5th
 - Read [the classic RSA paper](https://jedcrandall.github.io/courses/cse548spring2025/Rsapaper.pdf) and [WireWatch](https://m0na.net/papers/wirewatch.pdf) by March 19th
 - Read [Su and Wassermann](https://web.cs.ucdavis.edu/~su/publications/popl06.pdf) and [The Halting Problems of Network Stack Insecurity](https://langsec.org/papers/Sassaman.pdf) by March 26th
+- Read [Dharmapurikar and Paxson](https://www.usenix.org/legacy/publications/library/proceedings/sec05/tech/full_papers/dharmapurikar/dharmapurikar.pdf) and [the TSPU paper](https://diwenx.com/assets/files/tspu-imc22.pdf) by April 2nd
+- Read [the original Tor paper](https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf) and [OpenVPN is Open to VPN Fingerprinting](https://www.usenix.org/conference/usenixsecurity22/presentation/xue-diwen) by April 9th
+- Read [Computer Viruses: Theory and Experiments](https://www.cnsr.ictas.vt.edu/QEpaper/cohen.pdf) and [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf), and find and watch [Black Code](https://en.wikipedia.org/wiki/Black_Code_\(film\)) by April 23rd
+- Read [Quantum Algorithms Revisited](https://arxiv.org/abs/quant-ph/9708016) by April 30th 
 - More to come...
 
 # Homework assignments
