@@ -47,7 +47,6 @@
 - Read [the original Tor paper](https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf) and [OpenVPN is Open to VPN Fingerprinting](https://www.usenix.org/conference/usenixsecurity22/presentation/xue-diwen) by April 9th
 - Read [Computer Viruses: Theory and Experiments](https://www.cnsr.ictas.vt.edu/QEpaper/cohen.pdf) and [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf), and find and watch [Black Code](https://en.wikipedia.org/wiki/Black_Code_\(film\)) by April 23rd
 - Read [Quantum Algorithms Revisited](https://arxiv.org/abs/quant-ph/9708016) by April 30th 
-- More to come...
 
 # Homework assignments
 
