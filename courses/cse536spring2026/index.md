@@ -47,7 +47,7 @@
 - Here's the [midterm](midterm.pdf) and [final](final.pdf) from when I taught the class two years ago, if you're interested.
 - [RPC](https://jedcrandall.github.io/courses/cse536spring2024/birrell842.pdf), please read by March 19th
 - [CAP Twelve Years Later: How the "Rules" Have Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf), please read by April 2nd
-- More to come...
+- Optional reading: [Earliest Eligible Virtual Deadline First](https://web.archive.org/web/20260225090858/https://citeseerx.ist.psu.edu/document?doi=805acf7726282721504c8f00575d91ebfd750564&repid=rep1&type=pdf)
 
 # Homework assignments
 
