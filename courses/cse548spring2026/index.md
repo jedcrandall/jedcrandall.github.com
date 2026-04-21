@@ -28,6 +28,7 @@
 - [RSA, semantic security](rsa.pdf)
 - [Authentication, exploits, web security, etc.](websecauth.pdf)
 - [Intro to NIDS and NIDS evasion](nidsintro.pdf)
+- [Malware](malware.pdf)
 - More to come...
 
 # Reading assignments...
