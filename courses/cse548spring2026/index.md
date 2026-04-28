@@ -29,6 +29,7 @@
 - [Authentication, exploits, web security, etc.](websecauth.pdf)
 - [Intro to NIDS and NIDS evasion](nidsintro.pdf)
 - [Malware](malware.pdf)
+- [Quantum](quantum.pdf)
 - More to come...
 
 # Reading assignments...
