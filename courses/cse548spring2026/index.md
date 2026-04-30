@@ -28,6 +28,7 @@
 - [RSA, semantic security](rsa.pdf)
 - [Authentication, exploits, web security, etc.](websecauth.pdf)
 - [Intro to NIDS and NIDS evasion](nidsintro.pdf)
+- [Tor](tor.pdf)
 - [Malware](malware.pdf)
 - [Quantum](quantum.pdf)
 - More to come...
