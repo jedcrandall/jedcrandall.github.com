@@ -5,6 +5,7 @@
 - Course Name: CSE 536, Advanced Computer Network Security
 - Semester: Fall 2026
 - Instructor: [Jed Crandall](https://jedcrandall.github.io)
+- Meeting location: Tempe Campus BYENG 209
 - Canvas is where to find other course info
 
 # Syllabus

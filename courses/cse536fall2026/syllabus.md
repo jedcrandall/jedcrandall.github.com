@@ -6,7 +6,7 @@
 - Instructor: Jed Crandall
 - Email: jedimaestro@asu.edu
 - Meeting Times: Tuesdays and Thursdays, 9:00am to 10:15am
-- Meeting Location: Tempe 
+- Meeting location: Tempe Campus BYENG 209
 - Online Discussions: Canvas
 
 ## Exam dates and info
