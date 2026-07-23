@@ -1,0 +1,119 @@
+<h1 id="course-info">Course Info</h1>
+<ul>
+<li>Course Name: CSE 536, Advanced Computer Network Security</li>
+<li>Semester: Fall 2026</li>
+<li>Instructor: <a href="https://jedcrandall.github.io">Jed
+Crandall</a></li>
+<li>Canvas is where to find other course info</li>
+</ul>
+<h1 id="syllabus">Syllabus</h1>
+<ul>
+<li>The syllabus is <a
+href="https://jedcrandall.github.io/courses/cse536fall2026/syllabus.pdf">here</a>.</li>
+</ul>
+<h1 id="slides">Slides</h1>
+<ul>
+<li>More to come…</li>
+</ul>
+<h1
+id="six-required-reading-assignments-the-date-on-which-youre-responsible-for-each-on-pop-quizzes-is-listed-in-parentheses">Six
+required reading assignments (the date on which you’re responsible for
+each on pop quizzes is listed in parentheses)</h1>
+<ul>
+<li><a href="https://phrack.org/issues/7/3">Hacker’s Manifesto</a>
+(August 25th)</li>
+<li><a href="https://dsf.berkeley.edu/cs262/unix.pdf">The UNIX
+Time-Sharing System</a> (September 1st)</li>
+<li><a
+href="https://papers.agoric.com/assets/pdf/papers/capability-myths-demolished.pdf">Capability
+Myths Demolished</a> (September 15th)</li>
+<li><a href="https://dl.acm.org/doi/10.1145/234215.234473">Toward Real
+Microkernels</a> (September 29th)</li>
+<li><a
+href="https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf">CAP
+Twelve Years Later: How the “Rules” Have Changed</a> (October 15th)</li>
+<li><a
+href="https://web.archive.org/web/20260225090858/https://citeseerx.ist.psu.edu/document?doi=805acf7726282721504c8f00575d91ebfd750564&amp;repid=rep1&amp;type=pdf">Earliest
+Eligible Virtual Deadline First</a> (October 27th)</li>
+</ul>
+<h1 id="optional-reading-assignments">Optional reading assignments</h1>
+<ul>
+<li><a href="https://malicious.life/episode/episode-166/">Malicious Life
+podcast about Operation Sundevil</a></li>
+<li>Two papers about Werewolves, <a
+href="https://jedcrandall.github.io/courses/cse536spring2024/CSET12.pdf">the
+original</a> and <a
+href="https://jedcrandall.github.io/courses/cse536spring2024/3GSE2014.pdf">a
+follow-up</a></li>
+<li><a
+href="https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html">Rowhammer</a></li>
+<li><a href="sec18-lipp.pdf">MELTDOWN</a></li>
+<li><a href="borisov.pdf">Fixing races for fun and profit</a></li>
+<li><a
+href="https://arsenalexperts.com/persistent/resources/pages/BK-Case-Rona-Wilson-Report-II.zip">BK16</a>
+(Link is broken, so archived <a
+href="BK-Case-Rona-Wilson-Report-II.zip">here</a>)</li>
+<li>More to come…</li>
+</ul>
+<h1 id="homework-assignments">Homework assignments</h1>
+<ul>
+<li>Will be posted in Canvas only</li>
+</ul>
+<h1 id="what-well-be-covering-this-semester">What we’ll be covering this
+semester</h1>
+<ul>
+<li>UNIX basics
+<ul>
+<li>Processes, files, file systems</li>
+<li>Kernel memory management</li>
+<li>Pipes, wait queues, etc.</li>
+<li>Security basics, user IDs, authentication, TOCTTOU, etc.</li>
+<li>Rowhammer and MELTDOWN</li>
+<li>Concurrency (pthreads, mutexes, etc.)</li>
+<li>Virtual memory (LRU, MGLRU, etc.)</li>
+<li>Interprocess communication (System V RPC, messaging queues,
+semaphores, shared memory, etc.)</li>
+</ul></li>
+<li>Advanced IPC and isolation mechanisms
+<ul>
+<li>Landlock, jails, cgroups</li>
+<li>SELinux and Mandatory Access Controls</li>
+<li>Virtualization, Docker containers</li>
+<li>Wayland</li>
+<li>Android Binders</li>
+<li>Asynchronous I/O (e.g., <code>epoll</code> and
+<code>io\_uring</code></li>
+<li>Advanced multithreading</li>
+<li>NTSYNC</li>
+<li>Microkernels</li>
+<li>Capabilities</li>
+<li>DBUS, XNU, Mach and message passing</li>
+</ul></li>
+<li>Distributed systems
+<ul>
+<li>The CAP theorem</li>
+<li>REST, SOAP, PACELC, etc.</li>
+<li>Two generals problem<br />
+</li>
+<li>Partially ordered events</li>
+<li>Message passing and RPC</li>
+<li>Distributed shared memory</li>
+</ul></li>
+<li>Advanced topics in Linux CPU scheduling
+<ul>
+<li>Multilevel Feedback Queues (Solaris), CFS, and other background</li>
+<li>Linux’s Earliest Eligible Deadline First scheduler</li>
+<li>Applications of <code>sched\_ext</code> to AI</li>
+<li>Linux’s real-time scheduling</li>
+<li>eBPF</li>
+</ul></li>
+</ul>
+<p>There will be four projects throughout the course of the semester.
+Details for each will be posted as an assignment in Canvas and you’ll
+submit through Canvas. Roughly speaking, for the first three projects
+you’ll build a Werewolves-like game, add advanced features to it (like
+asynchronous I/O or a security feature), and then make it into a
+distributed system. The fourth project will not necessarily build on
+your game (but maybe it could?). It will instead be related to Linux’s
+new EEVDF scheduler, and you can tailor the project to your own
+interests (user interfaces, AI, real-time applications, etc.).</p>
