@@ -28,31 +28,34 @@ calculator that is approved for the exams is a Casio fx-115ES PLUS.  If I catch
 you with any other calculator out during the exam that will be treated as an
 academic integrity violation. 
 
-Something due during final exam slot, which is:
+There will not be a physical final exam, but you will work on a project
+throughout the semester and a writeup for that project, which will be due
+(online) at the end of the final exam period:
 
 - Wednesday, December 9th, 7:30am to 9:20am
 
 
 ## Office Hours
 
-9am to 11am on Wednesdays.  I will be [on
-Jitsi](https://meet.jit.si/CrandallSpring2026OfficeHours) (the word Jitsi is the
-link).  I don't plan to hold physical office hours this semester (that might
-change).
+10:30am to 11:30am on Mondays, Tuesdays, Wednesdays, and Thursdays.  I will be
+[on Jitsi](https://meet.jit.si/CrandallFall2026OfficeHours) (the word Jitsi is
+the link).  I don't plan to hold physical office hours this semester, but if
+you prefer to meet physically you can grab me after class and we can walk to my
+office together.  On Tuesdays and Thursdays I teach CSE 536 from 9am to
+10:15am, you can find the location on my website.
+
 
 ## TA and office hours
 
-Your TA is Siddharth Ghule.  You can contact him through Canvas.  Don't contact
+Your TA is TBD.  You can contact him through Canvas.  Don't contact
 him directly through email or other means other than Canvas.  His office hours
-are Tuesdays and Thursdays 1pm to 3pm on
-[Zoom](https://asu.zoom.us/j/84070287126?pwd=Y8DEfqvsPbZt0zq9Cf3tNYywPm9itW.1)
-(the word Zoom is the link).
+are TBD.
 
 ## Course Description
 
-"Comprehensive understanding of network security and corresponding solutions,
-including cryptography, access control, secure Web transactions, e-mail
-security, and viruses."
+
+"Practical network security exposure and hands-on experience about basic security concepts, case studies and useful tools."
+
 
 ## Course Objectives
 
@@ -78,7 +81,11 @@ security, and viruses."
 
 ## Enrollment Requirements
 
-Prerequisite(s): Computer Engineering or Computer Science graduate student or Data Science, Analytics and Engineering PhD or Software Engineering MS OR Online Computer Science nondegree-seeking graduate student.
+Prerequisite(s) with C or better: Computer Science BS, Computer Systems
+Engineering BSE, or Software Engineering BS major; CSE 365 OR Computer Science,
+Computer Engineering, or Software Engineering graduate student OR Visiting
+University Student.
+
 
 ## Grading Policies, Assignments, and Required Materials
 
@@ -87,18 +94,27 @@ This course basically has three threads that each form part of your grade:
 - Mathematical and conceptual fundamentals, including frequency analysis, Fast
   Fourier Transform, birthday attacks, finite fields, fast modular
 exponentiation, information theory, ring theory, the Extended Euclidean
-Algorithm, the discrete logarithm, and IP fragmentation.  This is assessed via the exams, with each exam being 25% of your grade, so 50% total.
+Algorithm, the discrete logarithm, and IP fragmentation.  This is assessed via
+the exams and pop quizzes.  Pop quizzes are 30% of your grade, and the three
+exams are each 10% of your grade, for 60% total for quizes and exams.
 - Practical tools and the analysis of digital artifacts.  There will be
-  approximately five to eight assignments, equally weighted, that together make
+  approximately five to nine assignments, equally weighted, that together make
 up 30% of your grade.
-- Research papers, both contemporary and classic.  You will write a journal
-  throughout the semester about your readings, videos, in-class discussions,
-etc. and turn it in at the end of the semester.  It will be worth 20% of your
-grade.  There may be several checkpoints throughout the semester where you
-submit your journal so far, those will not count towards the final grade.
+- A semester-long project, that is open ended and self-graded, and worth 10% of your grade.
+ 
+The percentage for your grade is out of 100% (60% exams and quizzes, 30% digital artifact assignments, 10% project).  Grades are based on the following
+scale for the overall percentage for your final grade: 
 
-The percentage for your grade is out of 100% (50% exams, 30% digital artifact assignments, 20% journal).  Grades are based on the following
-scale where x is the overall percentage for your final grade:
+- A+ 100% to 97%
+- A < 97% to 94%
+- A- < 94% to 90%
+- B+ < 90% to 87%
+- B < 87% to 84%
+- B- < 84% to 80%
+- C+ < 80% to 76%
+- C < 76% to 70%
+- D < 70% to 60%
+- E < 60% to 0%
 - A+ 100% to 97%
 - A < 97% to 94%
 - A- < 94% to 90%
@@ -118,12 +134,36 @@ missed a grade by 0.1% are happy but the students who missed it by 0.6% start
 emailing me.  It's just not tenable to adjust any scores in any way.  Grades
 will not be curved in any way, either.
 
-Attendance will not be recorded and will not be part of your grade, but regular
-attendance is expected of all students.  It will be hard to put together a quality journal if you don't come to class.
+Attendance will not be recorded and will not directly be part of your grade,
+but regular attendance is expected of all students.  Poor attendance will
+obviously affect your overall grade on pop quizzes.  There is no way to make up
+pop quizzes without involving the Dean of Students. 
 
 There is no textbook for the course, neither required nor recommended.  All
 materials used for the course lectures and assignments will be widely and
 publicly available and/or licensed open source.
+
+## Pop Quizzes
+
+Throughout the semester there will be 14 pop quizzes.  I will drop your lowest
+four scores, so each of the 10 remaining pop quizzes is worth 3% of your grade.
+There is no extra credit for acing all 14 pop quizzes, this is expected of all
+students.  The quizzes should be easy if you're paying attention in lectures
+and doing the reading.  The quizzes are based on the readings, but will
+typically also be covered by lectures.
+
+The pop quizzes could be on any day that the class meets, and they may be in
+the beginning of class, in the middle, or towards the end of the 1 hour and 15
+minute period.  The rules for pop quizes are exactly the same as for exams (see
+above).  
+
+The pop quizzes will be closed book and closed notes, and no scratch paper is
+allowed.  You can have nothing on your desk except for the quiz itself, a pen
+or pencil, and an approved calculator.  You will need a calculator.  It is
+extremely foolish to attempt the quizzes without a calculator.  The only
+calculator that is approved for the exams is a Casio fx-115ES PLUS.  If I catch
+you with any other calculator out during the exam that will be treated as an
+academic integrity violation. 
 
 ## Absence policies and the conditions under which assigned work can be made up
 
@@ -240,71 +280,51 @@ ASU Police Department (ASU PD) and the Office of the Dean of Students.
 
 ## Course Topics
 
-The class can be roughly divided into three parts, which are not covered in this  order:
+- WiFi security; and crypto from symmetric ciphers through Diffie-Hellman
+    - Basic tool usage, including SDR software and Wireshark
+    - Attacks on radio communications
+    - Fourier transforms and Haddamard transforms
+    - Wireless network security (case studies: WEP, WPA, WPA2, WPA3)
+    - Secure hash functions and authentication, rogue certificates (as a preview for RSA and TLS)
+    - Basic math of crypto (finite fields, modular exponentiation, information theory, birthday paradox)
+    - Symmetric crypto (case studies: historical ciphers, DES, AES, RC4), including  stream ciphers, block chain modes, and linear and differential cryptanalysis
+    - Fermat's Little Theorem and the Extended Euclidean Algorithm
+    - Asymmetric crypto for key exchange (case study: Diffie-Hellman)
+    - Logjam attack
 
-1. Confidentiality and cryptography
-- Basic math of crypto (finite fields, modular exponentiation)
-- Basic tool usage, including Wireshark, tshark, and tcpflow
-- Physical, link, and routing layer security (case studies: ARP, BGP)
-- Symmetric crypto (case studies: historical ciphers, DES, AES, RC4), including  stream ciphers, block chain modes, and linear and differential cryptanalysis
-- Wireless network security (case studies: WEP, WPA, WPA2, WPA3)
-- Asymmetric crypto for key exchange (case study: Diffie-Hellman)
-- Malleable encryption, perfect forward secrecy, future secrecy, and other advanced topics (case study: Signal messenger)
-- Quantum computing and its impact on cryptography
+- Securing network protocols (DNS, BGP, etc.) and sockets (TCP/IP, etc.); and crypto from perfect forward secrecy through RSA
+    - Ring theory
+    - RSA, non-repudiation, and semantic security
+    - Padding Oracle Attacks
+    - Basic tool usage, including tshark, tcpflow, Linux commands for investigating DNS
+    - Physical, link, and routing layer security (case studies: ARP, BGP)
+    - DNS security
+    - DNSSEC and RPKI
+    - Malleable encryption, perfect forward secrecy, future secrecy, and other advanced topics (case study: Signal messenger)
 
-2. Availability and socket security 
-- Information theory
-- Basic tool usage, including nmap and Tor
-- Firewalls
-- Network Intrusion Detection (NIDS) and NIDS evasion
-- Internet censorship and evasion (case studies: China's Great Firewall, Russia's TSPU, Tor)
-- Analysis of encrypted traffic
-- Port scans
-- Denial of Service (DoS)
-- Side channel attacks
+- Port scans, exploits, malware, and network intrusion detection
+    - Basic tool usage, including nmap, Suricata, and Tor
+    - Port scans
+    - Denial of Service (DoS)
+    - Side channel attacks
+    - Firewalls
+    - VPNs
+    - NIDS and NIDS evasion
+    - Internet censorship and evasion (case studies: China's Great Firewall, Russia's TSPU, Tor)
+    - Analysis of encrypted traffic
+    - Post tag systems
+    - Exploits, malware, and targeted attacks
+    - Ransomware attacks, crypto backdoors, and other topics in cryptovirology
+    - Application security (case studies: TLS and SSH, including the xz backdoor)
 
-3. Integrity and application-level security
-- Fourier transforms and Haddamard transforms
-- Ring theory
-- Experimental design
-- RSA, non-repudiation, and semantic security
-- Secure hash functions and authentication
-- Application security (case studies: TLS and SSH, including the xz backdoor)
-- DNS security
-- Malware and targeted attacks
-- Software Defined Radio and attacks on radio communications
+- Quantum computers and networks
+    - How not to shoot yourself in the eye with a laser
+    - Quantum computing and its impact on cryptography
+    - Quantum network security
+    - Quantum Key Distribution
+    - Quantum-safe cryptography
 
-## Assigned readings
 
-For details and links for the assigned reading, please see the course website.  The readings will include, but are not limited to...
-
-- Short Chosen-Prefix Collisions for MD5 and the Creation of a Rogue CA
-  Certificate, by Stevens et al.
-- We Chat, They Watch How International Users Unwittingly Build up WeChat’s
-  Chinese Censorship Apparatus, by Knockel et al.
-- The Final Nail in WEP's Coffin, by Bittau et al. (about WiFi security)
-- AES proposal: rijndael, by Daemen and Rijmen (about the most common block
-  encryption algorithm in use today)
-- Fragmentation Considered Poisonous, by Herzberg and Shulman (about DNS cache
-  poisoning)
-- Off-The-Record Messaging, by Borisov et al. (about encryption for privacy)
-- The classic Diffie-Hellman and RSA papers
-- WireWatch: Measuring the security of proprietary network encryption in the
-  global Android ecosystem, by Wang et al.
-- The Essence of Command Injection Attacks in Web Applications, by Su and
-  Wassermann
-- The Halting Problems of Network Stack Insecurity, by Sassaman et al.
-- ZMap, by Durumeric et al. (fast port scanning)
-- A Taxonomy and Comparative Analysis of IPv4 Identifier Selection Correctness,
-  Security, and Performance, by Daymude et al.
-- Robust TCP Stream Reassembly In the Presence of Adversaries, by Dharmapurikar
-  and Paxson (a classic paper about network intrusion detection)
-- TSPU: Russia’s Decentralized Censorship System, by Xue et al. 
-- OpenVPN is Open to VPN Fingerprinting, by Xue et al.
-- Tor: The Second-Generation Onion Router, by Dingledine et al.
-- Reflections on Trusting Trust, by Thompson (about Trojan Horses)
-- Computer viruses: Theory and experiments, by Cohen
-- Quantum Algorithms Revisited, by Cleve et al.
 
 ## Homework Due Dates
 
