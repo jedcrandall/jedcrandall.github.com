@@ -105,10 +105,10 @@ publicly available and/or licensed open source.
 
 Throughout the semester there will be 14 pop quizzes.  I will drop your lowest
 four scores, so each of the 10 remaining pop quizzes is worth 3% of your grade.
-There is a 1% (of overall course grade) extra credit for acing all 14 pop
-quizzes.  The quizzes should be easy if you're paying attention in lectures and
-doing the reading.  The quizzes are based on the readings, but will typically
-also be covered by lectures.
+There is no extra credit for acing all 14 pop quizzes, this is expected of all
+students.  The quizzes should be easy if you're paying attention in lectures
+and doing the reading.  The quizzes are based on the readings, but will
+typically also be covered by lectures.
 
 The pop quizzes could be on any day that the class meets, and they may be in the
 beginning of class, in the middle, or towards the end of the 1 hour and 15
