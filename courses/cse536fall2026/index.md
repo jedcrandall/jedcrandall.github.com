@@ -56,7 +56,7 @@
     - Virtualization, Docker containers 
     - Wayland 
     - Android Binders 
-    - Asynchronous I/O (e.g., `epoll` and `io\_uring`
+    - Asynchronous I/O (e.g., `epoll` and `io_uring`)
     - Advanced multithreading 
     - NTSYNC 
     - Microkernels 
@@ -72,7 +72,7 @@
 - Advanced topics in Linux CPU scheduling
     - Multilevel Feedback Queues (Solaris), CFS, and other background 
     - Linux's Earliest Eligible Deadline First scheduler 
-    - Applications of `sched\_ext` to AI 
+    - Applications of `sched_ext` to AI 
     - Linux's real-time scheduling 
     - eBPF  
 
