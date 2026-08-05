@@ -47,8 +47,8 @@ office together.  On Tuesdays and Thursdays I teach CSE 536 from 9am to
 
 ## TA and office hours
 
-Your TA is TBD.  You can contact him through Canvas.  Don't contact
-him directly through email or other means other than Canvas.  His office hours
+Your TA is TBD.  You can contact [them] through Canvas.  Don't contact [them]
+directly through email or other means other than Canvas.  [Their] office hours
 are TBD.
 
 ## Course Description
@@ -94,13 +94,15 @@ This course basically has three threads that each form part of your grade:
 - Mathematical and conceptual fundamentals, including frequency analysis, Fast
   Fourier Transform, birthday attacks, finite fields, fast modular
 exponentiation, information theory, ring theory, the Extended Euclidean
-Algorithm, the discrete logarithm, and IP fragmentation.  This is assessed via
-the exams and pop quizzes.  Pop quizzes are 30% of your grade, and the three
-exams are each 10% of your grade, for 60% total for quizes and exams.
+Algorithm, the discrete logarithm, IP fragmentation, and Post tag systems.
+This is assessed via the exams and pop quizzes.  Pop quizzes are 30% of your
+grade, and the three exams are each 10% of your grade, for 60% total for quizes
+and exams.
 - Practical tools and the analysis of digital artifacts.  There will be
   approximately five to nine assignments, equally weighted, that together make
-up 30% of your grade.
-- A semester-long project, that is open ended and self-graded, and worth 10% of your grade.
+up 30% of your grade.  This is "homework" and is the only assessed part of your grade which can be turned in late via the 1% policy mentioned below.
+- A semester-long project, that is open ended and self-graded, and worth 10% of
+  your grade.
  
 The percentage for your grade is out of 100% (60% exams and quizzes, 30% digital artifact assignments, 10% project).  Grades are based on the following
 scale for the overall percentage for your final grade: 
@@ -115,16 +117,7 @@ scale for the overall percentage for your final grade:
 - C < 76% to 70%
 - D < 70% to 60%
 - E < 60% to 0%
-- A+ 100% to 97%
-- A < 97% to 94%
-- A- < 94% to 90%
-- B+ < 90% to 87%
-- B < 87% to 84%
-- B- < 84% to 80%
-- C+ < 80% to 76%
-- C < 76% to 70%
-- D < 70% to 60%
-- E < 60% to 0%
+
 
 There will be no adjustments to grades at the end of the semester.  If you
 missed a certain grade by a small fraction of a percent, I can't do anything
