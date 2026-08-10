@@ -150,7 +150,10 @@ Everyone is entitled to the following course-specific late policy for every
 assignment except for the final project summary, but this cannot combine it
 with any other form of absence forgiveness (e.g., any of them from below): For
 every hour that an assignment is turned in late, you will lose 1% of the grade.
-Note that a little after four days late the assignment is worth 0%.
+Note that a little after four days late the assignment is worth 0%.   This 1%
+policy does not apply to quizzes or the final project, it can only be applied
+to homeworks (i.e., hands-on assignments) and the four projects that are due
+during the course of the semester.
 
 Excused absences for classes will be given without penalty to the grade in the
 case of (1) a university-sanctioned event [ACD
@@ -307,7 +310,10 @@ For details and links for the assigned readings, please see the course website.
 Homework due dates will be posted in advance in Canvas and announced
 in class.  All times will be Mountain Standard Time, i.e., Arizona time.  Late
 submissions will be accepted with a 1% reduction of score per hour, as
-described above.
+described above.  This 1%
+policy does not apply to quizzes or the final project, it can only be applied
+to homeworks (i.e., hands-on assignments) and the four projects that are due
+during the course of the semester.
 
 ## Academic Integrity
 
