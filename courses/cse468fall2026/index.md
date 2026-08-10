@@ -10,7 +10,7 @@
 
 # Syllabus
 
-- The syllabus is [here](https://jedcrandall.github.io/courses/cse468spring2026/syllabus.pdf).
+- The syllabus is [here](https://jedcrandall.github.io/courses/cse468fall2026/syllabus.pdf).
 
 # Slides
 

@@ -164,7 +164,7 @@ Everyone is entitled to the following course-specific late policy for every
 homework assignment, but cannot combine it with any other form of absence
 forgiveness (e.g., any of them from below): For every hour that an assignment
 is turned in late, you will lose 1% of the grade.  Note that a little after
-four days late the assignment is worth 0%.
+four days late the assignment is worth 0%.  Digital Artifacts assignments are the only homework in this class, so this 1% late policy can't be applied to quizzes, exams, or the final project.
 
 Excused absences for classes will be given without penalty to the grade in the
 case of (1) a university-sanctioned event [ACD
@@ -321,10 +321,12 @@ ASU Police Department (ASU PD) and the Office of the Dean of Students.
 
 ## Homework Due Dates
 
-Homework due dates will be posted in advance in Canvas and announced
-in class.  All times will be Mountain Standard Time, i.e., Arizona time.  Late
-submissions will be accepted with a 1% reduction of score per hour, as
-described above.
+Homework due dates will be posted in advance in Canvas and announced in class.
+All times will be Mountain Standard Time, i.e., Arizona time.  Late submissions
+will be accepted with a 1% reduction of score per hour, as described above.
+Digital Artifacts assignments are the only homework in this class, so this 1%
+late policy can't be applied to quizzes, exams, or the final project.
+
 
 ## Academic Integrity
 
