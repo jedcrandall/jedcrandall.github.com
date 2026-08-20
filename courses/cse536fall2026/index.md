@@ -14,6 +14,7 @@
 
 # Slides
 
+- [Course intro](firstdayofclasses536.pdf)
 - More to come...
 
 # Six required reading assignments (the date on which you're responsible for each on pop quizzes is listed in parentheses)
