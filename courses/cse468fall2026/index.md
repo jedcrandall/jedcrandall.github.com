@@ -14,7 +14,7 @@
 
 # Slides
 
-- More to come...
+- [Course intro](468firstday.pdf)
 
 # Homework assignments
 
