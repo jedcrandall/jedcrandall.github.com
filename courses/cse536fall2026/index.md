@@ -21,7 +21,7 @@
 # Six required reading assignments (the date on which you're responsible for each on pop quizzes is listed in parentheses)
 
 - [Hacker's Manifesto](https://phrack.org/issues/7/3) (August 25th)
-- [The UNIX Time-Sharing System](https://dsf.berkeley.edu/cs262/unix.pdf) (September 1st) 
+- [The UNIX Time-Sharing System](https://dl.acm.org/doi/10.1145/361011.361061) (September 1st) 
 - [Capability Myths Demolished](https://papers.agoric.com/assets/pdf/papers/capability-myths-demolished.pdf) (September 15th)
 - [Toward Real Microkernels](https://dl.acm.org/doi/10.1145/234215.234473) (September 29th)
 - [CAP Twelve Years Later: How the "Rules" Have Changed](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/brewer-cap.pdf) (October 15th)
