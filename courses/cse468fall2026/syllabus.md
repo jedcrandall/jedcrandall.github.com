@@ -37,11 +37,9 @@ throughout the semester and a writeup for that project, which will be due
 
 ## Office Hours
 
-10:30am to 11:30am on Mondays, Tuesdays, Wednesdays, and Thursdays.  I will be
+10:30am to 11:30am on Mondays, Tuesdays, Wednesdays, and Thursdays.  Office hours will start right outside of whatever class I teach at 9am, and migrate to my office in Biodesign B.  For the last half, i.e., starting at 11am, I will be
 [on Jitsi](https://meet.jit.si/CrandallFall2026OfficeHours) (the word Jitsi is
-the link).  I don't plan to hold physical office hours this semester, but if
-you prefer to meet physically you can grab me after class and we can walk to my
-office together.  On Tuesdays and Thursdays I teach CSE 536 from 9am to
+the link).  On Tuesdays and Thursdays I teach CSE 536 from 9am to
 10:15am, you can find the location on my website.
 
 
