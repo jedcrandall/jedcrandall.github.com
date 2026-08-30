@@ -15,6 +15,10 @@
 # Slides
 
 - [Course intro](468firstday.pdf)
+- [Fast Fourier Transforms (FFTs)](fft.pdf)
+- [WiFi security, stream ciphers, info theory, birthday paradox](wififftandstreamciphersplusinfotheoryandbday.pdf)
+- [DES and symmetric crypto through the 80s](symmetricryptothru80s.pdf)
+- [More symmetric crypto: AES and cipher modes](aesciphermodes.pdf)
 
 # Homework assignments
 
@@ -65,7 +69,3 @@
     - Quantum network security
     - Quantum Key Distribution
     - Quantum-safe cryptography
-
-
-
-
