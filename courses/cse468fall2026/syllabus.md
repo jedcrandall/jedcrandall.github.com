@@ -45,9 +45,12 @@ the link).  On Tuesdays and Thursdays I teach CSE 536 from 9am to
 
 ## TA and office hours
 
-Your TA is TBD.  You can contact [them] through Canvas.  Don't contact [them]
-directly through email or other means other than Canvas.  [Their] office hours
-are TBD.
+Your TA is Kaustav Chanda.  You can contact him through Canvas.  Don't contact him
+directly through email or other means other than Canvas.  His office hours
+are:
+
+- Wednesdays, 10:30am to 11:30am, in-person in BYENG 201.
+- Saturdays, 9am to 10am on [Zoom](https://asu.zoom.us/j/6359151744) (the word Zoom is the link)
 
 ## Course Description
 
