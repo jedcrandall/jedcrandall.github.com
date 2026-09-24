@@ -19,6 +19,7 @@
 - Werewolves source code is [here](werewolves-fall26.tgz)
 - [Virtual memory, Rowhammer, MELTDOWN](virtualmemrowhammerandmeltdown.pdf)
 - [Filesystems, forensics, TOCTTOU](fs.pdf)
+- Some Werewolves scripts are [here](wwscripts.tgz), and some info about one of them is [here](pipes.png)
 - More to come...
 
 # Six required reading assignments (the date on which you're responsible for each on pop quizzes is listed in parentheses)
