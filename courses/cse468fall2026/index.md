@@ -19,7 +19,7 @@
 - [WiFi security, stream ciphers, info theory, birthday paradox](wififftandstreamciphersplusinfotheoryandbday.pdf)
 - [DES and symmetric crypto through the 80s](symmetricryptothru80s.pdf)
 - [More symmetric crypto: AES and cipher modes](aesciphermodes.pdf)
-- [Diffie-Hellman, OTR, and Signal](dhotrsignal.odp)
+- [Diffie-Hellman, OTR, and Signal](dhotrsignal.pdf)
 
 # Homework assignments
 
