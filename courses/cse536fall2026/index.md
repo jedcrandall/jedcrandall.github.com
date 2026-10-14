@@ -23,6 +23,7 @@
 - [Asynchronous I/O](asynchio.pdf)
 - [Concurrency in the Linux kernel and user space](concurrency.pdf)
 - [Advanced IPC and synchronization](ipcandsynch.pdf)
+- [Capabilities and other isolation mechanisms](capsandisolation.pdf)
 - More to come...
 
 # Six required reading assignments (the date on which you're responsible for each on pop quizzes is listed in parentheses)
