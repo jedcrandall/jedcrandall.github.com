@@ -22,6 +22,8 @@
 - Some Werewolves scripts are [here](wwscripts.tgz), and some info about one of them is [here](pipes.png)
 - [Asynchronous I/O](asynchio.pdf)
 - [Concurrency in the Linux kernel and user space](concurrency.pdf)
+- [Advanced IPC and synchronization](ipcandsynch.pdf)
+- [Capabilities and other isolation mechanisms](capsandisolation.pdf)
 - [Distributed systems](distributedsystemsintro.pdf)
 - More to come...
 
