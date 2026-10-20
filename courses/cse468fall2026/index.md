@@ -22,6 +22,12 @@
 - [Diffie-Hellman, OTR, and Signal](dhotrsignal.pdf)
 - [How to show your work for Exam 2](exam2-49-fermat-answered.pdf), and [here](exam2-49-completed.pdf) is an updated one with the full exam instructions and both questions solved while showing the work.
 - [Shared Intermediary State Confusion (DNS cache poisoning as an example](sisc.pdf)
+- [TLS certificates and RSA](certsandrsa.pdf)
+- [Extended Euclidean Algorithm](euclidean.pdf)
+- [A script](eea.py) to generate EEA examples [like this](euclidexample.pdf)
+- [Secure hash functions and why not to use MD5](hash.pdf)
+- [RSA and semantic security, e.g., OAEP](rsasemanticsecurity.pdf)
+
 
 # Homework assignments
 

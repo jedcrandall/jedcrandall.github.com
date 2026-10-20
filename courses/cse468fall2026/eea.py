@@ -1,5 +1,5 @@
 # Run it with something like this...
-# python3 eea.py > euclideexample.tex && pdflatex euclidexample.tex
+# python3 eea.py > euclidexample.tex && pdflatex euclidexample.tex
 
 import random
 
