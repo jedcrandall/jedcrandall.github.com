@@ -24,7 +24,7 @@
 - [Shared Intermediary State Confusion (DNS cache poisoning as an example](sisc.pdf)
 - [TLS certificates and RSA](certsandrsa.pdf)
 - [Extended Euclidean Algorithm](euclidean.pdf)
-- [A script](eea.py) to generate EEA examples [like this](euclidexample.pdf)
+- [A script](eea.py) to generate EEA examples [like this](euclidexample.pdf) (note that for p = 31 and q = 37, Euler's totient is 1080, hence the last example)
 - [Secure hash functions and why not to use MD5](hash.pdf)
 - [RSA and semantic security, e.g., OAEP](rsasemanticsecurity.pdf)
 
