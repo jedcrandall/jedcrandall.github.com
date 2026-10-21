@@ -161,6 +161,31 @@ if True:#for i in range(10):
        print("$" + str(k) + "^{" + str(-1) + "} = " + str(j) + " - " + str(-t) + " = " + str(j-(-t)) + "$") 
     print(slidebottom)
 
+if True:#for i in range(10):
+    print(slidetop)
+    j = 1080#random.randint(2,20)
+    k = 17#random.randint(2,20)
+    print("egcd($" + str(j) + "$,$" + str(k) + "$) == ???\\\\\\smallskip")
+    g, stepsittook, s, t = egcd(j, k, 500)
+    print(slidebottom)
+    print(slidetop)
+    print("egcd($" + str(j) + "$,$" + str(k) + "$) == $" + str(g) + "$ in " + str(stepsittook) + " steps\\\\\\smallskip")
+    print(str(g) + " == " + str(s) + " $\\times$ " + str(j) + " $+$ " + str(t) + " $\\times$ " + str(k))
+    print(slidebottom)
+    for i in range(stepsittook + 1):
+        print(slidetop)
+        print("egcd($" + str(j) + "$,$" + str(k) + "$) == ???\\\\\\smallskip")
+        g, stepsittookthistime, s, t = egcd(j, k, i)
+        print(slidebottom)
+    print(slidetop)
+    print("egcd($" + str(j) + "$,$" + str(k) + "$) == $" + str(g) + "$\\\\\\smallskip")
+    print(str(g) + " == " + str(s) + " $\\times$ " + str(j) + " $+$ " + str(t) + " $\\times$ " + str(k) + "\\\\\\smallskip")
+
+    if (t > 0):
+       print("$" + str(k) + "^{" + str(-1) + "} = " + str(t) + "$") 
+    else:
+       print("$" + str(k) + "^{" + str(-1) + "} = " + str(j) + " - " + str(-t) + " = " + str(j-(-t)) + "$") 
+    print(slidebottom)
 
 
 print("\\end{document}")
