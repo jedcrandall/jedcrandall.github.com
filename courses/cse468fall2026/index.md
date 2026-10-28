@@ -27,6 +27,7 @@
 - [A script](eea.py) to generate EEA examples [like this](euclidexample.pdf) (note that for p = 31 and q = 37, Euler's totient is 1080, hence the last example)
 - [Secure hash functions and why not to use MD5](hash.pdf)
 - [RSA and semantic security, e.g., OAEP](rsasemanticsecurity.pdf)
+- [Port scans and side channels](portscansidechannels.pdf)
 
 
 # Homework assignments
