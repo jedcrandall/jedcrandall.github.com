@@ -1,0 +1,321 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">Antirez idle scan: two synchronized universes</title><desc id="desc">Animated IPv4 idle scan. The attacker sends identical packets in both worlds. Closed ports cause no extra zombie reset; open ports cause an extra zombie reset, consuming the IP ID missing from the attacker’s observations. Three ports are tested in a 78-second loop. Every packet carries colored source and destination IP dots. Spoofed SYNs have the zombie’s source IP.</desc>
+<style>text{font-family:Inter,Arial,sans-serif}.mono{font-family:Consolas,monospace}</style>
+<rect width="1600" height="1000" fill="#0b1220"/>
+<text x="48" y="53" font-size="38" fill="#e9eef8" text-anchor="start" font-weight="750">IDLE SCAN</text>
+<text x="292" y="53" font-size="30" fill="#b4c3da" text-anchor="start" font-weight="400">Same attacker packets. Two possible worlds.</text>
+<text x="48" y="88" font-size="22" fill="#91a4c1" text-anchor="start" font-weight="400">Antirez’s IP-ID side channel</text>
+<rect x="32" y="112" width="1536" height="376" rx="22" fill="#121e30" stroke="#344866" stroke-width="2"/>
+<text x="56" y="148" font-size="24" fill="#b4c3da" text-anchor="start" font-weight="700">VICTIM PORTS CLOSED</text>
+<text x="1542" y="148" font-size="23" fill="#71e0d2" text-anchor="end" font-weight="700">+1 per probe: closed | filtered</text>
+<rect x="110" y="162" width="240" height="67" rx="13" fill="#21324b" stroke="#80baff" stroke-width="2"/>
+<circle cx="130" cy="187" r="8" fill="#80baff"/>
+<text x="235" y="189" font-size="24" fill="#80baff" text-anchor="middle" font-weight="700">ATTACKER</text>
+<text x="230" y="215" font-size="19" fill="#80baff" text-anchor="middle" font-weight="400">192.0.2.10</text>
+<rect x="680" y="162" width="240" height="67" rx="13" fill="#21324b" stroke="#71e0d2" stroke-width="2"/>
+<circle cx="700" cy="187" r="8" fill="#71e0d2"/>
+<text x="805" y="189" font-size="24" fill="#71e0d2" text-anchor="middle" font-weight="700">ZOMBIE</text>
+<text x="800" y="215" font-size="19" fill="#71e0d2" text-anchor="middle" font-weight="400">192.0.2.20</text>
+<rect x="1250" y="162" width="240" height="67" rx="13" fill="#21324b" stroke="#ffb36c" stroke-width="2"/>
+<circle cx="1270" cy="187" r="8" fill="#ffb36c"/>
+<text x="1375" y="189" font-size="24" fill="#ffb36c" text-anchor="middle" font-weight="700">VICTIM</text>
+<text x="1370" y="215" font-size="19" fill="#ffb36c" text-anchor="middle" font-weight="400">192.0.2.30</text>
+<path d="M230 260H800" stroke="#3a4e69" stroke-width="2" stroke-dasharray="6 7"/>
+<path d="M230 316H1370" stroke="#3a4e69" stroke-width="2" stroke-dasharray="6 7"/>
+<path d="M800 372H1370" stroke="#3a4e69" stroke-width="2" stroke-dasharray="6 7"/>
+<text x="75" y="265" font-size="18" fill="#91a4c1" text-anchor="start" font-weight="400">probe</text>
+<text x="75" y="321" font-size="18" fill="#91a4c1" text-anchor="start" font-weight="400">spoof</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.02692307692307692;0.06538461538461539;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 260)">
+<animateTransform attributeName="transform" type="translate" values="230 260;230 260;800 260;800 260" keyTimes="0;0.02692307692307692;0.06538461538461539;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-115.0" y="-27" width="230" height="54" rx="12" fill="#80baff"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN/ACK →</text>
+<g class="packet-addresses" data-source="192.0.2.10" data-destination="192.0.2.20"><title>Source IP 192.0.2.10 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#80baff"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.07307692307692307;0.11538461538461539;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 260)">
+<animateTransform attributeName="transform" type="translate" values="800 260;800 260;230 260;230 260" keyTimes="0;0.07307692307692307;0.11538461538461539;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-130.0" y="-27" width="260" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST · IP ID 100</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.10"><title>Source IP 192.0.2.20 → destination IP 192.0.2.10</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#80baff"/></g>
+</g></g>
+<text x="56" y="442" font-size="22" fill="#b4c3da" text-anchor="start" font-weight="600">RST IP IDs seen</text>
+<text x="56" y="468" font-size="20" fill="#91a4c1" text-anchor="start" font-weight="400">by the attacker</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.11538461538461539;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="293" y="422" width="84" height="48" rx="10" fill="#193c42" stroke="#71e0d2" stroke-width="2"/><text x="335" y="454" font-size="27" fill="#71e0d2" text-anchor="middle" font-weight="750">100</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.3538461538461538;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="398" y="422" width="84" height="48" rx="10" fill="#193c42" stroke="#71e0d2" stroke-width="2"/><text x="440" y="454" font-size="27" fill="#71e0d2" text-anchor="middle" font-weight="750">101</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5846153846153845;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="503" y="422" width="84" height="48" rx="10" fill="#193c42" stroke="#71e0d2" stroke-width="2"/><text x="545" y="454" font-size="27" fill="#71e0d2" text-anchor="middle" font-weight="750">102</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.8153846153846154;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="608" y="422" width="84" height="48" rx="10" fill="#193c42" stroke="#71e0d2" stroke-width="2"/><text x="650" y="454" font-size="27" fill="#71e0d2" text-anchor="middle" font-weight="750">103</text></g>
+<text x="840" y="446" font-size="26" fill="#71e0d2" text-anchor="start" font-weight="700">100 → 101 → 102 → 103</text>
+<text x="840" y="470" font-size="20" fill="#b4c3da" text-anchor="start" font-weight="400">Only the probe replies consume IDs.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.15384615384615385;0.1903846153846154;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 316)">
+<animateTransform attributeName="transform" type="translate" values="230 316;230 316;1370 316;1370 316" keyTimes="0;0.15384615384615385;0.1903846153846154;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-150.0" y="-27" width="300" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN → :22 (spoofed)</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.30"><title>Source IP 192.0.2.20 → destination IP 192.0.2.30</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#ffb36c"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.2;0.23076923076923078;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(1370 372)">
+<animateTransform attributeName="transform" type="translate" values="1370 372;1370 372;800 372;800 372" keyTimes="0;0.2;0.23076923076923078;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-95.0" y="-27" width="190" height="54" rx="12" fill="#ffb36c"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST</text>
+<g class="packet-addresses" data-source="192.0.2.30" data-destination="192.0.2.20"><title>Source IP 192.0.2.30 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#ffb36c"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.23653846153846156;0.275;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><text x="800" y="378" font-size="24" fill="#c3cee0" text-anchor="middle" font-weight="600">RST ignored; no reply</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.27884615384615385;0.3096153846153846;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 260)">
+<animateTransform attributeName="transform" type="translate" values="230 260;230 260;800 260;800 260" keyTimes="0;0.27884615384615385;0.3096153846153846;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-115.0" y="-27" width="230" height="54" rx="12" fill="#80baff"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN/ACK →</text>
+<g class="packet-addresses" data-source="192.0.2.10" data-destination="192.0.2.20"><title>Source IP 192.0.2.10 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#80baff"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.3173076923076923;0.3538461538461538;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 260)">
+<animateTransform attributeName="transform" type="translate" values="800 260;800 260;230 260;230 260" keyTimes="0;0.3173076923076923;0.3538461538461538;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-130.0" y="-27" width="260" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST · IP ID 101</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.10"><title>Source IP 192.0.2.20 → destination IP 192.0.2.10</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#80baff"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.38461538461538464;0.4211538461538461;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 316)">
+<animateTransform attributeName="transform" type="translate" values="230 316;230 316;1370 316;1370 316" keyTimes="0;0.38461538461538464;0.4211538461538461;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-150.0" y="-27" width="300" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN → :80 (spoofed)</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.30"><title>Source IP 192.0.2.20 → destination IP 192.0.2.30</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#ffb36c"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.43076923076923074;0.46153846153846156;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(1370 372)">
+<animateTransform attributeName="transform" type="translate" values="1370 372;1370 372;800 372;800 372" keyTimes="0;0.43076923076923074;0.46153846153846156;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-95.0" y="-27" width="190" height="54" rx="12" fill="#ffb36c"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST</text>
+<g class="packet-addresses" data-source="192.0.2.30" data-destination="192.0.2.20"><title>Source IP 192.0.2.30 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#ffb36c"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.4673076923076923;0.5057692307692307;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><text x="800" y="378" font-size="24" fill="#c3cee0" text-anchor="middle" font-weight="600">RST ignored; no reply</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5096153846153846;0.5403846153846155;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 260)">
+<animateTransform attributeName="transform" type="translate" values="230 260;230 260;800 260;800 260" keyTimes="0;0.5096153846153846;0.5403846153846155;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-115.0" y="-27" width="230" height="54" rx="12" fill="#80baff"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN/ACK →</text>
+<g class="packet-addresses" data-source="192.0.2.10" data-destination="192.0.2.20"><title>Source IP 192.0.2.10 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#80baff"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5480769230769231;0.5846153846153845;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 260)">
+<animateTransform attributeName="transform" type="translate" values="800 260;800 260;230 260;230 260" keyTimes="0;0.5480769230769231;0.5846153846153845;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-130.0" y="-27" width="260" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST · IP ID 102</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.10"><title>Source IP 192.0.2.20 → destination IP 192.0.2.10</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#80baff"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.6153846153846154;0.6519230769230769;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 316)">
+<animateTransform attributeName="transform" type="translate" values="230 316;230 316;1370 316;1370 316" keyTimes="0;0.6153846153846154;0.6519230769230769;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-150.0" y="-27" width="300" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN → :443 (spoofed)</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.30"><title>Source IP 192.0.2.20 → destination IP 192.0.2.30</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#ffb36c"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.6615384615384615;0.6923076923076923;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(1370 372)">
+<animateTransform attributeName="transform" type="translate" values="1370 372;1370 372;800 372;800 372" keyTimes="0;0.6615384615384615;0.6923076923076923;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-95.0" y="-27" width="190" height="54" rx="12" fill="#ffb36c"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST</text>
+<g class="packet-addresses" data-source="192.0.2.30" data-destination="192.0.2.20"><title>Source IP 192.0.2.30 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#ffb36c"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.698076923076923;0.7365384615384615;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><text x="800" y="378" font-size="24" fill="#c3cee0" text-anchor="middle" font-weight="600">RST ignored; no reply</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.7403846153846154;0.7711538461538462;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 260)">
+<animateTransform attributeName="transform" type="translate" values="230 260;230 260;800 260;800 260" keyTimes="0;0.7403846153846154;0.7711538461538462;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-115.0" y="-27" width="230" height="54" rx="12" fill="#80baff"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN/ACK →</text>
+<g class="packet-addresses" data-source="192.0.2.10" data-destination="192.0.2.20"><title>Source IP 192.0.2.10 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#80baff"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.7788461538461539;0.8153846153846154;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 260)">
+<animateTransform attributeName="transform" type="translate" values="800 260;800 260;230 260;230 260" keyTimes="0;0.7788461538461539;0.8153846153846154;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-130.0" y="-27" width="260" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST · IP ID 103</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.10"><title>Source IP 192.0.2.20 → destination IP 192.0.2.10</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#80baff"/></g>
+</g></g>
+<rect x="32" y="506" width="1536" height="376" rx="22" fill="#121e30" stroke="#ffb36c" stroke-width="2"/>
+<text x="56" y="542" font-size="24" fill="#ffb36c" text-anchor="start" font-weight="700">VICTIM PORTS OPEN</text>
+<text x="1542" y="542" font-size="23" fill="#ffb36c" text-anchor="end" font-weight="700">+2 per probe: OPEN</text>
+<rect x="110" y="556" width="240" height="67" rx="13" fill="#21324b" stroke="#80baff" stroke-width="2"/>
+<circle cx="130" cy="581" r="8" fill="#80baff"/>
+<text x="235" y="583" font-size="24" fill="#80baff" text-anchor="middle" font-weight="700">ATTACKER</text>
+<text x="230" y="609" font-size="19" fill="#80baff" text-anchor="middle" font-weight="400">192.0.2.10</text>
+<rect x="680" y="556" width="240" height="67" rx="13" fill="#21324b" stroke="#71e0d2" stroke-width="2"/>
+<circle cx="700" cy="581" r="8" fill="#71e0d2"/>
+<text x="805" y="583" font-size="24" fill="#71e0d2" text-anchor="middle" font-weight="700">ZOMBIE</text>
+<text x="800" y="609" font-size="19" fill="#71e0d2" text-anchor="middle" font-weight="400">192.0.2.20</text>
+<rect x="1250" y="556" width="240" height="67" rx="13" fill="#21324b" stroke="#ffb36c" stroke-width="2"/>
+<circle cx="1270" cy="581" r="8" fill="#ffb36c"/>
+<text x="1375" y="583" font-size="24" fill="#ffb36c" text-anchor="middle" font-weight="700">VICTIM</text>
+<text x="1370" y="609" font-size="19" fill="#ffb36c" text-anchor="middle" font-weight="400">192.0.2.30</text>
+<path d="M230 654H800" stroke="#3a4e69" stroke-width="2" stroke-dasharray="6 7"/>
+<path d="M230 710H1370" stroke="#3a4e69" stroke-width="2" stroke-dasharray="6 7"/>
+<path d="M800 766H1370" stroke="#3a4e69" stroke-width="2" stroke-dasharray="6 7"/>
+<text x="75" y="659" font-size="18" fill="#91a4c1" text-anchor="start" font-weight="400">probe</text>
+<text x="75" y="715" font-size="18" fill="#91a4c1" text-anchor="start" font-weight="400">spoof</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.02692307692307692;0.06538461538461539;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 654)">
+<animateTransform attributeName="transform" type="translate" values="230 654;230 654;800 654;800 654" keyTimes="0;0.02692307692307692;0.06538461538461539;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-115.0" y="-27" width="230" height="54" rx="12" fill="#80baff"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN/ACK →</text>
+<g class="packet-addresses" data-source="192.0.2.10" data-destination="192.0.2.20"><title>Source IP 192.0.2.10 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#80baff"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.07307692307692307;0.11538461538461539;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 654)">
+<animateTransform attributeName="transform" type="translate" values="800 654;800 654;230 654;230 654" keyTimes="0;0.07307692307692307;0.11538461538461539;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-130.0" y="-27" width="260" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST · IP ID 100</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.10"><title>Source IP 192.0.2.20 → destination IP 192.0.2.10</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#80baff"/></g>
+</g></g>
+<text x="56" y="836" font-size="22" fill="#b4c3da" text-anchor="start" font-weight="600">RST IP IDs seen</text>
+<text x="56" y="862" font-size="20" fill="#91a4c1" text-anchor="start" font-weight="400">by the attacker</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.11538461538461539;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="293" y="816" width="84" height="48" rx="10" fill="#193c42" stroke="#71e0d2" stroke-width="2"/><text x="335" y="848" font-size="27" fill="#71e0d2" text-anchor="middle" font-weight="750">100</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.2692307692307692;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="398" y="816" width="84" height="48" rx="10" fill="#3d2530" stroke="#ffb36c" stroke-width="2" stroke-dasharray="5 4"/><text x="440" y="848" font-size="27" fill="#ffb36c" text-anchor="middle" font-weight="750">101</text><path d="M412 830L468 851" stroke="#ffb36c" stroke-width="3"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.3538461538461538;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="503" y="816" width="84" height="48" rx="10" fill="#193c42" stroke="#71e0d2" stroke-width="2"/><text x="545" y="848" font-size="27" fill="#71e0d2" text-anchor="middle" font-weight="750">102</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="608" y="816" width="84" height="48" rx="10" fill="#3d2530" stroke="#ffb36c" stroke-width="2" stroke-dasharray="5 4"/><text x="650" y="848" font-size="27" fill="#ffb36c" text-anchor="middle" font-weight="750">103</text><path d="M622 830L678 851" stroke="#ffb36c" stroke-width="3"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5846153846153845;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="713" y="816" width="84" height="48" rx="10" fill="#193c42" stroke="#71e0d2" stroke-width="2"/><text x="755" y="848" font-size="27" fill="#71e0d2" text-anchor="middle" font-weight="750">104</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.7307692307692307;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="818" y="816" width="84" height="48" rx="10" fill="#3d2530" stroke="#ffb36c" stroke-width="2" stroke-dasharray="5 4"/><text x="860" y="848" font-size="27" fill="#ffb36c" text-anchor="middle" font-weight="750">105</text><path d="M832 830L888 851" stroke="#ffb36c" stroke-width="3"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.8153846153846154;0.9999615384615385;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><rect x="923" y="816" width="84" height="48" rx="10" fill="#193c42" stroke="#71e0d2" stroke-width="2"/><text x="965" y="848" font-size="27" fill="#71e0d2" text-anchor="middle" font-weight="750">106</text></g>
+<text x="1114" y="838" font-size="23" fill="#ffb36c" text-anchor="start" font-weight="600">Skipped ID = RST to victim</text>
+<text x="1114" y="863" font-size="20" fill="#b4c3da" text-anchor="start" font-weight="400">An extra packet uses the number.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.15384615384615385;0.1903846153846154;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 710)">
+<animateTransform attributeName="transform" type="translate" values="230 710;230 710;1370 710;1370 710" keyTimes="0;0.15384615384615385;0.1903846153846154;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-150.0" y="-27" width="300" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN → :22 (spoofed)</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.30"><title>Source IP 192.0.2.20 → destination IP 192.0.2.30</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#ffb36c"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.2;0.23076923076923078;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(1370 766)">
+<animateTransform attributeName="transform" type="translate" values="1370 766;1370 766;800 766;800 766" keyTimes="0;0.2;0.23076923076923078;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-95.0" y="-27" width="190" height="54" rx="12" fill="#ffb36c"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← SYN/ACK</text>
+<g class="packet-addresses" data-source="192.0.2.30" data-destination="192.0.2.20"><title>Source IP 192.0.2.30 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#ffb36c"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.23846153846153847;0.2692307692307692;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 766)">
+<animateTransform attributeName="transform" type="translate" values="800 766;800 766;1370 766;1370 766" keyTimes="0;0.23846153846153847;0.2692307692307692;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-140.0" y="-27" width="280" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">RST → · IP ID 101</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.30"><title>Source IP 192.0.2.20 → destination IP 192.0.2.30</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#ffb36c"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.27884615384615385;0.3096153846153846;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 654)">
+<animateTransform attributeName="transform" type="translate" values="230 654;230 654;800 654;800 654" keyTimes="0;0.27884615384615385;0.3096153846153846;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-115.0" y="-27" width="230" height="54" rx="12" fill="#80baff"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN/ACK →</text>
+<g class="packet-addresses" data-source="192.0.2.10" data-destination="192.0.2.20"><title>Source IP 192.0.2.10 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#80baff"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.3173076923076923;0.3538461538461538;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 654)">
+<animateTransform attributeName="transform" type="translate" values="800 654;800 654;230 654;230 654" keyTimes="0;0.3173076923076923;0.3538461538461538;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-130.0" y="-27" width="260" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST · IP ID 102</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.10"><title>Source IP 192.0.2.20 → destination IP 192.0.2.10</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#80baff"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.38461538461538464;0.4211538461538461;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 710)">
+<animateTransform attributeName="transform" type="translate" values="230 710;230 710;1370 710;1370 710" keyTimes="0;0.38461538461538464;0.4211538461538461;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-150.0" y="-27" width="300" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN → :80 (spoofed)</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.30"><title>Source IP 192.0.2.20 → destination IP 192.0.2.30</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#ffb36c"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.43076923076923074;0.46153846153846156;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(1370 766)">
+<animateTransform attributeName="transform" type="translate" values="1370 766;1370 766;800 766;800 766" keyTimes="0;0.43076923076923074;0.46153846153846156;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-95.0" y="-27" width="190" height="54" rx="12" fill="#ffb36c"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← SYN/ACK</text>
+<g class="packet-addresses" data-source="192.0.2.30" data-destination="192.0.2.20"><title>Source IP 192.0.2.30 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#ffb36c"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.46923076923076923;0.5;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 766)">
+<animateTransform attributeName="transform" type="translate" values="800 766;800 766;1370 766;1370 766" keyTimes="0;0.46923076923076923;0.5;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-140.0" y="-27" width="280" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">RST → · IP ID 103</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.30"><title>Source IP 192.0.2.20 → destination IP 192.0.2.30</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#ffb36c"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5096153846153846;0.5403846153846155;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 654)">
+<animateTransform attributeName="transform" type="translate" values="230 654;230 654;800 654;800 654" keyTimes="0;0.5096153846153846;0.5403846153846155;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-115.0" y="-27" width="230" height="54" rx="12" fill="#80baff"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN/ACK →</text>
+<g class="packet-addresses" data-source="192.0.2.10" data-destination="192.0.2.20"><title>Source IP 192.0.2.10 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#80baff"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5480769230769231;0.5846153846153845;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 654)">
+<animateTransform attributeName="transform" type="translate" values="800 654;800 654;230 654;230 654" keyTimes="0;0.5480769230769231;0.5846153846153845;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-130.0" y="-27" width="260" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST · IP ID 104</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.10"><title>Source IP 192.0.2.20 → destination IP 192.0.2.10</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#80baff"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.6153846153846154;0.6519230769230769;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 710)">
+<animateTransform attributeName="transform" type="translate" values="230 710;230 710;1370 710;1370 710" keyTimes="0;0.6153846153846154;0.6519230769230769;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-150.0" y="-27" width="300" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN → :443 (spoofed)</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.30"><title>Source IP 192.0.2.20 → destination IP 192.0.2.30</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#ffb36c"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.6615384615384615;0.6923076923076923;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(1370 766)">
+<animateTransform attributeName="transform" type="translate" values="1370 766;1370 766;800 766;800 766" keyTimes="0;0.6615384615384615;0.6923076923076923;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-95.0" y="-27" width="190" height="54" rx="12" fill="#ffb36c"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← SYN/ACK</text>
+<g class="packet-addresses" data-source="192.0.2.30" data-destination="192.0.2.20"><title>Source IP 192.0.2.30 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#ffb36c"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.7;0.7307692307692307;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 766)">
+<animateTransform attributeName="transform" type="translate" values="800 766;800 766;1370 766;1370 766" keyTimes="0;0.7;0.7307692307692307;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-140.0" y="-27" width="280" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">RST → · IP ID 105</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.30"><title>Source IP 192.0.2.20 → destination IP 192.0.2.30</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#ffb36c"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.7403846153846154;0.7711538461538462;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(230 654)">
+<animateTransform attributeName="transform" type="translate" values="230 654;230 654;800 654;800 654" keyTimes="0;0.7403846153846154;0.7711538461538462;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-115.0" y="-27" width="230" height="54" rx="12" fill="#80baff"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">SYN/ACK →</text>
+<g class="packet-addresses" data-source="192.0.2.10" data-destination="192.0.2.20"><title>Source IP 192.0.2.10 → destination IP 192.0.2.20</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#80baff"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#71e0d2"/></g>
+</g></g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.7788461538461539;0.8153846153846154;1" calcMode="discrete" dur="78s" repeatCount="indefinite"/><g transform="translate(800 654)">
+<animateTransform attributeName="transform" type="translate" values="800 654;800 654;230 654;230 654" keyTimes="0;0.7788461538461539;0.8153846153846154;1" dur="78s" repeatCount="indefinite"/>
+<rect x="-130.0" y="-27" width="260" height="54" rx="12" fill="#71e0d2"/>
+<text x="0" y="-5" font-size="22" fill="#07121d" text-anchor="middle" font-weight="700">← RST · IP ID 106</text>
+<g class="packet-addresses" data-source="192.0.2.20" data-destination="192.0.2.10"><title>Source IP 192.0.2.20 → destination IP 192.0.2.10</title>
+<rect x="-54" y="1" width="108" height="23" rx="10" fill="#0b1220"/>
+<circle cx="-34" cy="12" r="7" fill="#71e0d2"/><path d="M-18 12H18M12 7L18 12L12 17" fill="none" stroke="#e9eef8" stroke-width="2"/><circle cx="34" cy="12" r="7" fill="#80baff"/></g>
+</g></g>
+<text x="48" y="921" font-size="25" fill="#e9eef8" text-anchor="start" font-weight="700">Never reply to a RST with a RST</text>
+<text x="500" y="921" font-size="24" fill="#b4c3da" text-anchor="start" font-weight="400">Zombie: idle; one global IPv4 IP-ID counter; +1 for every outgoing packet.</text>
+<a href="https://seclists.org/bugtraq/1998/Dec/79" target="_blank"><text x="1542" y="960" font-size="20" fill="#80baff" text-anchor="end" font-weight="400">Antirez’s original Bugtraq post · 18 Dec 1998 ↗</text></a>
+</svg>
