@@ -28,6 +28,7 @@
 - [Secure hash functions and why not to use MD5](hash.pdf)
 - [RSA and semantic security, e.g., OAEP](rsasemanticsecurity.pdf)
 - [Port scans and side channels](portscansidechannels.pdf)
+- [Web security, authentication, exploits](websecauth.pdf)
 
 
 # Homework assignments
