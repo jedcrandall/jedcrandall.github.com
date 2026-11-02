@@ -25,6 +25,7 @@
 - [Advanced IPC and synchronization](ipcandsynch.pdf)
 - [Capabilities and other isolation mechanisms](capsandisolation.pdf)
 - [Distributed systems](distributedsystemsintro.pdf)
+- [More distributed systems](moredistributedsystems.pdf)
 - More to come...
 
 # Six required reading assignments (the date on which you're responsible for each on pop quizzes is listed in parentheses)
@@ -97,4 +98,3 @@ instead be related to Linux's new EEVDF scheduler, and you can tailor the
 project to your own interests (user interfaces, AI, real-time applications,
 etc.).
 
-moredistributedsystems.pdf
