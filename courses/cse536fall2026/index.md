@@ -97,3 +97,4 @@ instead be related to Linux's new EEVDF scheduler, and you can tailor the
 project to your own interests (user interfaces, AI, real-time applications,
 etc.).
 
+moredistributedsystems.pdf
