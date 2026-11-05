@@ -26,6 +26,7 @@
 - [Capabilities and other isolation mechanisms](capsandisolation.pdf)
 - [Distributed systems](distributedsystemsintro.pdf)
 - [More distributed systems](moredistributedsystems.pdf)
+- [Malware](malware.pdf)
 - More to come...
 
 # Six required reading assignments (the date on which you're responsible for each on pop quizzes is listed in parentheses)
