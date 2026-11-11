@@ -29,6 +29,7 @@
 - [RSA and semantic security, e.g., OAEP](rsasemanticsecurity.pdf)
 - [Port scans and side channels](portscansidechannels.pdf)
 - [Web security, authentication, exploits](websecauth.pdf)
+- [Network Intrusion Detection Systems and NIDS evasion](nidsintro.pdf)
 
 
 # Homework assignments
