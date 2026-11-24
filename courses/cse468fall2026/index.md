@@ -30,6 +30,7 @@
 - [Port scans and side channels](portscansidechannels.pdf)
 - [Web security, authentication, exploits](websecauth.pdf)
 - [Network Intrusion Detection Systems and NIDS evasion](nidsintro.pdf)
+- [Malware](malware.pdf)
 
 
 # Homework assignments
