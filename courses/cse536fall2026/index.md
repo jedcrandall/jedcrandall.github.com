@@ -28,6 +28,7 @@
 - [More distributed systems](moredistributedsystems.pdf)
 - [Malware](malware.pdf)
 - [Linux's EEVDF scheduler (and the CFS scheduler it replaced)](schedlinux.pdf)
+- [Hard real time scheduling in Linux](realtime.pdf)
 - More to come...
 
 # Six required reading assignments (the date on which you're responsible for each on pop quizzes is listed in parentheses)
